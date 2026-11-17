@@ -191,7 +191,7 @@
     {
       "name": "IPTV总包366",
       "type": 0,
-      "url": "https://gitee.com/chen-huanlong/libretv-live/raw/master/live-all3.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/17993040/media-list@main/live-all3.m3u",
       "playerType": 1,
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     },
