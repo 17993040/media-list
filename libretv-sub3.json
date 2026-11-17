@@ -77,7 +77,12 @@
   "liveSources": [
     {
       "name": "IPTV 总包（366 频道 · 6 组）",
-      "url": "https://cdn.jsdelivr.net/gh/17993040/media-list@main/live-all3.m3u",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    },
+    {
+      "name": "IPTV 总包（raw 直连备用）",
+      "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
