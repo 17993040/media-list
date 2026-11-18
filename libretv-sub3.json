@@ -1,5 +1,5 @@
 {
-  "name": "陈焕龙 影音源总包 v5（6 组 331 频道 · 逐条测活）",
+  "name": "陈焕龙 影音源总包 v5（6 组 589 频道 · 逐条测活）",
   "version": 2,
   "exportedAt": 0,
   "sources": [
@@ -34,6 +34,11 @@
       "isAdult": false
     },
     {
+      "name": "海外资源",
+      "url": "https://api.haiwaiapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
       "name": "天空资源",
       "url": "https://api.tiankongapi.com/api.php/provide/vod/at/json",
       "isAdult": false
@@ -46,6 +51,11 @@
     {
       "name": "暴风资源",
       "url": "https://bfzyapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "快车资源",
+      "url": "https://caiji.kuaichezy.com/api.php/provide/vod/at/json",
       "isAdult": false
     },
     {
@@ -81,7 +91,7 @@
   ],
   "liveSources": [
     {
-      "name": "IPTV 总包（331 频道 · 6 组）",
+      "name": "IPTV 总包（589 频道 · 6 组）",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
@@ -91,7 +101,7 @@
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
-      "name": "IPTV 网页直连版（110 个 https 频道）",
+      "name": "IPTV 网页直连版（213 个 https 频道）",
       "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-web.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     }
