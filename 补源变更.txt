@@ -1,47 +1,47 @@
-﻿【本次补源报告】2026-11-18 19:08（北京时间）
-直播总数：307   （上轮 340）
-新增直播：1 条（新源 0 / 复活 1）    删除直播：34 条
-对账：307 = 上轮 340 + 新增 1 - 删除 34  ✅ 对得上
+﻿【本次补源报告】2026-11-18 19:50（北京时间）
+直播总数：331   （上轮 307）
+新增直播：31 条（新源 2 / 复活 29）    删除直播：4 条
+对账：331 = 上轮 307 + 新增 31 - 删除 4 应为 334，实际差 -3 条（底稿与上轮不完全一致）
 点播源：共 15 个    新增 0 个    剔除 0 个
 
-一、新增的直播频道（新源 0 条 + 复活 1 条）
-  1. 浙江留学   http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8  （复活）
+一、新增的直播频道（新源 2 条 + 复活 29 条）
+  1. CGTN俄语   https://0472.org/hls/cgtne.m3u8
+  2. CGTN法语   http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+  3. 龙游综合   http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed  （复活）
+  4. 龙游生活   http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed  （复活）
+  5. 平湖新闻综合   http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed  （复活）
+  6. 平湖民生休闲   http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8  （复活）
+  7. 普陀综合   http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed  （复活）
+  8. 青田电视台   http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8  （复活）
+  9. 庆元新闻综合   http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8  （复活）
+  10. 衢江新闻综合   http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed  （复活）
+  11. 上虞新闻综合   http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed  （复活）
+  12. 绍兴文化影视   http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8  （复活）
+  13. 上虞新商都   http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8  （复活）
+  14. 嵊泗综合   http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8  （复活）
+  15. 嵊州新闻综合   http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8  （复活）
+  16. 松阳综合   http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8  （复活）
+  17. 浙江遂昌   http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8  （复活）
+  18. 遂昌综合   http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed  （复活）
+  19. 文成新闻综合   http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?  （复活）
+  20. 武义新闻综合   http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8  （复活）
+  21. 萧山新闻综合   http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8  （复活）
+  22. 萧山生活   http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8  （复活）
+  23. 新昌生活   http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8  （复活）
+  24. 杭州余杭综合   http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8  （复活）
+  25. 余杭未来E   http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed  （复活）
+  26. 云和新闻综合   http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8  （复活）
+  27. 余姚新闻综合   http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8  （复活）
+  28. 诸暨综合   http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4  （复活）
+  29. 普陀新闻综合   https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8  （复活）
+  30. 余姚综合   https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8  （复活）
+  31. 诸暨新闻综合   https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8  （复活）
 
 二、删除的直播频道（两轮测活都不通）
-  1. 天津卫视   http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-  2. 龙游综合   http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
-  3. 龙游生活   http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
-  4. 平湖新闻综合   http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-  5. 平湖民生休闲   http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-  6. 普陀综合   http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
-  7. 青田电视台   http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-  8. 庆元综合   http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-  9. 庆元新闻综合   http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
-  10. 衢江新闻综合   http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
-  11. 上虞新闻综合   http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-  12. 上虞文化影院   http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-  13. 上虞新商都   http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-  14. 嵊泗综合   http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
-  15. 嵊州新闻综合   http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-  16. 松阳综合   http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-  17. 浙江遂昌   http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-  18. 遂昌综合   http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
-  19. 文成综合   http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?
-  20. 武义新闻综合   http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-  21. 象山新闻综合   http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-  22. 萧山综合   http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-  23. 萧山生活   http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-  24. 新昌生活   http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-  25. 余杭综合   http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-  26. 余杭未来E   http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-  27. 云和新闻综合   http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-  28. 余姚新闻综合   http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-  29. 诸暨综合   http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
-  30. 普陀电视台   https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-  31. 萧山新闻综合   https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-  32. 余姚综合   https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-  33. 诸暨新闻综合   https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-  34. 古县综合   https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
+  1. 江西卫视   http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+  2. 铜梁综合   http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+  3. 东方卫视   http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+  4. 东方卫视4K   https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 三、新增的点播源
   （无）
@@ -50,13 +50,13 @@
   （无）
 
 五、分组
-  央视台 44 / 卫视台 33 / 地方台 193 / 港澳台 19 / 纪录频道 6 / 其他 12
+  央视台 46 / 卫视台 30 / 地方台 218 / 港澳台 19 / 纪录频道 6 / 其他 12
 
 六、订阅链接
 
 【LibreTV 数据源订阅（GitHub·点播+直播二合一）】
   https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/libretv-sub3.json
-  （内含 15 个点播源 + 307 频道/6 组直播源，LibreTV 网页版/桌面版导入这一条即可）
+  （内含 15 个点播源 + 331 频道/6 组直播源，LibreTV 网页版/桌面版导入这一条即可）
 
 【OK影视（GitHub·okys7）】
   https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/okys7.json
