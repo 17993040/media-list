@@ -209,14 +209,14 @@
   "ads": [],
   "lives": [
     {
-      "name": "IPTV总包340",
+      "name": "IPTV总包341",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "playerType": 1,
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     },
     {
-      "name": "IPTV总包340(raw备用)",
+      "name": "IPTV总包341(raw备用)",
       "type": 0,
       "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "playerType": 1,
