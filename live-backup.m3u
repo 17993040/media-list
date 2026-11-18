@@ -1,379 +1,141 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视台",CGTN记录（备用）
-http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&amp;Contentid=7114647837765104058&amp;livemode=1&amp;stbId=3
-#EXTINF:-1 group-title="央视台",2003年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
 #EXTINF:-1 group-title="央视台",CCTV-12（备用）
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$LR•IPV6『线路22』
-#EXTINF:-1 group-title="央视台",央视台球（备用）
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-1（备用）
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$LR•IPV6『线路16』
-#EXTINF:-1 group-title="央视台",CCTV-11（备用）
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$LR•IPV6『线路21』
-#EXTINF:-1 group-title="央视台",CCTV-6（备用）
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$LR•IPV6『线路19』
-#EXTINF:-1 group-title="央视台",CGTN法语（备用）
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225747/index.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-4K（备用）
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
-#EXTINF:-1 group-title="央视台",CCTV-2（备用）
-http://[2409:8087:1a01:df::406f]:80/wh7f454c46tw1241164675_1575082505/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&RTS=1713968070&from=4&hms_devid=692&prioritypopid=4&online=1713968070&vqe=3$LR•IPV6『线路38』
 #EXTINF:-1 group-title="央视台",CCTV-10（备用）
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$LR•IPV6『线路44』
-#EXTINF:-1 group-title="央视台",CCTV-8K（备用）
-http://192.151.150.154/live/cctv8k.m3u8
-#EXTINF:-1 group-title="央视台",2013年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-9（备用）
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$LR•IPV6『线路23』
-#EXTINF:-1 group-title="央视台",2010年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",2018年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-8（备用）
-http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8$LR•IPV6『线路1』
-#EXTINF:-1 group-title="央视台",CGTN阿拉伯语（备用）
-http://lzh20000.dns.army:6789/609154345
-#EXTINF:-1 group-title="央视台",2002年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",2001年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-15（备用）
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$LR•IPV6『线路13』
-#EXTINF:-1 group-title="央视台",1996年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-7（备用）
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$LR•IPV6『线路36』
-#EXTINF:-1 group-title="央视台",2007年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",2014年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",2006年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-世界地理（备用）
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-3（备用）
-http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.m3u8$LR•IPV6『线路39』
-#EXTINF:-1 group-title="央视台",1993年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-13（备用）
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$LR•IPV6『线路12』
-#EXTINF:-1 group-title="央视台",CCTV-14（备用）
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$LR•IPV6『线路24』
-#EXTINF:-1 group-title="央视台",CCTV-5（备用）
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$LR•IPV6『线路44』
-#EXTINF:-1 group-title="央视台",2004年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",CCTV-4（备用）
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8$LR•IPV6『线路16』
 #EXTINF:-1 group-title="央视台",CCTV-17（备用）
 http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8$LR•IPV6『线路37』
-#EXTINF:-1 group-title="央视台",1995年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",CGTN英语（备用）
-http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
 #EXTINF:-1 group-title="央视台",CCTV-16（备用）
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•IPV6『线路12』
-#EXTINF:-1 group-title="央视台",2005年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",CGTN俄语（备用）
-https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
-#EXTINF:-1 group-title="央视台",1994年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",2000年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 group-title="央视台",2009年春晚（备用）
-https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 group-title="卫视台",上海东方卫视（备用）
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-#EXTINF:-1 group-title="卫视台",安多卫视（备用）
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$LR•IPV6『线路16』
-#EXTINF:-1 group-title="卫视台",四川卫视（备用）
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$LR•IPV6『线路35』
-#EXTINF:-1 group-title="卫视台",内蒙古卫视（备用）
-http://[2409:8087:1a01:df::401a]:80/wh7f454c46tw3029083262_-802204014/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?icpid=88888888&RTS=1713969858&from=4&hms_devid=128&prioritypopid=4&online=1713969858&vqe=3$LR•IPV6『线路9』
-#EXTINF:-1 group-title="卫视台",大湾区卫视（备用）
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8$LR•IPV6『线路4』
-#EXTINF:-1 group-title="卫视台",山东卫视（备用）
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$LR•IPV6『线路21』
-#EXTINF:-1 group-title="卫视台",农林卫视（备用）
-http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000060$LR•IPV6『线路4』
-#EXTINF:-1 group-title="卫视台",南方卫视（备用）
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$LR•IPV6『线路1』
-#EXTINF:-1 group-title="卫视台",三沙卫视（备用）
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8$LR•IPV6『线路11』
-#EXTINF:-1 group-title="卫视台",云南卫视（备用）
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$LR•IPV6『线路13』
-#EXTINF:-1 group-title="卫视台",东方卫视（备用）
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$LR•IPV6『线路17』
-#EXTINF:-1 group-title="卫视台",兵团卫视（备用）
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226439/2.m3u8$LR•IPV6『线路12』
-#EXTINF:-1 group-title="卫视台",厦门卫视（备用）
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$LR•IPV6『线路18』
+#EXTINF:-1 group-title="央视台",CCTV-9（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$LR•IPV6『线路23』
+#EXTINF:-1 group-title="央视台",CCTV-15（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$LR•IPV6『线路13』
+#EXTINF:-1 group-title="央视台",CCTV-7（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$LR•IPV6『线路36』
+#EXTINF:-1 group-title="央视台",CGTN英语（备用）
+http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
+#EXTINF:-1 group-title="央视台",CCTV-2（备用）
+http://[2409:8087:1a01:df::406f]:80/wh7f454c46tw1241164675_1575082505/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&RTS=1713968070&from=4&hms_devid=692&prioritypopid=4&online=1713968070&vqe=3$LR•IPV6『线路38』
+#EXTINF:-1 group-title="央视台",CCTV-1（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$LR•IPV6『线路16』
+#EXTINF:-1 group-title="央视台",CCTV-5（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$LR•IPV6『线路44』
+#EXTINF:-1 group-title="央视台",CCTV-8（备用）
+http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8$LR•IPV6『线路1』
+#EXTINF:-1 group-title="央视台",CCTV-13（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$LR•IPV6『线路12』
+#EXTINF:-1 group-title="央视台",CCTV-11（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$LR•IPV6『线路21』
+#EXTINF:-1 group-title="央视台",CCTV-4（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8$LR•IPV6『线路16』
+#EXTINF:-1 group-title="央视台",CCTV-14（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$LR•IPV6『线路24』
+#EXTINF:-1 group-title="央视台",CCTV-3（备用）
+http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.m3u8$LR•IPV6『线路39』
+#EXTINF:-1 group-title="央视台",CCTV-6（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$LR•IPV6『线路19』
+#EXTINF:-1 group-title="卫视台",江西卫视（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$LR•IPV6『线路32』
 #EXTINF:-1 group-title="卫视台",天津卫视（备用）
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$LR•IPV6『线路29』
+#EXTINF:-1 group-title="卫视台",内蒙古卫视（备用）
+http://[2409:8087:1a01:df::401a]:80/wh7f454c46tw3029083262_-802204014/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?icpid=88888888&RTS=1713969858&from=4&hms_devid=128&prioritypopid=4&online=1713969858&vqe=3$LR•IPV6『线路9』
+#EXTINF:-1 group-title="卫视台",安多卫视（备用）
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$LR•IPV6『线路16』
+#EXTINF:-1 group-title="卫视台",江苏卫视（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$LR•IPV6『线路45』
+#EXTINF:-1 group-title="卫视台",山东卫视（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$LR•IPV6『线路21』
+#EXTINF:-1 group-title="卫视台",兵团卫视（备用）
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226439/2.m3u8$LR•IPV6『线路12』
+#EXTINF:-1 group-title="卫视台",广东卫视（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$LR•IPV6『线路43』
+#EXTINF:-1 group-title="卫视台",云南卫视（备用）
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$LR•IPV6『线路13』
+#EXTINF:-1 group-title="卫视台",甘肃卫视（备用）
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$LR•IPV6『线路13』
+#EXTINF:-1 group-title="卫视台",延边卫视（备用）
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$LR•IPV6『线路11』
+#EXTINF:-1 group-title="卫视台",东方卫视（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$LR•IPV6『线路17』
 #EXTINF:-1 group-title="卫视台",安徽卫视（备用）
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$LR•IPV6『线路10』
-#EXTINF:-1 group-title="卫视台",东南卫视（备用）
-http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8$LR•IPV6『线路3』
-#EXTINF:-1 group-title="卫视台",吉林卫视（备用）
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8$LR•IPV6『线路28』
+#EXTINF:-1 group-title="卫视台",康巴卫视（备用）
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225660/2.m3u8$LR•IPV6『线路14』
 #EXTINF:-1 group-title="卫视台",北京卫视（备用）
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$LR•IPV6『线路37』
-#EXTINF:-1 group-title="卫视台",上海卫视（备用）
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1 group-title="卫视台",南方卫视（备用）
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$LR•IPV6『线路1』
+#EXTINF:-1 group-title="卫视台",海南卫视（备用）
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="卫视台",东南卫视（备用）
+http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8$LR•IPV6『线路3』
+#EXTINF:-1 group-title="卫视台",浙江卫视（备用）
+http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8$LR•IPV6『线路26』
 #EXTINF:-1 group-title="卫视台",宁夏卫视（备用）
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8$LR•IPV6『线路12』
-#EXTINF:-1 group-title="地方台",发现之旅（备用）
-http://lzh20000.dns.army:6789/624878970
-#EXTINF:-1 group-title="地方台",双辽（备用）
-http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="地方台",NewTV怡伴健康（备用）
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-#EXTINF:-1 group-title="地方台",TV5（备用）
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd/index.m3u8
-#EXTINF:-1 group-title="地方台",NewTV农业致富（备用）
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225670/index.m3u8
-#EXTINF:-1 group-title="地方台",卡酷少儿（备用）
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$LR•IPV6『线路7』
-#EXTINF:-1 group-title="地方台",北京新闻（备用）
-https://migu.188766.xyz/?migutoken=0b6b7dbae1997f665a956e68089fa5e9&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
-#EXTINF:-1 group-title="地方台",东方影视（备用）
-http://lzh20000.dns.army:6789/617290047
-#EXTINF:-1 group-title="地方台",HBO（备用）
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 group-title="地方台",宝鸡综合（备用）
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221226038/index.m3u8
-#EXTINF:-1 group-title="地方台",FOXHD（备用）
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="地方台",南郑综合（备用）
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225882/index.m3u8
-#EXTINF:-1 group-title="地方台",四海钓鱼（备用）
-https://live.goodiptv.club/api/cqyx.php?id=diaoyu
-#EXTINF:-1 group-title="地方台",中国教育-（备用）
-https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-#EXTINF:-1 group-title="地方台",五星体育频道（备用）
-http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
-#EXTINF:-1 group-title="地方台",NewTV超级体育（备用）
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="地方台",HBO Family（备用）
-https://ushls.ballbar.net/hbofamily/hbohd_twn/playlist-15.m3u8a?t=1735545081&token=e0151267ec5c7a6ec494e2a587883c73
-#EXTINF:-1 group-title="地方台",NBCNewsNow（备用）
-https://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 group-title="地方台",南京新闻综合（备用）
-https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="地方台",利川公共（备用）
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-#EXTINF:-1 group-title="地方台",北京青年（备用）
-http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1 group-title="地方台",NewTv超级电视剧（备用）
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="地方台",BBC（备用）
-https://ushls.ballbar.net/bbcnews_twn/playlist-25.m3u8a?t=1735544928&token=9d73f105dc7218e7e77059e221eb7841
-#EXTINF:-1 group-title="地方台",CNBC（备用）
-http://41.205.93.154/CNBC/index.m3u8
-#EXTINF:-1 group-title="地方台",NEWTV超级综艺（备用）
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="地方台",IHOT爱体育（备用）
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000290630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1 group-title="地方台",上海都市（备用）
-http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
-#EXTINF:-1 group-title="地方台",新闻综合（备用）
-https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 group-title="地方台",中国交通（备用）
-http://ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
-#EXTINF:-1 group-title="地方台",宝宝动画（备用）
-https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 group-title="地方台",DWNews（备用）
-https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="地方台",哈尔滨新闻综合（备用）
-https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-#EXTINF:-1 group-title="地方台",南京娱乐（备用）
-https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="地方台",BBC News（备用）
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="地方台",南京十八（备用）
-http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
-#EXTINF:-1 group-title="地方台",南京信息（备用）
-https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="地方台",三明新闻综合（备用）
-https://stream.smntv.cn/smtv1/playlist.m3u8
-#EXTINF:-1 group-title="地方台",BBCDrama（备用）
-https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="地方台",华数4K影视（备用）
-http://r.jdshipin.com/Lqdwf
-#EXTINF:-1 group-title="地方台",IHOT爱赛车（备用）
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000240630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1 group-title="地方台",BBCWorldNews（备用）
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="地方台",亚洲美食（备用）
-https://ushls.ballbar.net/afc_twn/playlist-15.m3u8a?t=1735543553&token=da3fad8c85ab5849addf84cfca7ea03e
-#EXTINF:-1 group-title="地方台",家庭剧场（备用）
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 group-title="地方台",NewTV惊悚悬疑（备用）
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8$LR•IPV6『线路3』
-#EXTINF:-1 group-title="地方台",云南都市（备用）
-https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
-#EXTINF:-1 group-title="地方台",商洛综合（备用）
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="地方台",NEWTV东北热剧（备用）
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="地方台",动漫秀场（备用）
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?$LR•IPV6『线路4』
-#EXTINF:-1 group-title="地方台",娱乐新闻台（备用）
-https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 group-title="地方台",山东农科（备用）
-http://livealone302.iqilu.com/iqilu/nkpd.m3u8
-#EXTINF:-1 group-title="地方台",女性时尚（备用）
-http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
-#EXTINF:-1 group-title="地方台",佛坪综合（备用）
-https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225947/index.m3u8
+#EXTINF:-1 group-title="卫视台",湖南卫视（备用）
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$LR•IPV6『线路33』
+#EXTINF:-1 group-title="卫视台",深圳卫视（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$LR•IPV6『线路22』
+#EXTINF:-1 group-title="卫视台",农林卫视（备用）
+http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000060$LR•IPV6『线路4』
+#EXTINF:-1 group-title="卫视台",三沙卫视（备用）
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8$LR•IPV6『线路11』
+#EXTINF:-1 group-title="卫视台",河南卫视（备用）
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV6『线路26』
+#EXTINF:-1 group-title="卫视台",大湾区卫视（备用）
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8$LR•IPV6『线路4』
+#EXTINF:-1 group-title="卫视台",吉林卫视（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8$LR•IPV6『线路28』
+#EXTINF:-1 group-title="卫视台",湖北卫视（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$LR•IPV6『线路37』
+#EXTINF:-1 group-title="卫视台",新疆卫视（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8$LR•IPV6『线路20』
+#EXTINF:-1 group-title="卫视台",四川卫视（备用）
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$LR•IPV6『线路35』
+#EXTINF:-1 group-title="卫视台",厦门卫视（备用）
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226964/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$LR•IPV6『线路18』
+#EXTINF:-1 group-title="卫视台",河北卫视（备用）
+http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225961/main.m3u8$LR•IPV6『线路4』
+#EXTINF:-1 group-title="卫视台",海峡卫视（备用）
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$LR•IPV6『线路1』
+#EXTINF:-1 group-title="卫视台",广西卫视（备用）
+http://[2409:8087:1a01:df::4047]:80/TVOD/88888888/224/3221226091/main.m3u8$LR•IPV6『线路4』
 #EXTINF:-1 group-title="地方台",优漫卡通（备用）
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225656/2.m3u8$LR•IPV6『线路10』
-#EXTINF:-1 group-title="地方台",安徽影视（备用）
-http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
-#EXTINF:-1 group-title="地方台",上虞新闻综合（备用）
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 group-title="地方台",咪咕体育4K-2（备用）
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&amp;Contentid=3000000010000015686&amp;livemode=1&amp;stbId=3
-#EXTINF:-1 group-title="地方台",NewTv精品萌宠（备用）
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000122/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="地方台",上海东方影视（备用）
-http://127.0.0.1:35455/itv/5000000010000032212.m3u8?cdn=bestzb
-#EXTINF:-1 group-title="地方台",NewTV古装剧场（备用）
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000105/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="地方台",乌海新闻综合（备用）
-http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",PlutoTVNBCNewsNOW（备用）
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="地方台",NewTV精品電影（备用）
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 group-title="地方台",半岛新闻（备用）
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="地方台",咪咕体育4K（备用）
-http://r.jdshipin.com/EmWIN
-#EXTINF:-1 group-title="地方台",BBC Earth（备用）
-https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
-#EXTINF:-1 group-title="地方台",NewTV军旅剧场（备用）
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="地方台",ABC（备用）
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-#EXTINF:-1 group-title="地方台",BBCOne（备用）
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="地方台",劲爆体育（备用）
-http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
-#EXTINF:-1 group-title="地方台",哒啵电竞（备用）
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
-#EXTINF:-1 group-title="地方台",NHKG（备用）
-http://203.162.235.41:14093
-#EXTINF:-1 group-title="地方台",NEWTV欢乐剧场（备用）
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="地方台",NHKWorldNews（备用）
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
-#EXTINF:-1 group-title="地方台",全纪实（备用）
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226580/index.m3u8
-#EXTINF:-1 group-title="地方台",南宁影视娱乐（备用）
-https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-#EXTINF:-1 group-title="地方台",國家地理（备用）
-http://60.251.59.179:8502/xoxo.m3u8
-#EXTINF:-1 group-title="地方台",NewTV爱情喜剧（备用）
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 group-title="地方台",伊犁经济法制（备用）
-http://110.153.180.106:55555/out_4/index.m3u8
-#EXTINF:-1 group-title="地方台",北京财经（备用）
-https://migu.188766.xyz/?migutoken=a24459aac2415af0c51b1570c8315fa8&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
-#EXTINF:-1 group-title="地方台",NHK World（备用）
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="地方台",哈尔滨娱乐（备用）
-http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
-#EXTINF:-1 group-title="地方台",上海纪实（备用）
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="地方台",NewTV动画王国（备用）
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="地方台",哈哈炫动（备用）
-http://223.110.245.139/PLTV/4/224/3221226388/index.m3u8
-#EXTINF:-1 group-title="地方台",嘉佳卡通（备用）
-http://112.25.48.68/live/program/live/jjkt/1300000/mnf.m3u8
-#EXTINF:-1 group-title="地方台",南京教科（备用）
-http://183.207.248.71/gitv/live1/G_NJJK/G_NJJK
-#EXTINF:-1 group-title="地方台",KBS1（备用）
-https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
-#EXTINF:-1 group-title="地方台",吉林乡村（备用）
-https://stream1.jlntv.cn/xcpd/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",NewTV精品体育（备用）
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225709/index.m3u8
-#EXTINF:-1 group-title="地方台",NewTV军事评论（备用）
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225757/index.m3u8
-#EXTINF:-1 group-title="地方台",健康养生（备用）
-https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-#EXTINF:-1 group-title="地方台",FOX電影（备用）
-http://60.251.59.179:8547/xoxo.m3u8
-#EXTINF:-1 group-title="地方台",NewTV金牌综艺（备用）
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 group-title="地方台",上海第一财经（备用）
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1 group-title="地方台",北京影视（备用）
-https://migu.188766.xyz/?migutoken=5ca711a90a3cc4146668498e42300749&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
-#EXTINF:-1 group-title="地方台",南京生活（备用）
-https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
-#EXTINF:-1 group-title="地方台",上海教育（备用）
-https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-#EXTINF:-1 group-title="地方台",哈尔滨影视（备用）
-https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 group-title="地方台",京视剧场（备用）
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
-#EXTINF:-1 group-title="地方台",CNN（备用）
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 group-title="地方台",NewTV古装剧场（备用）
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000105/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+#EXTINF:-1 group-title="地方台",广东珠江（备用）
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8$LR•IPV6『线路4』
+#EXTINF:-1 group-title="地方台",NewTv超级电视剧（备用）
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+#EXTINF:-1 group-title="地方台",NEWTV超级综艺（备用）
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="地方台",NEWTV东北热剧（备用）
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 group-title="地方台",卡酷少儿（备用）
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$LR•IPV6『线路7』
+#EXTINF:-1 group-title="地方台",NEWTV欢乐剧场（备用）
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 group-title="地方台",NewTV惊悚悬疑（备用）
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8$LR•IPV6『线路3』
+#EXTINF:-1 group-title="地方台",NewTv精品萌宠（备用）
+http://[2409:8087:74f0:22::4]:6410/270000001128/9900000122/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+#EXTINF:-1 group-title="地方台",NewTV金牌综艺（备用）
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 group-title="地方台",动漫秀场（备用）
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?$LR•IPV6『线路4』
+#EXTINF:-1 group-title="地方台",NewTV超级体育（备用）
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰资讯（备用）
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS亚洲台（备用）
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA$LR•IPV4『线路23』
-#EXTINF:-1 group-title="港澳台",东森综合（备用）
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8$LR•IPV4『线路12』
-#EXTINF:-1 group-title="港澳台",三立新闻（备用）
-http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14$LR•IPV4『线路8』
-#EXTINF:-1 group-title="港澳台",凤凰香港（备用）
-http://114.105.185.143:9901/tsfile/live/1034_1.m3u8$LR•IPV4『线路37』
-#EXTINF:-1 group-title="港澳台",TVBS新闻台（备用）
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ$LR•IPV4『线路10』
-#EXTINF:-1 group-title="港澳台",台视新闻（备用）
-http://162.19.247.76:22222/live/taishi/index.m3u8
-#EXTINF:-1 group-title="港澳台",东森超视（备用）
-http://171.108.239.98:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路5』
-#EXTINF:-1 group-title="港澳台",ViuTV（备用）
-http://r.jdshipin.com/ecsRA
-#EXTINF:-1 group-title="港澳台",TVBS欢乐台（备用）
-http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路6』
-#EXTINF:-1 group-title="港澳台",凤凰中文（备用）
-http://0a736a.tv.netsite.cc/proxy/1650326537/1650326537.m3u8$LR•IPV4『线路14』
-#EXTINF:-1 group-title="港澳台",三立台湾（备用）
-https://stream1.freetv.fun/san-li-tai-wan-1.ctv$LR•IPV4『线路7』
-#EXTINF:-1 group-title="港澳台",东森电影（备用）
-http://171.108.239.99:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路16』
-#EXTINF:-1 group-title="港澳台",HOYTV（备用）
-http://r.jdshipin.com/NADme
-#EXTINF:-1 group-title="港澳台",TVB星河（备用）
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 group-title="纪录频道",NewTV精品纪录（备用）
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 group-title="其他",古天乐电影（备用）
-https://live.metshop.top/huya/29982675
 #EXTINF:-1 group-title="其他",CHC家庭影院（备用）
 http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$LR•IPV6『线路4』
-#EXTINF:-1 group-title="其他",刘德华电影（备用）
-https://live.metshop.top/huya/11342424
-#EXTINF:-1 group-title="其他",华语影院（备用）
-https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 group-title="其他",功夫电影（备用）
-https://live.metshop.top/huya/11352941
-#EXTINF:-1 group-title="其他",CHC动作电影（备用）
-http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$LR•IPV6『线路7』
 #EXTINF:-1 group-title="其他",NewTV动作电影（备用）
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$LR•IPV6『线路3』
-#EXTINF:-1 group-title="其他",CHC高清电影（备用）
-http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8$LR•IPV4『线路1』
-#EXTINF:-1 group-title="其他",周星驰电影（备用）
-https://live.metshop.top/huya/11342412
-#EXTINF:-1 group-title="其他",4K超高清电影（备用）
-http://r.jdshipin.com/5DWJk
+#EXTINF:-1 group-title="其他",CHC动作电影（备用）
+http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$LR•IPV6『线路7』
