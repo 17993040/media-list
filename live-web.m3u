@@ -213,6 +213,10 @@ https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e
 https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 #EXTINF:-1 group-title="地方台",邳州综合
 https://liveplus.pznews.com/pzzhpd/sd/live.m3u8
+#EXTINF:-1 group-title="地方台",宜昌三峡旅游
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+#EXTINF:-1 group-title="地方台",宜昌三峡综合
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 group-title="港澳台",BeautifulLife
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",CGNTV中文台
