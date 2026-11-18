@@ -199,21 +199,21 @@
   "ads": [],
   "lives": [
     {
-      "name": "IPTV总包330",
+      "name": "IPTV总包335",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "playerType": 1,
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     },
     {
-      "name": "IPTV总包330(raw备用)",
+      "name": "IPTV总包335(raw备用)",
       "type": 0,
       "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "playerType": 1,
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     },
     {
-      "name": "网页直连113",
+      "name": "网页直连115",
       "type": 0,
       "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-web.m3u",
       "playerType": 1,
