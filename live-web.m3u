@@ -25,6 +25,8 @@ https://0472.org/hls/cgtnx.m3u8
 https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="央视台",CCTV第一剧场
 https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="央视台",CCTV怀旧剧场
+https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="卫视台",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="卫视台",东方卫视4K
@@ -179,10 +181,6 @@ https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 https://play.yunxya.com/channellive/xinwen.m3u8
 #EXTINF:-1 group-title="地方台",延边新闻综合
 https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",宜昌三峡旅游
-https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
-#EXTINF:-1 group-title="地方台",宜昌三峡综合
-https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 group-title="地方台",永昌综合
 https://play.kankanlive.com/live/1652755738635915.m3u8
 #EXTINF:-1 group-title="地方台",余姚姚江文化
