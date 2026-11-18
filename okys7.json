@@ -62,6 +62,26 @@
       "ext": ""
     },
     {
+      "key": "gszy",
+      "name": "光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "tkzy",
+      "name": "天空资源",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "zdzy",
       "name": "最大资源",
       "type": 1,
@@ -189,23 +209,23 @@
   "ads": [],
   "lives": [
     {
-      "name": "IPTV总包366",
+      "name": "IPTV总包341",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
+      "url": "live-all3.m3u",
       "playerType": 1,
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     },
     {
-      "name": "IPTV总包366(raw备用)",
+      "name": "IPTV总包341(raw备用)",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
+      "url": "live-all3.m3u",
       "playerType": 1,
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     },
     {
-      "name": "网页直连129",
+      "name": "网页直连116",
       "type": 0,
-      "url": "https://chenlibretv.netlify.app/livetv/live-web.m3u",
+      "url": "live-web.m3u",
       "playerType": 1,
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     }
