@@ -62,6 +62,16 @@
       "ext": ""
     },
     {
+      "key": "hbzy",
+      "name": "海外资源",
+      "type": 1,
+      "api": "https://api.haiwaiapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "tkzy",
       "name": "天空资源",
       "type": 1,
@@ -86,6 +96,16 @@
       "name": "暴风资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "kczy",
+      "name": "快车资源",
+      "type": 1,
+      "api": "https://caiji.kuaichezy.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -199,21 +219,21 @@
   "ads": [],
   "lives": [
     {
-      "name": "IPTV总包331",
+      "name": "IPTV总包589",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "playerType": 1,
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     },
     {
-      "name": "IPTV总包331(raw备用)",
+      "name": "IPTV总包589(raw备用)",
       "type": 0,
       "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "playerType": 1,
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     },
     {
-      "name": "网页直连110",
+      "name": "网页直连213",
       "type": 0,
       "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-web.m3u",
       "playerType": 1,
