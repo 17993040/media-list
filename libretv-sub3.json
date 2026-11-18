@@ -96,7 +96,7 @@
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
-      "name": "IPTV 网页直连版（116 个 https 频道）",
+      "name": "IPTV 网页直连版（115 个 https 频道）",
       "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-web.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     }
