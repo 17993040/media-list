@@ -1,71 +1,59 @@
-﻿【本次补源报告】2026-11-18 18:30（北京时间）
-直播总数：331   （上轮 335）
-新增直播：0 条    删除直播：59 条
+﻿【本次补源报告】2026-11-18 18:51（北京时间）
+直播总数：337   （上轮 331）
+新增直播：0 条    删除直播：47 条
 点播源：共 15 个    新增 0 个    剔除 0 个
 
 一、新增的直播频道
   （无）
 
 二、删除的直播频道（两轮测活都不通）
-  1. CCTV-14   http://223.78.65.165:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-  2. CCTV-17   http://223.78.65.165:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-  3. 金川乡村   http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
-  4. 陕西都市青春   http://112.46.105.20:8009/hls/19/index.m3u8
-  5. 象山新闻综合   http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-  6. 余杭综合   http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-  7. 宜昌三峡旅游   https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
-  8. 宜昌三峡综合   https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
-  9. 凤凰资讯   http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-  10. CCTV-14   http://223.78.65.165:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-  11. CCTV-17   http://223.78.65.165:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-  12. 金川乡村   http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
-  13. 陕西都市青春   http://112.46.105.20:8009/hls/19/index.m3u8
-  14. 象山新闻综合   http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-  15. 余杭综合   http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-  16. 宜昌三峡旅游   https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
-  17. 宜昌三峡综合   https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
-  18. 凤凰资讯   http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-  19. 翡翠台   https://cdn3.indevs.in/stream/tvb/fct/
-  20. 明珠台   http://php.jdshipin.com:8880/iptv.php?id=mzt
-  21. 翡翠台4K   http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-  22. 翡翠台   https://cdn3.indevs.in/stream/tvb/fct/
-  23. 明珠台   http://php.jdshipin.com:8880/iptv.php?id=mzt
-  24. 翡翠台4K   http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-  25. 黑龙江卫视   https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-  26. 上海东方卫视   https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-  27. 兵团八师石河子新闻综合   http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
-  28. 常熟民生   http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
-  29. 朝天综合   https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-  30. 广元公共   https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-  31. 广元综合   https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
-  32. 黑龙江都市   https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-  33. 黑龙江文体   https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-  34. 夹江新闻综合   http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
-  35. 剑阁综合   https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-  36. 焦作公共   http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-  37. 焦作综合   http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-  38. 灵璧综合   http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
-  39. 绍兴电视台公共   http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-  40. 绍兴公共   http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-  41. 绍兴新闻综合   http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
-  42. 绍兴影视   http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-  43. 绍兴综合   http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-  44. 旺苍新闻综合   http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
-  45. 文山州公共   http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-  46. 文山州新闻综合   http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
-  47. 湘潭新闻综合   http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-  48. 新野综合   http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
-  49. 荥阳综合   http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
-  50. 砚山电视台   http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8?zyund
-  51. 永城综合   http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-  52. 拆弹专家1   https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-  53. 拆弹专家2   https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
-  54. 寒战   https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-  55. 让子弹飞   https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-  56. 人在囧途   https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
-  57. 人在囧途之港囧   https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-  58. 人在囧途之泰囧   https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-  59. 我不是药神   https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+  1. 天津卫视   http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+  2. 天津卫视   http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+  3. CCTV-14   http://223.78.65.165:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+  4. CCTV-17   http://223.78.65.165:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+  5. CCTV-14   http://223.78.65.165:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+  6. CCTV-17   http://223.78.65.165:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+  7. 翡翠台   https://cdn3.indevs.in/stream/tvb/fct/
+  8. 明珠台   http://php.jdshipin.com:8880/iptv.php?id=mzt
+  9. 翡翠台4K   http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+  10. 翡翠台   https://cdn3.indevs.in/stream/tvb/fct/
+  11. 明珠台   http://php.jdshipin.com:8880/iptv.php?id=mzt
+  12. 翡翠台4K   http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+  13. 黑龙江卫视   https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+  14. 上海东方卫视   https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+  15. 兵团八师石河子新闻综合   http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+  16. 常熟民生   http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
+  17. 朝天综合   https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+  18. 广元公共   https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+  19. 广元综合   https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+  20. 黑龙江都市   https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+  21. 黑龙江文体   https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+  22. 夹江新闻综合   http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
+  23. 剑阁综合   https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+  24. 焦作公共   http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+  25. 焦作综合   http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+  26. 灵璧综合   http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
+  27. 绍兴电视台公共   http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+  28. 绍兴公共   http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+  29. 绍兴新闻综合   http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+  30. 绍兴影视   http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+  31. 绍兴综合   http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+  32. 旺苍新闻综合   http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+  33. 文山州公共   http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
+  34. 文山州新闻综合   http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
+  35. 湘潭新闻综合   http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+  36. 新野综合   http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
+  37. 荥阳综合   http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+  38. 砚山电视台   http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8?zyund
+  39. 永城综合   http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+  40. 拆弹专家1   https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+  41. 拆弹专家2   https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+  42. 寒战   https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+  43. 让子弹飞   https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+  44. 人在囧途   https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+  45. 人在囧途之港囧   https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+  46. 人在囧途之泰囧   https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+  47. 我不是药神   https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 
 三、新增的点播源
   （无）
@@ -74,13 +62,13 @@
   （无）
 
 五、分组
-  央视台 43 / 卫视台 28 / 地方台 225 / 港澳台 17 / 纪录频道 6 / 其他 12
+  央视台 43 / 卫视台 27 / 地方台 231 / 港澳台 18 / 纪录频道 6 / 其他 12
 
 六、订阅链接
 
 【LibreTV 数据源订阅（GitHub·点播+直播二合一）】
   https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/libretv-sub3.json
-  （内含 15 个点播源 + 331 频道/6 组直播源，LibreTV 网页版/桌面版导入这一条即可）
+  （内含 15 个点播源 + 337 频道/6 组直播源，LibreTV 网页版/桌面版导入这一条即可）
 
 【OK影视（GitHub·okys7）】
   https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/okys7.json
