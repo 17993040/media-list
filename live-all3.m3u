@@ -139,8 +139,6 @@ https://epg.pw/stream/568e26b29122e84e3527b97eca553332274777bdf39873fb234fb6581a
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="卫视台",江西卫视
 http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视台",天津卫视
-http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方台",UniverTV
 http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 #EXTINF:-1 group-title="地方台",安徽导视
@@ -591,6 +589,18 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 #EXTINF:-1 group-title="地方台",邳州综合
 https://liveplus.pznews.com/pzzhpd/sd/live.m3u8
+#EXTINF:-1 group-title="地方台",金川乡村
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
+#EXTINF:-1 group-title="地方台",陕西都市青春
+http://112.46.105.20:8009/hls/19/index.m3u8
+#EXTINF:-1 group-title="地方台",象山新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 group-title="地方台",余杭综合
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 group-title="地方台",宜昌三峡旅游
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+#EXTINF:-1 group-title="地方台",宜昌三峡综合
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 group-title="港澳台",BeautifulLife
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",CGNTV中文台
@@ -625,6 +635,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="港澳台",纬来体育
 http://iptv.cqshushu.com/wltv.php?id=wlty&token=2c1c6a52474c758af4d2cbed5fe26ebd
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="纪录频道",地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 #EXTINF:-1 group-title="纪录频道",飞碟之谜01
