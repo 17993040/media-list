@@ -1,5 +1,5 @@
 {
-  "name": "陈焕龙 影音源总包 v5（6 组 326 频道 · 逐条测活）",
+  "name": "陈焕龙 影音源总包 v5（6 组 388 频道 · 逐条测活）",
   "version": 2,
   "exportedAt": 0,
   "sources": [
@@ -91,7 +91,7 @@
   ],
   "liveSources": [
     {
-      "name": "IPTV 总包（326 频道 · 6 组）",
+      "name": "IPTV 总包（388 台 · 5 组）",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
@@ -101,7 +101,7 @@
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
-      "name": "IPTV 网页直连版（94 个 https 频道）",
+      "name": "IPTV 网页直连版（103 个 https 频道）",
       "url": "https://raw.githubusercontent.com/17993040/media-list/main/live-web.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     }
