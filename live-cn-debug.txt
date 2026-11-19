@@ -1,1 +1,1 @@
-# 2026-11-19 21:17:14 +0800 got kind=m3u len=43142 src=https://ghproxy.net/https://raw.githubusercontent.com/179930
+# 2026-11-19 21:17:16 +0800 urls all=389 mine=389 out=live-cn-ok.txt
