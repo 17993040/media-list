@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="其他频道",爱动漫
+#EXTINF:-1 group-title="IPv6专线",爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="卫视频道",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
@@ -11,6 +11,8 @@ http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=
 http://101.66.199.181:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="其他频道",白山公共
+http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 #EXTINF:-1 group-title="其他频道",白银综合
 http://play.kankanlive.com/live/1720408089419110.m3u8
 #EXTINF:-1 group-title="其他频道",半岛新闻
@@ -55,13 +57,13 @@ http://101.66.194.29:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 group-title="卫视频道",大湾区卫视
+#EXTINF:-1 group-title="IPv6专线",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
 #EXTINF:-1 group-title="其他频道",德惠综合
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
-#EXTINF:-1 group-title="其他频道",第一剧场
+#EXTINF:-1 group-title="IPv6专线",第一剧场
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 group-title="其他频道",电视指南
+#EXTINF:-1 group-title="IPv6专线",电视指南
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 group-title="其他频道",定襄综合
 http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
@@ -85,7 +87,7 @@ http://123.160.173.129:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.243.37:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他频道",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 group-title="其他频道",动漫秀场
+#EXTINF:-1 group-title="IPv6专线",动漫秀场
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
 #EXTINF:-1 group-title="其他频道",洞头综合
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed?
@@ -101,9 +103,9 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 group-title="其他频道",汾西综合
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
-#EXTINF:-1 group-title="其他频道",凤凰香港
+#EXTINF:-1 group-title="IPv6专线",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 group-title="其他频道",凤凰中文
+#EXTINF:-1 group-title="IPv6专线",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 group-title="其他频道",凤凰资讯
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -135,7 +137,7 @@ https://live.gdtv.ah.cn/live/newsTV.m3u8
 http://123.160.173.129:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://119.62.24.75:50085/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="其他频道",广东珠江
+#EXTINF:-1 group-title="IPv6专线",广东珠江
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
 #EXTINF:-1 group-title="其他频道",广西国际
 https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
@@ -171,9 +173,9 @@ https://stream.hrbtv.net/ylpd/sd/live.m3u8
 http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="其他频道",哈尔滨资讯
 http://stream.hrbtv.net/zxpd/sd/live.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
+#EXTINF:-1 group-title="IPv6专线",海南卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
-#EXTINF:-1 group-title="卫视频道",海峡卫视
+#EXTINF:-1 group-title="IPv6专线",海峡卫视
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="其他频道",邯郸公共频道
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
@@ -209,9 +211,9 @@ http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid
 https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://119.62.24.75:50085/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="其他频道",湖北影视
+#EXTINF:-1 group-title="IPv6专线",湖北影视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
-#EXTINF:-1 group-title="其他频道",湖南快乐垂钓
+#EXTINF:-1 group-title="IPv6专线",湖南快乐垂钓
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://123.160.173.129:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -225,17 +227,17 @@ http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494
 http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 #EXTINF:-1 group-title="其他频道",湖州新闻综合
 http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-#EXTINF:-1 group-title="其他频道",华数4K影视
+#EXTINF:-1 group-title="IPv6专线",华数4K影视
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 group-title="其他频道",桦甸
 http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
-#EXTINF:-1 group-title="其他频道",怀旧剧场
+#EXTINF:-1 group-title="IPv6专线",怀旧剧场
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 #EXTINF:-1 group-title="其他频道",怀仁综合
 https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
-#EXTINF:-1 group-title="其他频道",欢笑剧场
+#EXTINF:-1 group-title="IPv6专线",欢笑剧场
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
-#EXTINF:-1 group-title="其他频道",欢笑剧场4K
+#EXTINF:-1 group-title="IPv6专线",欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="其他频道",珲春新闻
 http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
@@ -243,17 +245,19 @@ http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="其他频道",辉南新闻综合
 http://stream5.jlntv.cn/hn/sd/live.m3u8
+#EXTINF:-1 group-title="其他频道",吉林市新闻综合
+https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",吉木萨尔综合
 http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8?zxinjd
-#EXTINF:-1 group-title="其他频道",纪实人文
+#EXTINF:-1 group-title="IPv6专线",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 group-title="其他频道",夹江新闻综合
 http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="其他频道",嘉佳卡通
+#EXTINF:-1 group-title="IPv6专线",嘉佳卡通
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000061/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
 #EXTINF:-1 group-title="其他频道",嘉兴新闻综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
@@ -267,11 +271,11 @@ http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 http://221.7.175.154:8445/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://119.62.24.75:50085/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="其他频道",江苏移动8K测试
+#EXTINF:-1 group-title="IPv6专线",江苏移动8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 group-title="其他频道",江苏移动影视轮播
+#EXTINF:-1 group-title="IPv6专线",江苏移动影视轮播
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 group-title="其他频道",江苏影视
+#EXTINF:-1 group-title="IPv6专线",江苏影视
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://123.160.173.129:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -327,7 +331,7 @@ http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A
 http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 group-title="其他频道",句容影院
 http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
-#EXTINF:-1 group-title="其他频道",卡酷少儿
+#EXTINF:-1 group-title="IPv6专线",卡酷少儿
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
 #EXTINF:-1 group-title="其他频道",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
@@ -335,7 +339,7 @@ http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="其他频道",开化新闻综合
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="卫视频道",康巴卫视
+#EXTINF:-1 group-title="IPv6专线",康巴卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 group-title="其他频道",奎屯哈萨克语
 http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
@@ -375,15 +379,15 @@ http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="其他频道",玛纳斯综合
 http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
-#EXTINF:-1 group-title="体育频道",咪咕体育4K
+#EXTINF:-1 group-title="IPv6专线",咪咕体育4K
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="体育频道",咪咕体育4K-2
+#EXTINF:-1 group-title="IPv6专线",咪咕体育4K-2
 http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 group-title="其他频道",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="其他频道",名山综合
 https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
-#EXTINF:-1 group-title="卫视频道",南方卫视
+#EXTINF:-1 group-title="IPv6专线",南方卫视
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="其他频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -409,9 +413,9 @@ http://[2409:8087:1a01:df::401a]:80/wh7f454c46tw3029083262_-802204014/ottrrs.hl.
 http://218.13.170.98:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
-#EXTINF:-1 group-title="卫视频道",农林卫视
+#EXTINF:-1 group-title="IPv6专线",农林卫视
 http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000266003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266003
-#EXTINF:-1 group-title="其他频道",女性时尚
+#EXTINF:-1 group-title="IPv6专线",女性时尚
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 group-title="其他频道",磐石
 http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
@@ -459,13 +463,13 @@ http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="其他频道",庆元综合
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-#EXTINF:-1 group-title="其他频道",求索动物
+#EXTINF:-1 group-title="IPv6专线",求索动物
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 group-title="其他频道",求索记录
+#EXTINF:-1 group-title="IPv6专线",求索记录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 group-title="其他频道",求索科学
+#EXTINF:-1 group-title="IPv6专线",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 group-title="其他频道",求索生活
+#EXTINF:-1 group-title="IPv6专线",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF:-1 group-title="其他频道",衢江新闻综合
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
@@ -479,7 +483,7 @@ https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 https://ls.qingting.fm/live/5022100/64k.m3u8
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 group-title="卫视频道",厦门卫视
+#EXTINF:-1 group-title="IPv6专线",厦门卫视
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
@@ -527,7 +531,7 @@ http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid
 http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 #EXTINF:-1 group-title="其他频道",嵊泗综合
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
-#EXTINF:-1 group-title="其他频道",世界地理
+#EXTINF:-1 group-title="IPv6专线",世界地理
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 group-title="其他频道",舒兰新闻
 http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
@@ -541,7 +545,7 @@ http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
 https://jwcdnqx.hebyun.com.cn/live/slxw/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="其他频道",四川科教
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-#EXTINF:-1 group-title="卫视频道",四川卫视
+#EXTINF:-1 group-title="IPv6专线",四川卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 group-title="其他频道",松潘新闻综合
 http://live.spccmc.com:90/live/spxwzh.m3u8
@@ -683,11 +687,13 @@ https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 https://play.yunxya.com/channellive/xinwen.m3u8
 #EXTINF:-1 group-title="其他频道",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="其他频道",延边2
+http://stream5.jlntv.cn/wq/playlist.m3u8
+#EXTINF:-1 group-title="卫视频道",延边卫视
+https://stream2.jlntv.cn/jlyb/sd/live.m3u8
 #EXTINF:-1 group-title="卫视频道",延边卫视
 https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 group-title="卫视频道",延边卫视
-https://srs.iyb983.cn:443/video/CYS/index.m3u8
-#EXTINF:-1 group-title="其他频道",央视台球
+#EXTINF:-1 group-title="IPv6专线",央视台球
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 group-title="其他频道",伊犁哈萨克
 http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
@@ -707,9 +713,9 @@ https://play.kankanlive.com/live/1652755738635915.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 #EXTINF:-1 group-title="其他频道",永嘉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
-#EXTINF:-1 group-title="其他频道",优漫卡通
+#EXTINF:-1 group-title="IPv6专线",优漫卡通
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="其他频道",游戏风云
+#EXTINF:-1 group-title="IPv6专线",游戏风云
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 #EXTINF:-1 group-title="其他频道",余杭未来E
 http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
@@ -751,6 +757,8 @@ http://hbzqdb.chinashadt.com:1937/live/zqzh.stream_360p/playlist.m3u8
 https://play.kankanlive.com/live/1720583434627241.m3u8
 #EXTINF:-1 group-title="其他频道",长白朝语
 http://hplayer1.juyun.tv:80/camera/11344136.m3u8
+#EXTINF:-1 group-title="其他频道",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 #EXTINF:-1 group-title="其他频道",长春综合
 https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 #EXTINF:-1 group-title="其他频道",长影频道
@@ -905,7 +913,7 @@ http://123.160.173.129:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
 #EXTINF:-1 group-title="央视台",CCTV-4
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8?
-#EXTINF:-1 group-title="央视台",CCTV-4K
+#EXTINF:-1 group-title="IPv6专线",CCTV-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 group-title="央视台",CCTV-5
 http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -929,7 +937,7 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://123.160.173.129:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视台",CCTV-8
 http://221.7.175.154:8445/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视台",CCTV-8K
+#EXTINF:-1 group-title="IPv6专线",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 group-title="央视台",CCTV-9
 https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f9bf46adb320f976f75b41d47ffb92d5
@@ -955,17 +963,17 @@ https://0472.org/hls/cgtnx.m3u8
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="其他频道",CHC电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="其他频道",CHC动作电影
+#EXTINF:-1 group-title="IPv6专线",CHC动作电影
 http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
-#EXTINF:-1 group-title="其他频道",CHC家庭影院
+#EXTINF:-1 group-title="IPv6专线",CHC家庭影院
 http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
 #EXTINF:-1 group-title="其他频道",EN|NowRock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="其他频道",EWTNUkraine
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="体育频道",IHOT爱赛车
+#EXTINF:-1 group-title="IPv6专线",IHOT爱赛车
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="体育频道",IHOT爱体育
+#EXTINF:-1 group-title="IPv6专线",IHOT爱体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="其他频道",KBSLiveCamDokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
@@ -981,55 +989,55 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 group-title="其他频道",MSNOW
 https://tvsen6.aynaott.com/msnbc/index.m3u8
-#EXTINF:-1 group-title="其他频道",NewTV爱情喜剧
+#EXTINF:-1 group-title="IPv6专线",NewTV爱情喜剧
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000104/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTv超级电视剧
+#EXTINF:-1 group-title="IPv6专线",NewTv超级电视剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="体育频道",NewTV超级体育
+#EXTINF:-1 group-title="IPv6专线",NewTV超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="其他频道",NEWTV超级综艺
+#EXTINF:-1 group-title="IPv6专线",NEWTV超级综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 group-title="其他频道",NEWTV潮妈辣婆
+#EXTINF:-1 group-title="IPv6专线",NEWTV潮妈辣婆
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000099/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NEWTV东北热剧
+#EXTINF:-1 group-title="IPv6专线",NEWTV东北热剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="其他频道",NewTV动作电影
+#EXTINF:-1 group-title="IPv6专线",NewTV动作电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
-#EXTINF:-1 group-title="其他频道",NewTV古装剧场
+#EXTINF:-1 group-title="IPv6专线",NewTV古装剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 group-title="其他频道",NEWTV欢乐剧场
+#EXTINF:-1 group-title="IPv6专线",NEWTV欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="其他频道",NewTV家庭剧场
+#EXTINF:-1 group-title="IPv6专线",NewTV家庭剧场
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000108/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV金牌综艺
+#EXTINF:-1 group-title="IPv6专线",NewTV金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 group-title="其他频道",NewTV惊悚悬疑
+#EXTINF:-1 group-title="IPv6专线",NewTV惊悚悬疑
 http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 group-title="其他频道",NewTV精品大剧
+#EXTINF:-1 group-title="IPv6专线",NewTV精品大剧
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000100/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV精品纪录
+#EXTINF:-1 group-title="IPv6专线",NewTV精品纪录
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTv精品萌宠
+#EXTINF:-1 group-title="IPv6专线",NewTv精品萌宠
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 group-title="体育频道",NewTV精品体育
+#EXTINF:-1 group-title="IPv6专线",NewTV精品体育
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV精品综合
+#EXTINF:-1 group-title="IPv6专线",NewTV精品综合
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000116/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV军旅剧场
+#EXTINF:-1 group-title="IPv6专线",NewTV军旅剧场
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000107/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV军事评论
+#EXTINF:-1 group-title="IPv6专线",NewTV军事评论
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000110/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV农业致富
+#EXTINF:-1 group-title="IPv6专线",NewTV农业致富
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000111/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV热播精选
+#EXTINF:-1 group-title="IPv6专线",NewTV热播精选
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000115/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV武搏世界
+#EXTINF:-1 group-title="IPv6专线",NewTV武搏世界
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000114/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NEWTV炫舞未来
+#EXTINF:-1 group-title="IPv6专线",NEWTV炫舞未来
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000098/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV怡伴健康
+#EXTINF:-1 group-title="IPv6专线",NewTV怡伴健康
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000103/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
-#EXTINF:-1 group-title="其他频道",NewTV中国功夫
+#EXTINF:-1 group-title="IPv6专线",NewTV中国功夫
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000101/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
 #EXTINF:-1 group-title="其他频道",Now70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
