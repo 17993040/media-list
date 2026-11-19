@@ -1,14 +1,14 @@
-﻿【本次补源报告】2026-11-19 21:35（北京时间）
-直播总数：390   （上轮 389）
-新增直播：1 条（新源 1 / 复活 0）    删除直播：0 条    换线：6 台    备用：14 条
-深测：国内分片深测通过 99 条    候选池未入库 106 条    网页版二合一 119 台
-对账：390 = 上轮 389 + 新增 1 - 删除 0  ✅ 对得上
-国内判定：华为云 21:19 结果（深测通过 99 / 判死 965 / 家宽源不判死 0 条 / 测完，0.2 小时前）
-候选池：106 条（本轮没测到，未入库；下一轮国内复检通过后才进）
+﻿【本次补源报告】2026-11-20 04:45（北京时间）
+直播总数：390   （上轮 390）
+新增直播：0 条（新源 0 / 复活 0）    删除直播：0 条    换线：4 台    备用：13 条
+深测：国内分片深测通过 99 条    候选池未入库 119 条    网页版二合一 120 台
+对账：390 = 上轮 390 + 新增 0 - 删除 0  ✅ 对得上
+国内判定：华为云 03:01 结果（深测通过 99 / 判死 962 / 家宽源不判死 0 条 / 测完，1.7 小时前）
+候选池：119 条（本轮没测到，未入库；下一轮国内复检通过后才进）
 点播源：共 17 个    新增 0 个    剔除 0 个
 
-一、新增的直播频道（新源 1 条 + 复活 0 条）
-  1. 焦作公共频道   http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+一、新增的直播频道（新源 0 条 + 复活 0 条）
+  （无）
 
 二、删除的直播频道（两轮测活都不通）
   （无）
@@ -25,11 +25,13 @@
 六、订阅链接
 
 【LibreTV 数据源订阅（GitHub·点播+直播二合一）】
-  https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/libretv-sub3.json
+  加速（ghproxy）：https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/libretv-sub3.json
+  直链（raw）：https://raw.githubusercontent.com/17993040/media-list/main/libretv-sub3.json
   （内含 17 个点播源 + 390 频道/6 组直播源，LibreTV 网页版/桌面版导入这一条即可）
 
 【OK影视（GitHub·okys7）】
-  https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/okys7.json
+  加速（ghproxy）：https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/okys7.json
+  直链（raw）：https://raw.githubusercontent.com/17993040/media-list/main/okys7.json
   （内含 17 个点播接口 + 直播源，OK影视里填这一条即可）
 
 【客户端刷新提示（重要）】
