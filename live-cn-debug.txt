@@ -1,1 +1,1 @@
-# 2026-11-19 21:18:32 +0800 got kind=queue len=91845 src=https://ghproxy.net/https://raw.githubusercontent.com/179930
+# 2026-11-19 21:18:33 +0800 urls all=1301 mine=1301 out=live-cn-ok.txt
