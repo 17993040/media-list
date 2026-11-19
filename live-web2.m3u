@@ -59,6 +59,8 @@ https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 #EXTINF:-1 group-title="其他频道",怀仁综合
 https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
+#EXTINF:-1 group-title="其他频道",吉林市新闻综合
+https://stream2.jlntv.cn/jilin1/sd/live.m3u8
 #EXTINF:-1 group-title="其他频道",剑阁综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 #EXTINF:-1 group-title="其他频道",荆门新闻综合
@@ -156,7 +158,7 @@ https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="其他频道",雅安新闻综合
 https://play.yunxya.com/channellive/xinwen.m3u8
 #EXTINF:-1 group-title="卫视频道",延边卫视
-https://srs.iyb983.cn/video/CYS/index.m3u8
+https://stream2.jlntv.cn/jlyb/sd/live.m3u8
 #EXTINF:-1 group-title="其他频道",永昌综合
 https://play.kankanlive.com/live/1652755738635915.m3u8
 #EXTINF:-1 group-title="其他频道",余姚姚江文化
