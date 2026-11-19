@@ -1,5 +1,5 @@
 {
-  "name": "陈焕龙 网页版直播源（128 台 · https 二合一）",
+  "name": "陈焕龙 网页版直播源（125 台 · https 二合一）",
   "sources": [
     {
       "name": "建安采集",
@@ -89,7 +89,7 @@
   ],
   "liveSources": [
     {
-      "name": "网页二合一（128 台）",
+      "name": "网页二合一（125 台）",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-web2.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
