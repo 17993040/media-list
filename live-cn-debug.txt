@@ -1,1 +1,1 @@
-# 2026-11-19 18:22:58 +0800 got kind=queue len=92113 src=https://raw.githubusercontent.com/17993040/media-list/main/p
+# 2026-11-19 18:23:00 +0800 urls all=1306 mine=1306 out=live-cn-ok.txt
