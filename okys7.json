@@ -233,7 +233,7 @@
       "ua": "VLC/3.0.16 LibVLC/3.0.16"
     },
     {
-      "name": "IPTV全量526条(可切线路)",
+      "name": "IPTV全量425条(可切线路)",
       "type": 0,
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-all3-full.m3u",
       "playerType": 1,
