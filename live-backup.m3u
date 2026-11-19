@@ -124,7 +124,7 @@ https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 group-title="其他频道",荥阳综合
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
 #EXTINF:-1 group-title="卫视频道",延边卫视
-https://srs.iyb983.cn:443/video/CYS/index.m3u8
+https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="其他频道",伊犁哈萨克
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 group-title="其他频道",伊犁经济法制
