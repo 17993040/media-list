@@ -33,8 +33,11 @@ if (Test-Path -LiteralPath $prevPath) {
 }
 
 # ---------- 2. 生成两份清单 ----------
+# 主清单：每台 1 条，只放当前能用的（main 优先，main 空则拿第一条备线顶上）
+# 全量清单：同名同 tvg-id 多线路（1 主 + 最多 2 备），供 OK影视 聚合切线路
 function Get-Label($c) {
-  if (-not $c.main) { return ($c.name + '〔待补〕') }
+  $hasBackup = @($c.backup | Where-Object { $_ }).Count -gt 0
+  if (-not $c.main -and -not $hasBackup) { return ($c.name + '〔待补〕') }
   if ($c.cloud -eq 'ok') { return ($c.name + '[华为云已测]') }
   return $c.name
 }
@@ -47,28 +50,48 @@ $sbFull = New-Object System.Text.StringBuilder
 $newMap = @{}
 $relinked = @()
 $fullLines = 0
+$multiLineChs = 0
 foreach ($c in $chs) {
-  $u = if ($c.main) { $c.main } else { 'http://0.0.0.0:1/void.m3u8' }
-  $label = Get-Label $c
-  [void]$sbMain.Append("#EXTINF:-1 group-title=`"$($c.group)`",$label`n$u`n")
-  $fullLines++
+  # 主线选线：main 有就用；main 空则拿第一条备线顶上，避免清单里出现死条目
+  $liveUrl = $null
+  if ($c.main) { $liveUrl = [string]$c.main }
+  else {
+    foreach ($b in @($c.backup)) { if ($b) { $liveUrl = [string]$b; break } }
+  }
 
-  $newMap[$c.name] = [string]$c.main
-  if ($prevMap.ContainsKey($c.name) -and $c.main -and $prevMap[$c.name] -ne [string]$c.main) {
+  $label = Get-Label $c
+  $uMain = if ($liveUrl) { $liveUrl } else { 'http://0.0.0.0:1/void.m3u8' }
+  [void]$sbMain.Append("#EXTINF:-1 group-title=`"$($c.group)`",$label`n$uMain`n")
+
+  $newMap[$c.name] = [string]$liveUrl
+  if ($prevMap.ContainsKey($c.name) -and $liveUrl -and $prevMap[$c.name] -ne [string]$liveUrl) {
     $relinked += $c.name
   }
 
-  [void]$sbFull.Append("#EXTINF:-1 group-title=`"$($c.group)`",$label`n$u`n")
-  $bk = @($c.backup)
-  $n = 0
-  foreach ($b in $bk) {
+  # 全量清单：同一个台的所有线同名、同 tvg-id，播放器才会聚合成"线路 1/2/3"
+  $tid = 'ch' + ('{0:D3}' -f [int]$c.seq)
+  $urls = @()
+  if ($liveUrl) { $urls += $liveUrl }
+  foreach ($b in @($c.backup)) {
     if (-not $b) { continue }
-    if ($n -ge 3) { break }
-    [void]$sbFull.Append("#EXTINF:-1 group-title=`"$($c.group)`",$($c.name)〔备〕`n$b`n")
+    if ($urls.Count -ge 3) { break }
+    $urls += [string]$b
+  }
+  $seen = @{}
+  $uniq = @()
+  foreach ($x in $urls) {
+    if ($x -and -not $seen.ContainsKey($x)) { $seen[$x] = 1; $uniq += $x }
+  }
+  if (-not $uniq) { $uniq = @('http://0.0.0.0:1/void.m3u8') }
+  if ($uniq.Count -gt 1) { $multiLineChs++ }
+  foreach ($x in $uniq) {
+    [void]$sbFull.Append("#EXTINF:-1 tvg-id=`"$tid`" tvg-name=`"$($c.name)`" group-title=`"$($c.group)`",$($c.name)`n$x`n")
     $fullLines++
-    $n++
   }
 }
+
+# 保险：台数明显异常就不覆盖，保留上一版清单
+if ($chs.Count -lt 70) { throw ("台数异常（$($chs.Count) 台，低于 70），不覆盖现有清单") }
 
 [IO.File]::WriteAllText((Join-Path $Root 'live-all3.m3u'), $sbMain.ToString(), [Text.UTF8Encoding]::new($false))
 [IO.File]::WriteAllText((Join-Path $Root 'live-all3-full.m3u'), $sbFull.ToString(), [Text.UTF8Encoding]::new($false))
