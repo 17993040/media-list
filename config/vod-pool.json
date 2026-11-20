@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:01:00.781Z",
+  "updated": "2026-11-20T13:28:45.560Z",
   "note": "点播候选采集站池。云端每轮实测：测通即进（match 命中现有站名则视为换域名修复，否则追加新站）；连续多轮不通则停用。",
   "candidates": [
     {
@@ -41,10 +41,10 @@
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/json",
       "match": "快车资源",
       "local": "ssl",
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false,
-      "failStreak": 2
+      "failStreak": 3
     },
     {
       "name": "天空资源",
@@ -52,10 +52,10 @@
       "api": "http://m3u8.tiankongapi.com/api.php/provide/vod/at/json",
       "match": "天空资源",
       "local": "html",
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false,
-      "failStreak": 2
+      "failStreak": 3
     },
     {
       "name": "量子资源",
@@ -63,10 +63,10 @@
       "api": "http://cj.lziapi.com/api.php/provide/vod/at/json",
       "match": "",
       "local": "timeout",
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false,
-      "failStreak": 2
+      "failStreak": 3
     },
     {
       "name": "非凡资源",
@@ -74,10 +74,10 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/json",
       "match": "",
       "local": "timeout",
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false,
-      "failStreak": 2
+      "failStreak": 3
     },
     {
       "name": "暴风资源",
@@ -85,10 +85,10 @@
       "api": "https://bfzyapi.com/api.php/provide/vod/at/json",
       "match": "",
       "local": "timeout",
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false,
-      "failStreak": 2
+      "failStreak": 3
     },
     {
       "name": "电影天堂",
@@ -96,10 +96,10 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/json",
       "match": "",
       "local": "timeout",
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false,
-      "failStreak": 2
+      "failStreak": 3
     },
     {
       "name": "索尼资源",
@@ -107,10 +107,10 @@
       "api": "https://suoniapi.com/api.php/provide/vod/at/json",
       "match": "",
       "local": "timeout",
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false,
-      "failStreak": 2
+      "failStreak": 3
     },
     {
       "name": "1080资源",
@@ -118,10 +118,10 @@
       "api": "http://api.1080zyku.com/inc/api.php/provide/vod/at/json",
       "match": "",
       "local": "timeout",
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false,
-      "failStreak": 2
+      "failStreak": 3
     },
     {
       "name": "slapibf",
@@ -141,8 +141,8 @@
       "match": "",
       "from": "auto",
       "seen": 3,
-      "failStreak": 1,
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -153,8 +153,8 @@
       "match": "",
       "from": "auto",
       "seen": 2,
-      "failStreak": 1,
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -165,8 +165,8 @@
       "match": "",
       "from": "auto",
       "seen": 2,
-      "failStreak": 1,
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -201,8 +201,8 @@
       "match": "",
       "from": "auto",
       "seen": 2,
-      "failStreak": 1,
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -225,8 +225,8 @@
       "match": "",
       "from": "auto",
       "seen": 2,
-      "failStreak": 1,
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -237,8 +237,8 @@
       "match": "",
       "from": "auto",
       "seen": 2,
-      "failStreak": 1,
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -249,8 +249,128 @@
       "match": "",
       "from": "auto",
       "seen": 1,
+      "failStreak": 2,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "http",
+      "lastOk": false
+    },
+    {
+      "name": "api.maoyanapi.top",
+      "key": "apimao",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 0,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "m3u8-dead:head",
+      "lastOk": true
+    },
+    {
+      "name": "api.niuniuzy.me",
+      "key": "apiniu",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 0,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "m3u8-alive",
+      "lastOk": true
+    },
+    {
+      "name": "api.okzyw.net",
+      "key": "apiokz",
+      "api": "https://api.okzyw.net/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 0,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "m3u8-alive",
+      "lastOk": true
+    },
+    {
+      "name": "cj.rycjapi.com",
+      "key": "cjrycj",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
       "failStreak": 1,
-      "lastCheck": "2026-11-20T12:01:00.781Z",
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "http",
+      "lastOk": false
+    },
+    {
+      "name": "api.ukuapi88.com",
+      "key": "apiuku",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 0,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "m3u8-alive",
+      "lastOk": true
+    },
+    {
+      "name": "tyyszyapi.com",
+      "key": "tyyszy",
+      "api": "https://tyyszyapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 0,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "m3u8-alive",
+      "lastOk": true
+    },
+    {
+      "name": "www.ahjiuman.com",
+      "key": "ahjium",
+      "api": "http://www.ahjiuman.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "http",
+      "lastOk": false
+    },
+    {
+      "name": "www.huyaapi.com",
+      "key": "huyaap",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 0,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "m3u8-dead:ts1-no-sync",
+      "lastOk": true
+    },
+    {
+      "name": "p2100.net",
+      "key": "p2100n",
+      "api": "https://p2100.net/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
+      "lastStage": "not-json",
+      "lastOk": false
+    },
+    {
+      "name": "caiji.qhzyapi.com",
+      "key": "caijiq",
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false
     }
