@@ -107,6 +107,26 @@
       "name": "www.huyaapi.com",
       "url": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "isAdult": false
+    },
+    {
+      "name": "iqiyizyapi.com",
+      "url": "https://iqiyizyapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "api.wujinapi.net",
+      "url": "https://api.wujinapi.net/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "jyzyapi.com",
+      "url": "https://jyzyapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "www.lovedan.net",
+      "url": "https://www.lovedan.net/api.php/provide/vod/at/json",
+      "isAdult": false
     }
   ],
   "liveSources": [
