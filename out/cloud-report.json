@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-20T11:27:43.818Z",
+  "ts": "2026-11-20T12:01:00.781Z",
   "scanned": 38,
   "pass": 36,
   "marked": 0,
@@ -7,46 +7,35 @@
   "promoted": 0,
   "skipped": 0,
   "ent": {
-    "tested": 12,
-    "removed": [
-      "音乐欣赏",
-      "意大利Ⅳ2音乐频道",
-      "FoxSport1",
-      "FoxSport2",
-      "FoxSport3",
-      "DiscoveryHDWorld",
-      "FoxSports501"
-    ],
+    "tested": 5,
+    "removed": [],
     "added": [],
     "relinked": 0
   },
   "vod": {
-    "total": 13,
-    "pass": 9,
+    "total": 17,
+    "pass": 13,
     "fail": 4,
-    "candTotal": 12,
+    "candTotal": 18,
+    "poolNew": 10,
+    "poolRead": true,
+    "poolSize": 22,
     "candAdded": [
       {
-        "name": "豪华资源",
-        "url": "https://hhzyapi.com/api.php/provide/vod/at/json",
-        "how": "新增",
-        "stage": "m3u8-dead:ts1-no-sync"
-      },
-      {
-        "name": "无尽资源",
-        "url": "https://api.wujinapi.com/api.php/provide/vod/at/json",
+        "name": "cj.yayazy.net",
+        "url": "https://cj.yayazy.net/api.php/provide/vod/at/json",
         "how": "新增",
         "stage": "m3u8-alive"
       },
       {
-        "name": "魔都资源",
-        "url": "https://caiji.moduapi.cc/api.php/provide/vod/at/json",
-        "how": "换域名",
-        "stage": "m3u8-alive"
+        "name": "caiji.maotaizy.cc",
+        "url": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/at/json",
+        "how": "新增",
+        "stage": "m3u8-dead:head"
       },
       {
-        "name": "slapibf",
-        "url": "https://slapibf.com/api.php/provide/vod/at/json",
+        "name": "sdzyapi.com",
+        "url": "http://sdzyapi.com/api.php/provide/vod/at/json",
         "how": "新增",
         "stage": "m3u8-alive"
       }
@@ -55,22 +44,22 @@
       {
         "url": "https://api.haiwaiapi.com/api.php/provide/vod/at/json",
         "name": "海外资源",
-        "streak": 3
+        "streak": 4
       },
       {
         "url": "https://api.tiankongapi.com/api.php/provide/vod/at/json",
         "name": "天空资源",
-        "streak": 3
+        "streak": 4
       },
       {
         "url": "https://caiji.kuaichezy.com/api.php/provide/vod/at/json",
         "name": "快车资源",
-        "streak": 3
+        "streak": 4
       },
       {
         "url": "https://collect.wolongzyw.com/api.php/provide/vod/at/json",
         "name": "卧龙资源",
-        "streak": 3
+        "streak": 4
       }
     ],
     "deleted": [],
@@ -198,6 +187,46 @@
       },
       {
         "name": "魔都资源",
+        "url": "https://caiji.moduapi.cc/api.php/provide/vod/at/json",
+        "ok": true,
+        "stage": "m3u8-alive",
+        "n": 20,
+        "code": 0,
+        "verified": true,
+        "err": ""
+      },
+      {
+        "name": "豪华资源",
+        "url": "https://hhzyapi.com/api.php/provide/vod/at/json",
+        "ok": true,
+        "stage": "m3u8-dead:ts1-no-sync",
+        "n": 20,
+        "code": 0,
+        "verified": false,
+        "err": ""
+      },
+      {
+        "name": "无尽资源",
+        "url": "https://api.wujinapi.com/api.php/provide/vod/at/json",
+        "ok": true,
+        "stage": "m3u8-alive",
+        "n": 20,
+        "code": 0,
+        "verified": true,
+        "err": ""
+      },
+      {
+        "name": "slapibf",
+        "url": "https://slapibf.com/api.php/provide/vod/at/json",
+        "ok": true,
+        "stage": "m3u8-alive",
+        "n": 20,
+        "code": 0,
+        "verified": true,
+        "err": ""
+      },
+      {
+        "name": "魔都资源（直链）",
         "url": "https://www.mdzyapi.com/api.php/provide/vod/at/json",
         "ok": true,
         "stage": "m3u8-alive",
@@ -220,7 +249,7 @@
       "url": "http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4187846
+      "bytes": 4151706
     },
     {
       "name": "CCTV-2",
@@ -234,28 +263,28 @@
       "url": "http://112.123.243.37:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4186456
+      "bytes": 4185066
     },
     {
       "name": "CCTV-4",
       "url": "http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193406
+      "bytes": 4166996
     },
     {
       "name": "CCTV-5",
       "url": "http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4185066
+      "bytes": 4192016
     },
     {
       "name": "CCTV-6",
       "url": "http://112.123.243.37:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4192016
+      "bytes": 4189236
     },
     {
       "name": "CCTV-7",
@@ -276,7 +305,7 @@
       "url": "http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193406
+      "bytes": 4192016
     },
     {
       "name": "CCTV-10",
@@ -290,49 +319,49 @@
       "url": "http://112.123.243.37:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193406
+      "bytes": 4144756
     },
     {
       "name": "CCTV-12",
       "url": "http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4192016
+      "bytes": 4186220
     },
     {
       "name": "CCTV-13",
       "url": "http://112.123.243.37:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189236
+      "bytes": 4192016
     },
     {
       "name": "CCTV-14",
       "url": "http://112.123.243.37:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193406
+      "bytes": 4187846
     },
     {
       "name": "CCTV-15",
       "url": "http://112.123.243.37:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189236
+      "bytes": 4193406
     },
     {
       "name": "江苏卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4192016
+      "bytes": 4183676
     },
     {
       "name": "河北卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4192016
+      "bytes": 4189236
     },
     {
       "name": "浙江卫视",
@@ -346,7 +375,7 @@
       "url": "http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4190626
+      "bytes": 4193406
     },
     {
       "name": "甘肃卫视",
@@ -360,7 +389,7 @@
       "url": "http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189236
+      "bytes": 4158656
     },
     {
       "name": "辽宁卫视",
@@ -381,49 +410,49 @@
       "url": "http://112.123.243.37:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4187846
+      "bytes": 4189236
     },
     {
       "name": "安徽卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189236
+      "bytes": 4185066
     },
     {
       "name": "广东卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4187846
+      "bytes": 4192016
     },
     {
       "name": "黑龙江卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189236
+      "bytes": 4161574
     },
     {
       "name": "CCTV-1",
       "url": "http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193138
+      "bytes": 4193262
     },
     {
       "name": "CCTV-6",
       "url": "http://221.7.175.154:8445/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193034
+      "bytes": 4193262
     },
     {
       "name": "CCTV-7",
       "url": "http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193420
+      "bytes": 4192990
     },
     {
       "name": "CCTV-8",
@@ -437,14 +466,14 @@
       "url": "http://221.7.175.154:8445/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193406
+      "bytes": 4193262
     },
     {
       "name": "CCTV-11",
       "url": "http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4191872
+      "bytes": 4193262
     },
     {
       "name": "CCTV-13",
@@ -458,7 +487,7 @@
       "url": "http://221.7.175.154:8445/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193262
+      "bytes": 4191872
     },
     {
       "name": "CCTV-5+",
@@ -483,28 +512,37 @@
     }
   ],
   "log": [
-    "台数 87",
+    "台数 80",
     "候选 38 条",
     "去重后 38 条",
     "直播测完 通过 36 / 38",
     "标记 0  加备线 0  顶上主线 0  跳过 0",
-    "体育娱乐：在册 12 测 12 换线 0 新增 0 移出 7",
-    "点播：站点 13 个（libretv 13 / okys 13）",
-    "点播：通过 9 / 13",
-    "点播：候选池 12 个待测",
-    "点播候选 豪华资源 测通(m3u8-dead:ts1-no-sync)，作为新站追加",
-    "点播候选 无尽资源 测通(m3u8-alive)，作为新站追加",
-    "点播候选 魔都资源 测通(m3u8-alive)，替换 魔都资源 的域名 → https://caiji.moduapi.cc/api.php/provide/vod/at/json",
-    "点播候选 快车资源 不通：http（连败 1）",
-    "点播候选 天空资源 不通：http（连败 1）",
-    "点播候选 量子资源 不通：http（连败 1）",
-    "点播候选 非凡资源 不通：http（连败 1）",
-    "点播候选 暴风资源 不通：http（连败 1）",
-    "点播候选 电影天堂 不通：http（连败 1）",
-    "点播候选 索尼资源 不通：http（连败 1）",
-    "点播候选 1080资源 不通：http（连败 1）",
-    "点播候选 slapibf 测通(m3u8-alive)，作为新站追加",
-    "点播：候选测 12，可进 4",
+    "体育娱乐：在册 5 测 5 换线 0 新增 0 移出 0",
+    "点播：站点 17 个（libretv 16 / okys 16）",
+    "点播：通过 13 / 17",
+    "点播找站：配置 14/16 读通，抽到采集站 47 个域名",
+    "  引用最多的：bfzyapi.com(5x)、suoniapi.com(5x)、cj.lziapi.com(5x)、caiji.dyttzyapi.com(4x)、cj.ffzyapi.com(3x)、m3u8.apiyhzy.com(3x)",
+    "点播：本轮新入池 10 个（池 22）",
+    "点播：候选池 18 个待测",
+    "点播候选 快车资源 不通：http（连败 2）",
+    "点播候选 天空资源 不通：http（连败 2）",
+    "点播候选 量子资源 不通：http（连败 2）",
+    "点播候选 非凡资源 不通：http（连败 2）",
+    "点播候选 暴风资源 不通：http（连败 2）",
+    "点播候选 电影天堂 不通：http（连败 2）",
+    "点播候选 索尼资源 不通：http（连败 2）",
+    "点播候选 1080资源 不通：http（连败 2）",
+    "点播候选 m3u8.apiyhzy.com 不通：http（连败 1）",
+    "点播候选 haiwaikan.com 不通：http（连败 1）",
+    "点播候选 ikunzyapi.com 不通：http（连败 1）",
+    "点播候选 cj.yayazy.net 测通(m3u8-alive)，作为新站追加",
+    "点播候选 caiji.maotaizy.cc 测通(m3u8-dead:head)，作为新站追加",
+    "点播候选 caiji.dbzy5.com 不通：http（连败 1）",
+    "点播候选 sdzyapi.com 测通(m3u8-alive)，作为新站追加",
+    "点播候选 api.wwzy.tv 不通：http（连败 1）",
+    "点播候选 subocaiji.com 不通：http（连败 1）",
+    "点播候选 api.kuaifan.tv 不通：http（连败 1）",
+    "点播：候选测 18，可进 3",
     "点播：[空跑] 本应剔除 4：海外资源、天空资源、快车资源、卧龙资源"
   ]
 }
