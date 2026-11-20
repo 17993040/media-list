@@ -122,21 +122,23 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="港澳台",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",纬来体育
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 group-title="港澳台",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 group-title="港澳台",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰资讯
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="港澳台",EN|NowRock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",东森美洲
+http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
 #EXTINF:-1 group-title="湖北台",荆门新闻综合
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="湖北台",荆门科教文旅
