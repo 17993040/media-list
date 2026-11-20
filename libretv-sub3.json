@@ -71,7 +71,7 @@
   ],
   "liveSources": [
     {
-      "name": "IPTV 总包（74 台 · 5 组）",
+      "name": "IPTV 总包（75 台 · 5 组）",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/17993040/media-list/main/live-all3.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
