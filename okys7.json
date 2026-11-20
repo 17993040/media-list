@@ -210,6 +210,46 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
+    },
+    {
+      "key": "iqiyiz",
+      "name": "iqiyizyapi.com",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "apiwuj",
+      "name": "api.wujinapi.net",
+      "type": 1,
+      "api": "https://api.wujinapi.net/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "jyzyap",
+      "name": "jyzyapi.com",
+      "type": 1,
+      "api": "https://jyzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "loveda",
+      "name": "www.lovedan.net",
+      "type": 1,
+      "api": "https://www.lovedan.net/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
     }
   ],
   "parses": [
