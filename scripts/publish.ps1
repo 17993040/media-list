@@ -218,7 +218,8 @@ if (Test-Path $logoStatePath) {
     } elseif ($lRj -ge 5) {
       [void]$sbNote.Append("台标鉴定：今天 $lRj 条台标对不上被拒，攒到阈值，需要本机看一次对照图`n")
     } elseif ($lRc -ge 5) {
-      [void]$sbNote.Append("台标鉴定：$lRc 条读不出台名（源站没填 service_name），在待选池里堆着，需要看画面才能定`n")
+      $lSheet = if ($ls.sheet) { "，本机看 $($ls.sheet)" } else { '' }
+      [void]$sbNote.Append("台标鉴定：$lRc 条读不出台名（源站没填频道名），在待选池里堆着$lSheet`n")
     }
   } catch { }
 }
