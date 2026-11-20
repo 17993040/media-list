@@ -1,4 +1,4 @@
-# publish.ps1
+﻿# publish.ps1
 # 每日 5:00 发布：把 channels.json 变成 App 订阅的两份清单，并生成微信摘要
 # 只改 live-all3.m3u / live-all3-full.m3u，不碰两个点播 JSON（点播由云端维护）
 
@@ -217,6 +217,8 @@ if (Test-Path $logoStatePath) {
       [void]$sbNote.Append("台标鉴定：转正 $lAp 条（$lNames） 复检 $lRc / 被拒 $lRj / 异常 $lEr`n")
     } elseif ($lRj -ge 5) {
       [void]$sbNote.Append("台标鉴定：今天 $lRj 条台标对不上被拒，攒到阈值，需要本机看一次对照图`n")
+    } elseif ($lRc -ge 5) {
+      [void]$sbNote.Append("台标鉴定：$lRc 条读不出台名（源站没填 service_name），在待选池里堆着，需要看画面才能定`n")
     }
   } catch { }
 }
