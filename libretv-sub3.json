@@ -82,6 +82,21 @@
       "name": "slapibf",
       "url": "https://slapibf.com/api.php/provide/vod/at/json",
       "isAdult": false
+    },
+    {
+      "name": "cj.yayazy.net",
+      "url": "https://cj.yayazy.net/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "caiji.maotaizy.cc",
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "sdzyapi.com",
+      "url": "http://sdzyapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
     }
   ],
   "liveSources": [
