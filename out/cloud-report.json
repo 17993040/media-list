@@ -1,0 +1,284 @@
+{
+  "ts": "2026-11-20T09:22:10.666Z",
+  "scanned": 38,
+  "pass": 36,
+  "marked": 28,
+  "added": 23,
+  "promoted": 0,
+  "skipped": 0,
+  "detail": [
+    {
+      "name": "CCTV-1",
+      "url": "http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4174571
+    },
+    {
+      "name": "CCTV-2",
+      "url": "http://112.123.243.37:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4192771
+    },
+    {
+      "name": "CCTV-3",
+      "url": "http://112.123.243.37:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4194171
+    },
+    {
+      "name": "CCTV-4",
+      "url": "http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4182971
+    },
+    {
+      "name": "CCTV-5",
+      "url": "http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4181571
+    },
+    {
+      "name": "CCTV-6",
+      "url": "http://112.123.243.37:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4191371
+    },
+    {
+      "name": "CCTV-7",
+      "url": "http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4191371
+    },
+    {
+      "name": "CCTV-8",
+      "url": "http://112.123.243.37:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4191371
+    },
+    {
+      "name": "CCTV-9",
+      "url": "http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4177371
+    },
+    {
+      "name": "CCTV-10",
+      "url": "http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4180171
+    },
+    {
+      "name": "CCTV-11",
+      "url": "http://112.123.243.37:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4194171
+    },
+    {
+      "name": "CCTV-12",
+      "url": "http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4189971
+    },
+    {
+      "name": "CCTV-13",
+      "url": "http://112.123.243.37:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4192771
+    },
+    {
+      "name": "CCTV-14",
+      "url": "http://112.123.243.37:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4181571
+    },
+    {
+      "name": "CCTV-15",
+      "url": "http://112.123.243.37:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4188571
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4174571
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4177371
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4135371
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4194171
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 3495296
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4194171
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4182971
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4135371
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4194171
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4192771
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4194171
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4194171
+    },
+    {
+      "name": "CCTV-1",
+      "url": "http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4188391
+    },
+    {
+      "name": "CCTV-6",
+      "url": "http://221.7.175.154:8445/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4165991
+    },
+    {
+      "name": "CCTV-7",
+      "url": "http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4193991
+    },
+    {
+      "name": "CCTV-8",
+      "url": "http://221.7.175.154:8445/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4149191
+    },
+    {
+      "name": "CCTV-10",
+      "url": "http://221.7.175.154:8445/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4189791
+    },
+    {
+      "name": "CCTV-11",
+      "url": "http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4192591
+    },
+    {
+      "name": "CCTV-13",
+      "url": "http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4185591
+    },
+    {
+      "name": "CCTV-14",
+      "url": "http://221.7.175.154:8445/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4192591
+    },
+    {
+      "name": "CCTV-5+",
+      "url": "http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 4179991
+    },
+    {
+      "name": "东森超视",
+      "url": "http://38.64.72.148/hls/modn/list/2013/playlist.m3u8",
+      "ok": false,
+      "stage": "seg2-small",
+      "bytes": 0
+    },
+    {
+      "name": "东森美洲",
+      "url": "http://38.64.72.148/hls/modn/list/2015/playlist.m3u8",
+      "ok": false,
+      "stage": "seg1-small",
+      "bytes": 0
+    }
+  ],
+  "log": [
+    "台数 75",
+    "候选 38 条",
+    "去重后 38 条",
+    "测完 通过 36 / 38",
+    "标记 28  加备线 23  顶上主线 0  跳过 0"
+  ]
+}
