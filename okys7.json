@@ -160,6 +160,36 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
+    },
+    {
+      "key": "cjyaya",
+      "name": "cj.yayazy.net",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "caijim",
+      "name": "caiji.maotaizy.cc",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "sdzyap",
+      "name": "sdzyapi.com",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
     }
   ],
   "parses": [
