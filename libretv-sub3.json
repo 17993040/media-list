@@ -29,28 +29,8 @@
       "isAdult": false
     },
     {
-      "name": "海外资源",
-      "url": "https://api.haiwaiapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "天空资源",
-      "url": "https://api.tiankongapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
       "name": "最大资源",
       "url": "https://api.zuidapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "快车资源",
-      "url": "https://caiji.kuaichezy.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "卧龙资源",
-      "url": "https://collect.wolongzyw.com/api.php/provide/vod/at/json",
       "isAdult": false
     },
     {
@@ -96,6 +76,36 @@
     {
       "name": "sdzyapi.com",
       "url": "http://sdzyapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "api.maoyanapi.top",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "api.niuniuzy.me",
+      "url": "https://api.niuniuzy.me/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "api.okzyw.net",
+      "url": "https://api.okzyw.net/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "api.ukuapi88.com",
+      "url": "https://api.ukuapi88.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "tyyszyapi.com",
+      "url": "https://tyyszyapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "www.huyaapi.com",
+      "url": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "isAdult": false
     }
   ],
