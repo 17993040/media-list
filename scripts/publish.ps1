@@ -38,6 +38,7 @@ if (Test-Path -LiteralPath $prevPath) {
 function Get-Label($c) {
   $hasBackup = @($c.backup | Where-Object { $_ }).Count -gt 0
   if (-not $c.main -and -not $hasBackup) { return ($c.name + '〔待补〕') }
+  if (($c.cloud -eq 'fail' -or ($c.note -match '待补')) -and -not $hasBackup) { return ($c.name + '〔待补〕') }
   if ($c.cloud -eq 'ok') { return ($c.name + '[华为云已测]') }
   return $c.name
 }
@@ -55,7 +56,8 @@ foreach ($c in $chs) {
   # 主线选线：main 有就用；main 空则拿第一条备线顶上，避免清单里出现死条目
   $liveUrl = $null
   if ($c.main) { $liveUrl = [string]$c.main }
-  else {
+  # 云端判死的主线：发布时直接用第一条备线顶上，别把死链放进主清单
+  if ((-not $c.main) -or ($c.cloud -eq 'fail')) {
     foreach ($b in @($c.backup)) { if ($b) { $liveUrl = [string]$b; break } }
   }
 
@@ -74,8 +76,12 @@ foreach ($c in $chs) {
   if ($liveUrl) { $urls += $liveUrl }
   foreach ($b in @($c.backup)) {
     if (-not $b) { continue }
-    if ($urls.Count -ge 3) { break }
+    if ($urls.Count -ge 5) { break }
     $urls += [string]$b
+  }
+  # 主线被判死、备线顶上时，旧主线也留在全量里当一条备选（总上限 5 条）
+  if ($c.main -and $c.main -ne $liveUrl -and $urls.Count -lt 5) {
+    $urls += [string]$c.main
   }
   $seen = @{}
   $uniq = @()
