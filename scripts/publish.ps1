@@ -202,6 +202,25 @@ if ($scanCand -or $scanTotal) {
   [void]$sbNote.Append("扫源 03:00：编号 $scanTotal / 活源 $scanAlive / 候选 $scanCand`n")
 }
 
+# 台标鉴定（本机打分，>=8 分自动转正；只在有结果/该提醒时出一行）
+$logoStatePath = Join-Path $outDir 'logo-score\state.json'
+if (Test-Path $logoStatePath) {
+  try {
+    $ls = Get-Content -LiteralPath $logoStatePath -Raw -Encoding UTF8 | ConvertFrom-Json
+    $lsAgeH = ((Get-Date).ToUniversalTime() - ([datetimeoffset]::Parse($ls.updated)).UtcDateTime).TotalHours
+    $lAp = [int]$ls.autoPass; $lRj = [int]$ls.reject; $lRc = [int]$ls.recheck; $lEr = [int]$ls.error
+    if ($lsAgeH -gt 36) {
+      [void]$sbNote.Append("台标鉴定：本机 $([int]$lsAgeH) 小时没出结果，新线暂留待选池`n")
+    } elseif ($lAp -gt 0) {
+      $lNames = @($ls.promoted | Select-Object -First 5) -join '、'
+      if (@($ls.promoted).Count -gt 5) { $lNames += '…' }
+      [void]$sbNote.Append("台标鉴定：转正 $lAp 条（$lNames） 复检 $lRc / 被拒 $lRj / 异常 $lEr`n")
+    } elseif ($lRj -ge 5) {
+      [void]$sbNote.Append("台标鉴定：今天 $lRj 条台标对不上被拒，攒到阈值，需要本机看一次对照图`n")
+    }
+  } catch { }
+}
+
 $gLine = @()
 foreach ($k in @('央视台', '卫视频道', '港澳台', '武汉台', '体育娱乐')) {
   if ($g.ContainsKey($k)) { $gLine += "$k $($g[$k])" }
