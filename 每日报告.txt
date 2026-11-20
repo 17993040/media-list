@@ -1,17 +1,11 @@
 # 影视源每日报告
 
-- 生成时间：2026-11-20 18:46:35 北京时间
-- 直播 87 台（有源 69 / 待补 18 / 华为云已测 33）
+- 生成时间：2026-11-20 20:44:00 北京时间
+- 直播 87 台（有源 69 / 待补 18 / 华为云已测 28）
 - 清单条目：主线 87 条 / 全量 113 条
 
-## 新增直播
-内蒙古卫视、海南卫视、四川卫视、东森新闻、中视、中天新闻、华视、公视、三立新闻、Now90s、NowRock、翡翠台、明珠台、无线新闻台、ViuTV、HOY TV、澳视、武汉电视剧、武汉都市文体、金鹰卡通、浙江少儿、黑龙江少儿频道、梨园、音乐欣赏、意大利Ⅳ2音乐频道、FoxSport1、FoxSport2、FoxSport3、DiscoveryHDWorld、FoxSports501
-
-## 删除直播
-安多卫视、EN|NowRock、CGTN-阿语、东森美洲卫视、深圳卫视、人间卫视、荆门公共频道、荆门新闻综合、CCTV+、荆门科教文旅、CGTN-西语、CGTN、CCTV-世界地理、东方卫视4K、CGTN-法语、CGTN-纪录、三沙卫视、延边卫视
-
 ## 换线
-CCTV-2
+CCTV-5
 
 ## 体育娱乐（动态组）
 - 金鹰卡通：有源，备线 2 条，少儿
@@ -19,18 +13,18 @@ CCTV-2
 - 黑龙江少儿频道：有源，备线 0 条，少儿
 - CHC电影：有源，备线 0 条，影视
 - 梨园：有源，备线 0 条，戏曲·签名会过期
-- 音乐欣赏：有源，备线 0 条，云端连续判死 1 轮
-- 意大利Ⅳ2音乐频道：有源，备线 0 条，云端连续判死 1 轮
-- FoxSport1：有源，备线 0 条，云端连续判死 1 轮
-- FoxSport2：有源，备线 0 条，云端连续判死 1 轮
-- FoxSport3：有源，备线 0 条，云端连续判死 1 轮
-- DiscoveryHDWorld：有源，备线 0 条，云端连续判死 1 轮
-- FoxSports501：有源，备线 0 条，云端连续判死 1 轮
+- 音乐欣赏：有源，备线 0 条，音乐·该站易抖
+- 意大利Ⅳ2音乐频道：有源，备线 0 条，音乐·海外
+- FoxSport1：有源，备线 0 条，体育·海外
+- FoxSport2：有源，备线 0 条，体育·海外
+- FoxSport3：有源，备线 0 条，体育·海外
+- DiscoveryHDWorld：有源，备线 0 条，纪实·海外
+- FoxSports501：有源，备线 0 条，体育·域名可疑
 
-## 点播站（13 个，通过 8）
+## 点播站（13 个，通过 9）
 - OK 建安采集：api-page
 - OK 天涯资源：m3u8-alive（已验证出片）
-- XX 360资源：http
+- OK 360资源：m3u8-dead:ts1-no-sync
 - OK 百度资源：m3u8-alive（已验证出片）
 - OK 光速资源：m3u8-dead:ts1-no-sync
 - XX 海外资源：http
@@ -120,15 +114,15 @@ CCTV-2
 - [武汉台] 武汉新闻综合：主线无，备线 0，cloud=untested，无可用源
 - [武汉台] 武汉电视剧：主线无，备线 0，cloud=untested，无可用源
 - [武汉台] 武汉都市文体：主线无，备线 0，cloud=untested，无可用源
-- [体育娱乐] 金鹰卡通：主线有，备线 2，cloud=ok，少儿
-- [体育娱乐] 浙江少儿：主线有，备线 1，cloud=ok，少儿
-- [体育娱乐] 黑龙江少儿频道：主线有，备线 0，cloud=ok，少儿
-- [体育娱乐] CHC电影：主线有，备线 0，cloud=ok，影视
-- [体育娱乐] 梨园：主线有，备线 0，cloud=ok，戏曲·签名会过期
-- [体育娱乐] 音乐欣赏：主线有，备线 0，cloud=untested，云端连续判死 1 轮
-- [体育娱乐] 意大利Ⅳ2音乐频道：主线有，备线 0，cloud=untested，云端连续判死 1 轮
-- [体育娱乐] FoxSport1：主线有，备线 0，cloud=untested，云端连续判死 1 轮
-- [体育娱乐] FoxSport2：主线有，备线 0，cloud=untested，云端连续判死 1 轮
-- [体育娱乐] FoxSport3：主线有，备线 0，cloud=untested，云端连续判死 1 轮
-- [体育娱乐] DiscoveryHDWorld：主线有，备线 0，cloud=untested，云端连续判死 1 轮
-- [体育娱乐] FoxSports501：主线有，备线 0，cloud=untested，云端连续判死 1 轮
+- [体育娱乐] 金鹰卡通：主线有，备线 2，cloud=untested，少儿
+- [体育娱乐] 浙江少儿：主线有，备线 1，cloud=untested，少儿
+- [体育娱乐] 黑龙江少儿频道：主线有，备线 0，cloud=untested，少儿
+- [体育娱乐] CHC电影：主线有，备线 0，cloud=untested，影视
+- [体育娱乐] 梨园：主线有，备线 0，cloud=untested，戏曲·签名会过期
+- [体育娱乐] 音乐欣赏：主线有，备线 0，cloud=untested，音乐·该站易抖
+- [体育娱乐] 意大利Ⅳ2音乐频道：主线有，备线 0，cloud=untested，音乐·海外
+- [体育娱乐] FoxSport1：主线有，备线 0，cloud=untested，体育·海外
+- [体育娱乐] FoxSport2：主线有，备线 0，cloud=untested，体育·海外
+- [体育娱乐] FoxSport3：主线有，备线 0，cloud=untested，体育·海外
+- [体育娱乐] DiscoveryHDWorld：主线有，备线 0，cloud=untested，纪实·海外
+- [体育娱乐] FoxSports501：主线有，备线 0，cloud=untested，体育·域名可疑
