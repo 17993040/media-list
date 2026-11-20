@@ -152,6 +152,51 @@
       "name": "360zyzz.com",
       "url": "https://360zyzz.com/api.php/provide/vod/at/json",
       "isAdult": false
+    },
+    {
+      "name": "www.iqiyizyapi.com",
+      "url": "https://www.iqiyizyapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "api.wujinapi.cc",
+      "url": "https://api.wujinapi.cc/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "www.hongniuzy3.com",
+      "url": "https://www.hongniuzy3.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "lovedan.net",
+      "url": "https://lovedan.net/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "cdn.dzzyapi.com",
+      "url": "https://cdn.dzzyapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "dadiapi.com",
+      "url": "https://dadiapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "yonghu.ffzyapi8.com",
+      "url": "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "maoyanzy.com",
+      "url": "https://maoyanzy.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "subocj.com",
+      "url": "https://subocj.com/api.php/provide/vod/at/json",
+      "isAdult": false
     }
   ],
   "liveSources": [
