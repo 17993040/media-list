@@ -184,10 +184,17 @@ if (-not $vodTotal) {
 
 # ---------- 5. 通知文本 ----------
 $sbNote = New-Object System.Text.StringBuilder
-[void]$sbNote.Append("【本次补源报告】$($nowBj.ToString('yyyy-MM-dd HH:mm'))（北京时间）`n")
+$runNote = if ($env:PUBLISH_NOTE) { "（$($env:PUBLISH_NOTE)）" } else { '' }
+[void]$sbNote.Append("【本次补源报告】$($nowBj.ToString('yyyy-MM-dd HH:mm'))（北京时间）$runNote`n")
 [void]$sbNote.Append("直播总数：$total 台（有源 $hasSrc / 待补 $pending）`n")
 [void]$sbNote.Append("新增直播：$($addedNames.Count) 条  删除直播：$($removedNames.Count) 条  换线 $($relinked.Count) 台`n")
-[void]$sbNote.Append("点播源：共 $vodTotal 个    新增 0 个    剔除 $($vodDeleted.Count) 个`n")
+$vodDelTxt = ''
+if ($vodDeleted.Count -gt 0) {
+  $dl = @($vodDeleted | Select-Object -First 3)
+  $vodDelTxt = '（' + ($dl -join '、') + $(if ($vodDeleted.Count -gt 3) { '…' } else { '' }) + '）'
+}
+$vodAliveTxt = if ($vodTotal -gt 0) { "存活 $vodPass 个" } else { '存活 未测' }
+[void]$sbNote.Append("点播源：共 $vodTotal 个    $vodAliveTxt    剔除 $($vodDeleted.Count) 个$vodDelTxt`n")
 
 if ($rep -and $cloudFresh) {
   $cloudFail = [int]$rep.scanned - [int]$rep.pass
@@ -220,6 +227,25 @@ if (Test-Path $logoStatePath) {
     } elseif ($lRc -ge 5) {
       $lSheet = if ($ls.sheet) { "，本机看 $($ls.sheet)" } else { '' }
       [void]$sbNote.Append("台标鉴定：$lRc 条读不出台名（源站没填频道名），在待选池里堆着$lSheet`n")
+    }
+  } catch { }
+}
+
+# 待确认：判不了或读出台名不符的，已按原填台名挂上（客户端看不出异常），等人工确认
+$unkPath = Join-Path $outDir 'logo-score\unknown.json'
+if (Test-Path -LiteralPath $unkPath) {
+  try {
+    $uk = Get-Content -LiteralPath $unkPath -Raw -Encoding UTF8 | ConvertFrom-Json
+    $ukCount = [int]$uk.count
+    if ($ukCount -gt 0) {
+      $ukNames = @($uk.items | ForEach-Object {
+        $n = $_.name
+        if ($_.real -and $_.real -ne $_.name) { $n += "→" + $_.real }
+        $n
+      } | Select-Object -First 6)
+      $ukWrong = @($uk.items | Where-Object { $_.sort -eq 'wrong' }).Count
+      $ukMore = if ($ukCount -gt 6) { '…' } else { '' }
+      [void]$sbNote.Append("待确认 $ukCount 条（已按原名挂上，不影响播放）$(if($ukWrong -gt 0){"，读出台名不符 $ukWrong 条"})：$($ukNames -join '、')$ukMore`n")
     }
   } catch { }
 }
