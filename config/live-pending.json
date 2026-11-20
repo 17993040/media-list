@@ -1,27 +1,5 @@
 {
-  "updated": "2026-11-20T15:48:01.751Z",
-  "count": 3,
-  "items": [
-    {
-      "name": "金鹰卡通",
-      "url": "http://101.66.194.88:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0",
-      "port": "9901",
-      "src": "moved-from-backup",
-      "reason": "编号表未验证（端口 9901）"
-    },
-    {
-      "name": "金鹰卡通",
-      "url": "http://101.66.194.29:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0",
-      "port": "9901",
-      "src": "moved-from-backup",
-      "reason": "编号表未验证（端口 9901）"
-    },
-    {
-      "name": "金鹰卡通",
-      "url": "http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0",
-      "port": "9901",
-      "src": "moved-from-backup",
-      "reason": "编号表未验证（端口 9901）"
-    }
-  ]
+  "updated": "2026-11-20T20:00:00.184Z",
+  "count": 0,
+  "items": []
 }
