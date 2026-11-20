@@ -1,20 +1,16 @@
 {
- "updated": "2026-11-20T18:17:39Z",
- "checked": 3,
- "autoPass": 3,
+ "updated": "2026-11-20T21:15:37Z",
+ "checked": 0,
+ "autoPass": 0,
  "recheck": 0,
  "reject": 0,
  "error": 0,
- "promoted": [
-  "金鹰卡通",
-  "金鹰卡通",
-  "金鹰卡通"
- ],
+ "promoted": [],
  "rejectDetail": [],
  "recheckDetail": [],
  "sheet": "",
  "frames": [],
  "ocr": true,
  "unknown": 0,
- "seconds": 64
+ "seconds": 0
 }
