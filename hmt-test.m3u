@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="港澳台测试-直连实测通",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-直连实测通",民视新闻
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-直连实测通",台视新闻
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-直连实测通",东森超视
+http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-直连实测通",东森美洲
+http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-直连实测通",台湾-2003
+http://38.64.72.148/hls/modn/list/2003/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-直连实测通",台湾-2005
+http://38.64.72.148/hls/modn/list/2005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-直连实测通",台湾-2012
+http://38.64.72.148/hls/modn/list/2012/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-直连实测通",台湾-2017
+http://38.64.72.148/hls/modn/list/2017/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-直连实测通",台湾-4010
+http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+#EXTINF:-1 group-title="港澳台测试-待验证 分片可能不可达",中天新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
+#EXTINF:-1 group-title="港澳台测试-待验证 分片可能不可达",东森新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
+#EXTINF:-1 group-title="港澳台测试-待验证 分片可能不可达",华视
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041
+#EXTINF:-1 group-title="港澳台测试-待验证 分片可能不可达",中视
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
+#EXTINF:-1 group-title="港澳台测试-待验证 分片可能不可达",华视新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
+#EXTINF:-1 group-title="港澳台测试-待验证 分片可能不可达",中视新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074
+#EXTINF:-1 group-title="港澳台测试-待验证 分片可能不可达",公视戏剧
+http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv042
