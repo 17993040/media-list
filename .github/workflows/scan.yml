@@ -16,6 +16,8 @@ jobs:
   scan:
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    env:
+      MIN_ALIVE: '20'
     steps:
       - name: 取仓库
         uses: actions/checkout@v4
@@ -27,8 +29,18 @@ jobs:
         run: |
           ./scripts/cloud/scan_sources.ps1 -Throttle 6
 
-      - name: 提交产物
+      - name: 零结果保护 + 提交产物
         run: |
+          ALIVE=0
+          if [ -f out/candidates.json ]; then
+            ALIVE=$(python3 -c "import json;print(int(json.load(open('out/candidates.json')).get('alive') or 0))")
+          fi
+          echo "本轮存活数: $ALIVE (阈值 $MIN_ALIVE)"
+          if [ "$ALIVE" -lt "$MIN_ALIVE" ]; then
+            echo "::warning::GitHub 出口探不到国内源（alive=$ALIVE），保留上一版候选池，不覆盖"
+            git checkout -- out/candidates.json out/pending.m3u 2>/dev/null || true
+            exit 0
+          fi
           git config user.name "live-scan-bot"
           git config user.email "live-scan-bot@users.noreply.github.com"
           git add out/candidates.json out/pending.m3u || true
@@ -37,4 +49,21 @@ jobs:
           else
             git commit -m "scan: $(date -u '+%Y-%m-%d %H:%M') UTC"
             git push
+          fi
+
+      - name: 摘要
+        if: always()
+        run: |
+          echo "### 扫源结果" >> $GITHUB_STEP_SUMMARY
+          if [ -f out/candidates.json ]; then
+            python3 - <<'PY' >> $GITHUB_STEP_SUMMARY
+          import json
+          d = json.load(open('out/candidates.json'))
+          print("- 扫描编号: %s" % d.get('scanned'))
+          print("- 存活: %s" % d.get('alive'))
+          print("- 认出: %d" % len(d.get('candidates', [])))
+          print("- 待认: %d" % len(d.get('pending', [])))
+          PY
+          else
+            echo "- 无产物" >> $GITHUB_STEP_SUMMARY
           fi
