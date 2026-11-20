@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-20T14:06:42.326Z",
+  "updated": "2026-11-20T14:21:22.395Z",
   "note": "点播候选采集站池。云端每轮实测：测通即进（match 命中现有站名则视为换域名修复，否则追加新站）；连续多轮不通则停用。",
   "candidates": [
+    {
+      "name": "bfzyapi.com",
+      "key": "bfzyap",
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 5,
+      "failStreak": 1,
+      "lastCheck": "2026-11-20T14:21:22.395Z",
+      "lastStage": "http",
+      "lastOk": false
+    },
     {
       "name": "suoniapi.com",
       "key": "suonia",
@@ -9,8 +21,20 @@
       "match": "",
       "from": "auto",
       "seen": 5,
+      "failStreak": 2,
+      "lastCheck": "2026-11-20T14:21:22.395Z",
+      "lastStage": "http",
+      "lastOk": false
+    },
+    {
+      "name": "caiji.dyttzyapi.com",
+      "key": "caijid",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 4,
       "failStreak": 1,
-      "lastCheck": "2026-11-20T14:06:42.326Z",
+      "lastCheck": "2026-11-20T14:21:22.395Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -261,8 +285,8 @@
       "match": "",
       "from": "auto",
       "seen": 1,
-      "failStreak": 2,
-      "lastCheck": "2026-11-20T14:06:42.326Z",
+      "failStreak": 3,
+      "lastCheck": "2026-11-20T14:21:22.395Z",
       "lastStage": "not-json",
       "lastOk": false
     },
@@ -273,8 +297,8 @@
       "match": "",
       "from": "auto",
       "seen": 1,
-      "failStreak": 2,
-      "lastCheck": "2026-11-20T14:06:42.326Z",
+      "failStreak": 3,
+      "lastCheck": "2026-11-20T14:21:22.395Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -285,8 +309,8 @@
       "match": "",
       "from": "auto",
       "seen": 1,
-      "failStreak": 2,
-      "lastCheck": "2026-11-20T14:06:42.326Z",
+      "failStreak": 3,
+      "lastCheck": "2026-11-20T14:21:22.395Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -297,8 +321,8 @@
       "match": "",
       "from": "auto",
       "seen": 1,
-      "failStreak": 2,
-      "lastCheck": "2026-11-20T14:06:42.326Z",
+      "failStreak": 3,
+      "lastCheck": "2026-11-20T14:21:22.395Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -309,8 +333,8 @@
       "match": "",
       "from": "auto",
       "seen": 1,
-      "failStreak": 2,
-      "lastCheck": "2026-11-20T14:06:42.326Z",
+      "failStreak": 3,
+      "lastCheck": "2026-11-20T14:21:22.395Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -321,8 +345,8 @@
       "match": "",
       "from": "auto",
       "seen": 1,
-      "failStreak": 2,
-      "lastCheck": "2026-11-20T14:06:42.326Z",
+      "failStreak": 3,
+      "lastCheck": "2026-11-20T14:21:22.395Z",
       "lastStage": "http",
       "lastOk": false
     },
@@ -447,28 +471,6 @@
       "api": "http://m3u8.tiankongapi.com/api.php/provide/vod/at/json",
       "match": "天空资源",
       "local": "html",
-      "lastCheck": "2026-11-20T13:28:45.560Z",
-      "lastStage": "http",
-      "lastOk": false,
-      "failStreak": 3
-    },
-    {
-      "name": "量子资源",
-      "key": "lzzy",
-      "api": "http://cj.lziapi.com/api.php/provide/vod/at/json",
-      "match": "",
-      "local": "timeout",
-      "lastCheck": "2026-11-20T13:28:45.560Z",
-      "lastStage": "http",
-      "lastOk": false,
-      "failStreak": 3
-    },
-    {
-      "name": "非凡资源",
-      "key": "ffzy",
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/json",
-      "match": "",
-      "local": "timeout",
       "lastCheck": "2026-11-20T13:28:45.560Z",
       "lastStage": "http",
       "lastOk": false,
