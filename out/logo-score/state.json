@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:22:09Z",
+ "updated": "2026-11-20T16:34:13Z",
  "checked": 3,
  "autoPass": 0,
  "recheck": 3,
@@ -24,5 +24,23 @@
    "url": "http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0"
   }
  ],
- "seconds": 9
+ "sheet": "out\\logo-frame\\sheet.png",
+ "frames": [
+  {
+   "expect": "金鹰卡通",
+   "file": "out\\logo-frame\\auto_01_金鹰卡通.png",
+   "error": ""
+  },
+  {
+   "expect": "金鹰卡通",
+   "file": "out\\logo-frame\\auto_02_金鹰卡通.png",
+   "error": ""
+  },
+  {
+   "expect": "金鹰卡通",
+   "file": "out\\logo-frame\\auto_03_金鹰卡通.png",
+   "error": ""
+  }
+ ],
+ "seconds": 11
 }
