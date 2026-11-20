@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20T10:35:59.194Z",
+  "updated": "2026-11-20T11:27:43.818Z",
   "rule": "list: 只出主线一条；backup: 备线池，单台≤3；标记只代表华为云测过且通过",
   "counts": {
     "央视台": 17,
@@ -25,7 +25,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -40,7 +40,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -57,7 +57,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -74,7 +74,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -91,7 +91,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -106,7 +106,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -123,7 +123,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -140,7 +140,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -157,7 +157,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -172,7 +172,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -189,7 +189,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -207,7 +207,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -224,7 +224,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -241,7 +241,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -258,7 +258,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -275,7 +275,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -305,7 +305,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -322,7 +322,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -339,7 +339,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -386,7 +386,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -416,7 +416,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -433,7 +433,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -450,7 +450,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -467,7 +467,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -484,7 +484,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -531,7 +531,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -593,7 +593,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -728,7 +728,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": ""
     },
     {
@@ -1196,7 +1196,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": "少儿"
     },
     {
@@ -1213,7 +1213,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": "少儿"
     },
     {
@@ -1228,7 +1228,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": "少儿"
     },
     {
@@ -1241,10 +1241,10 @@
       "local": "untested",
       "cloud": "ok",
       "must": false,
-      "failCount": 0,
+      "failCount": 1,
       "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
-      "note": "影视"
+      "lastCloud": "2026-11-20T11:27:43.818Z",
+      "note": "云端连续判死 1 轮"
     },
     {
       "seq": 80,
@@ -1258,113 +1258,8 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
+      "lastCloud": "2026-11-20T11:27:43.818Z",
       "note": "戏曲·签名会过期"
-    },
-    {
-      "seq": 81,
-      "group": "体育娱乐",
-      "gid": "ent",
-      "name": "音乐欣赏",
-      "main": "http://61.221.215.25:8800/hls/49/index.m3u8",
-      "backup": [],
-      "local": "untested",
-      "cloud": "untested",
-      "must": false,
-      "failCount": 1,
-      "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
-      "note": "云端连续判死 1 轮"
-    },
-    {
-      "seq": 82,
-      "group": "体育娱乐",
-      "gid": "ent",
-      "name": "意大利Ⅳ2音乐频道",
-      "main": "http://de1se01.v2beat.live/playlist.m3u8",
-      "backup": [],
-      "local": "untested",
-      "cloud": "untested",
-      "must": false,
-      "failCount": 1,
-      "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
-      "note": "云端连续判死 1 轮"
-    },
-    {
-      "seq": 83,
-      "group": "体育娱乐",
-      "gid": "ent",
-      "name": "FoxSport1",
-      "main": "https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8",
-      "backup": [],
-      "local": "untested",
-      "cloud": "untested",
-      "must": false,
-      "failCount": 1,
-      "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
-      "note": "云端连续判死 1 轮"
-    },
-    {
-      "seq": 84,
-      "group": "体育娱乐",
-      "gid": "ent",
-      "name": "FoxSport2",
-      "main": "https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8",
-      "backup": [],
-      "local": "untested",
-      "cloud": "untested",
-      "must": false,
-      "failCount": 1,
-      "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
-      "note": "云端连续判死 1 轮"
-    },
-    {
-      "seq": 85,
-      "group": "体育娱乐",
-      "gid": "ent",
-      "name": "FoxSport3",
-      "main": "https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8",
-      "backup": [],
-      "local": "untested",
-      "cloud": "untested",
-      "must": false,
-      "failCount": 1,
-      "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
-      "note": "云端连续判死 1 轮"
-    },
-    {
-      "seq": 86,
-      "group": "体育娱乐",
-      "gid": "ent",
-      "name": "DiscoveryHDWorld",
-      "main": "https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8",
-      "backup": [],
-      "local": "untested",
-      "cloud": "untested",
-      "must": false,
-      "failCount": 1,
-      "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
-      "note": "云端连续判死 1 轮"
-    },
-    {
-      "seq": 87,
-      "group": "体育娱乐",
-      "gid": "ent",
-      "name": "FoxSports501",
-      "main": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8",
-      "backup": [],
-      "local": "untested",
-      "cloud": "untested",
-      "must": false,
-      "failCount": 1,
-      "lastLocal": "",
-      "lastCloud": "2026-11-20T10:35:59.194Z",
-      "note": "云端连续判死 1 轮"
     }
   ]
 }
