@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20T09:30:22.676Z",
+  "updated": "2026-11-20T10:31:35.267Z",
   "rule": "list: 只出主线一条；backup: 备线池，单台≤3；标记只代表华为云测过且通过",
   "counts": {
     "cctv": 17,
@@ -24,7 +24,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -39,7 +39,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -56,7 +56,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -73,7 +73,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -90,7 +90,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -105,7 +105,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -122,7 +122,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -139,7 +139,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -156,7 +156,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -171,7 +171,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -188,7 +188,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -206,7 +206,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -223,7 +223,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -240,7 +240,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -257,7 +257,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -274,7 +274,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -304,7 +304,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -321,7 +321,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -338,7 +338,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -385,7 +385,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -415,7 +415,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -432,7 +432,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -449,7 +449,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -466,7 +466,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -483,7 +483,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -530,7 +530,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -592,7 +592,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
@@ -727,7 +727,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-20T09:30:22.676Z",
+      "lastCloud": "2026-11-20T10:31:35.267Z",
       "note": ""
     },
     {
