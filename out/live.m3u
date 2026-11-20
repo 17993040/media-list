@@ -99,19 +99,19 @@ http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 group-title="港澳台",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="港澳台",东森超视
+#EXTINF:-1 group-title="港澳台",东森超视[华为云已测]
 http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",东森美洲
+#EXTINF:-1 group-title="港澳台",东森美洲[华为云已测]
 http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",东森新闻〔待补〕
 http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 group-title="港澳台",中视
+#EXTINF:-1 group-title="港澳台",中视[华为云已测]
 http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",中天新闻〔待补〕
 http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻
-http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻台
+#EXTINF:-1 group-title="港澳台",台视新闻[华为云已测]
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻台[华为云已测]
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",华视〔待补〕
 http://0.0.0.0:1/void.m3u8
