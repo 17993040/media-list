@@ -1,0 +1,90 @@
+{
+  "updated": "2026-11-20T19:15:00+08:00",
+  "note": "点播候选采集站池。云端每轮实测：测通即进（match 命中现有站名则视为换域名修复，否则追加新站）；连续多轮不通则停用。",
+  "candidates": [
+    {
+      "name": "豪华资源",
+      "key": "hhzy",
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "local": "ok"
+    },
+    {
+      "name": "无尽资源",
+      "key": "wjzy",
+      "api": "https://api.wujinapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "local": "ok"
+    },
+    {
+      "name": "魔都资源",
+      "key": "mdzy",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/at/json",
+      "match": "魔都资源",
+      "local": "ok"
+    },
+    {
+      "name": "快车资源",
+      "key": "kczy",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/json",
+      "match": "快车资源",
+      "local": "ssl"
+    },
+    {
+      "name": "天空资源",
+      "key": "tkzy",
+      "api": "http://m3u8.tiankongapi.com/api.php/provide/vod/at/json",
+      "match": "天空资源",
+      "local": "html"
+    },
+    {
+      "name": "量子资源",
+      "key": "lzzy",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "local": "timeout"
+    },
+    {
+      "name": "非凡资源",
+      "key": "ffzy",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "local": "timeout"
+    },
+    {
+      "name": "暴风资源",
+      "key": "bfzy",
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "local": "timeout"
+    },
+    {
+      "name": "电影天堂",
+      "key": "dytt",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "local": "timeout"
+    },
+    {
+      "name": "索尼资源",
+      "key": "snzy",
+      "api": "https://suoniapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "local": "timeout"
+    },
+    {
+      "name": "1080资源",
+      "key": "1080",
+      "api": "http://api.1080zyku.com/inc/api.php/provide/vod/at/json",
+      "match": "",
+      "local": "timeout"
+    },
+    {
+      "name": "slapibf",
+      "key": "slap",
+      "api": "https://slapibf.com/api.php/provide/vod/at/json",
+      "match": "",
+      "local": "unknown"
+    }
+  ]
+}
