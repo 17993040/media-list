@@ -250,6 +250,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
+    },
+    {
+      "key": "ffzytv",
+      "name": "ffzy.tv",
+      "type": 1,
+      "api": "http://ffzy.tv/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
     }
   ],
   "parses": [
