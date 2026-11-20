@@ -45,3 +45,9 @@ http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid
 http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",广东卫视〔备〕
 http://112.123.243.37:50085/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="体育娱乐",金鹰卡通〔备〕
+http://101.66.194.88:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="体育娱乐",金鹰卡通〔备〕
+http://101.66.194.29:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="体育娱乐",浙江少儿〔备〕
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
