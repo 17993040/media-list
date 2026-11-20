@@ -1,0 +1,213 @@
+{
+  "updated": "2026-11-20T10:31:35.267Z",
+  "sites": {
+    "http://154.219.117.232:9981/jacloudapi.php/provide/vod/at/json": {
+      "name": "建安采集",
+      "failStreak": 0,
+      "lastOk": "2026-11-20T10:31:35.267Z",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": true,
+          "stage": "api-page",
+          "code": 0,
+          "n": 20
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "api-page"
+    },
+    "http://tyyszy.com/api.php/provide/vod/at/json": {
+      "name": "天涯资源",
+      "failStreak": 0,
+      "lastOk": "2026-11-20T10:31:35.267Z",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "m3u8-alive"
+    },
+    "https://360zy.com/api.php/provide/vod/at/json": {
+      "name": "360资源",
+      "failStreak": 1,
+      "lastOk": "",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": false,
+          "stage": "no-play-url",
+          "code": 0,
+          "n": 20
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "no-play-url"
+    },
+    "https://api.apibdzy.com/api.php/provide/vod/at/json": {
+      "name": "百度资源",
+      "failStreak": 0,
+      "lastOk": "2026-11-20T10:31:35.267Z",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "m3u8-alive"
+    },
+    "https://api.guangsuapi.com/api.php/provide/vod/at/json": {
+      "name": "光速资源",
+      "failStreak": 0,
+      "lastOk": "2026-11-20T10:31:35.267Z",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "m3u8-dead:ts1-no-sync"
+    },
+    "https://api.haiwaiapi.com/api.php/provide/vod/at/json": {
+      "name": "海外资源",
+      "failStreak": 1,
+      "lastOk": "",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": false,
+          "stage": "http",
+          "code": 0,
+          "n": 0
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "http"
+    },
+    "https://api.tiankongapi.com/api.php/provide/vod/at/json": {
+      "name": "天空资源",
+      "failStreak": 1,
+      "lastOk": "",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": false,
+          "stage": "http",
+          "code": 0,
+          "n": 0
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "http"
+    },
+    "https://api.zuidapi.com/api.php/provide/vod/at/json": {
+      "name": "最大资源",
+      "failStreak": 0,
+      "lastOk": "2026-11-20T10:31:35.267Z",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "m3u8-alive"
+    },
+    "https://caiji.kuaichezy.com/api.php/provide/vod/at/json": {
+      "name": "快车资源",
+      "failStreak": 1,
+      "lastOk": "",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": false,
+          "stage": "http",
+          "code": 0,
+          "n": 0
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "http"
+    },
+    "https://collect.wolongzyw.com/api.php/provide/vod/at/json": {
+      "name": "卧龙资源",
+      "failStreak": 1,
+      "lastOk": "",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": false,
+          "stage": "not-json",
+          "code": 0,
+          "n": 0
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "not-json"
+    },
+    "https://jszyapi.com/api.php/provide/vod/at/json": {
+      "name": "极速资源",
+      "failStreak": 0,
+      "lastOk": "2026-11-20T10:31:35.267Z",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "m3u8-dead:ts1-no-sync"
+    },
+    "https://www.hongniuzy2.com/api.php/provide/vod/at/json": {
+      "name": "红牛资源",
+      "failStreak": 0,
+      "lastOk": "2026-11-20T10:31:35.267Z",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "m3u8-dead:ts1-no-sync"
+    },
+    "https://www.mdzyapi.com/api.php/provide/vod/at/json": {
+      "name": "魔都资源",
+      "failStreak": 0,
+      "lastOk": "2026-11-20T10:31:35.267Z",
+      "history": [
+        {
+          "ts": "2026-11-20T10:31:35.267Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        }
+      ],
+      "lastCheck": "2026-11-20T10:31:35.267Z",
+      "lastStage": "m3u8-alive"
+    }
+  }
+}
