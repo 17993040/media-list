@@ -164,3 +164,37 @@ Write-Output ("=== 扫源结果 " + $ts + " ===")
 Write-Output ("扫描 " + $targets.Count + "  活 " + $alive.Count + "  认出台 " + $cand.Count + "  待认台 " + $pend.Count)
 $cand | Group-Object name | Sort-Object Name | ForEach-Object { Write-Output ("  " + $_.Name + " : " + $_.Count + " 条") }
 Write-Output ("输出: " + (Join-Path $outDir 'candidates.json'))
+
+# ---------- 4. 点播找站（与直播扫源同轮执行，每次扫源都跑） ----------
+Write-Output ""
+try {
+  & (Join-Path $PSScriptRoot 'extract_vod_sources.ps1') -Root $Root
+} catch {
+  Write-Output ("点播找站失败: " + $_.Exception.Message)
+}
+
+# 点播候选独立提交：与直播出口无关，不受 alive 闸门影响
+$vodPath = Join-Path $outDir 'vod-candidates.json'
+if ((Test-Path $vodPath) -and (Get-Command git -ErrorAction SilentlyContinue)) {
+  Push-Location $Root
+  try {
+    $st = (& git status --porcelain 'out/vod-candidates.json' 2>$null)
+    if ($st) {
+      & git add 'out/vod-candidates.json' | Out-Null
+      $msg = 'vodscan: ' + (Get-Date).ToUniversalTime().ToString('yyyy-MM-dd HH:mm') + ' UTC'
+      & git -c user.name='live-scan-bot' -c user.email='live-scan-bot@users.noreply.github.com' commit -m $msg | Out-Null
+      & git push 2>&1 | Out-Null
+      if ($LASTEXITCODE -ne 0) {
+        & git pull --rebase --autostash 2>&1 | Out-Null
+        & git push 2>&1 | Out-Null
+      }
+      Write-Output "点播候选已提交"
+    } else {
+      Write-Output "点播候选无变化"
+    }
+  } catch {
+    Write-Output ("点播候选提交失败: " + $_.Exception.Message)
+  } finally {
+    Pop-Location
+  }
+}
