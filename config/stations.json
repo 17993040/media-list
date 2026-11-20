@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "note": "源站坐标库：探接口用。编号范围按已知有效段收窄，避免无效枚举。新增源站直接追加。",
+  "stations": [
+    {
+      "key": "ah112",
+      "name": "安徽广电",
+      "base": "http://112.123.243.37:50085/tsfile/live/{id}_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "from": "0001",
+      "to": "0200",
+      "pad": 4,
+      "step": 1,
+      "enabled": true
+    },
+    {
+      "key": "gx221",
+      "name": "广西",
+      "base": "http://221.7.175.154:8445/tsfile/live/{id}_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "from": "0990",
+      "to": "1030",
+      "pad": 4,
+      "step": 1,
+      "enabled": true
+    },
+    {
+      "key": "tw38",
+      "name": "台湾38.64-20段",
+      "base": "http://38.64.72.148/hls/modn/list/{id}/playlist.m3u8",
+      "from": "2000",
+      "to": "2030",
+      "pad": 4,
+      "step": 1,
+      "enabled": true
+    },
+    {
+      "key": "tw38b",
+      "name": "台湾38.64-40段",
+      "base": "http://38.64.72.148/hls/modn/list/{id}/playlist.m3u8",
+      "from": "4000",
+      "to": "4040",
+      "pad": 4,
+      "step": 1,
+      "enabled": true
+    },
+    {
+      "key": "hn124",
+      "name": "河南湖南辽宁",
+      "base": "http://124.90.45.52:9901/tsfile/live/{id}_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "from": "0001",
+      "to": "0150",
+      "pad": 4,
+      "step": 1,
+      "enabled": true
+    },
+    {
+      "key": "nx218",
+      "name": "宁夏",
+      "base": "http://218.13.170.98:9901/tsfile/live/{id}_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "from": "0001",
+      "to": "0150",
+      "pad": 4,
+      "step": 1,
+      "enabled": true
+    },
+    {
+      "key": "ah123",
+      "name": "安徽123",
+      "base": "http://123.138.216.44:9901/tsfile/live/{id}_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "from": "0001",
+      "to": "0150",
+      "pad": 4,
+      "step": 1,
+      "enabled": true
+    },
+    {
+      "key": "jx112",
+      "name": "江西",
+      "base": "http://112.27.5.218:9901/tsfile/live/{id}_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "from": "0001",
+      "to": "0150",
+      "pad": 4,
+      "step": 1,
+      "enabled": true
+    }
+  ]
+}
