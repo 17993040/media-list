@@ -1,8 +1,8 @@
 {
-  "ts": "2026-11-21T03:50:09.824Z",
+  "ts": "2026-11-21T03:53:44.387Z",
   "scanned": 230,
   "pass": 43,
-  "marked": 1,
+  "marked": 2,
   "added": 1,
   "promoted": 1,
   "skipped": 2,
@@ -17,7 +17,7 @@
     "total": 40,
     "pass": 40,
     "fail": 0,
-    "candTotal": 2,
+    "candTotal": 1,
     "poolNew": 10,
     "poolRead": true,
     "poolSize": 40,
@@ -429,13 +429,13 @@
     ],
     "push": {
       "pool": 200,
-      "hist": 409
+      "hist": 200
     }
   },
   "detail": [
     {
       "name": "四川卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86",
+      "url": "http://101.35.240.114:88/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -459,60 +459,60 @@
       "url": "http://221.7.175.154:8445/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4192076
+      "bytes": 4193262
     },
     {
       "name": "CCTV-9",
       "url": "http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4152112
+      "bytes": 4182050
     },
     {
       "name": "甘肃卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 3504508
+      "bytes": 3520300
     },
     {
       "name": "北京卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4186786
+      "bytes": 4178008
     },
     {
       "name": "东森美洲",
       "url": "http://38.64.72.148/hls/modn/list/2015/playlist.m3u8",
+      "ok": true,
+      "stage": "keyframe",
+      "bytes": 2072324
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://8.138.7.223/tv/btime.php?id=bjws4k",
       "ok": false,
-      "stage": "seg2-small",
-      "bytes": 1
+      "stage": "head",
+      "bytes": 0
     },
     {
       "name": "CCTV-9",
-      "url": "http://101.35.240.114:88/live.php?id=CCTV9",
+      "url": "http://148.135.93.213/live.php?id=CCTV9",
       "ok": false,
       "stage": "head",
       "bytes": 0
     },
     {
       "name": "CCTV-17",
-      "url": "http://101.35.240.114:88/live.php?id=CCTV17",
+      "url": "http://74.48.192.96:82/live.php?id=CCTV17",
       "ok": false,
       "stage": "head",
       "bytes": 0
     },
     {
-      "name": "翡翠台",
-      "url": "http://101.35.240.114:88/live.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "北京卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86",
+      "name": "CCTV-9",
+      "url": "http://175.8.28.207:9999/tsfile/live/0009_1.m3u8",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -547,56 +547,49 @@
     },
     {
       "name": "东南卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86",
+      "url": "http://148.135.93.213/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86",
       "ok": false,
       "stage": "head",
       "bytes": 0
     },
     {
       "name": "山西卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86",
+      "url": "http://148.135.93.213/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86",
       "ok": false,
       "stage": "head",
       "bytes": 0
     },
     {
       "name": "河南卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86",
+      "url": "http://148.135.93.213/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86",
       "ok": false,
       "stage": "head",
       "bytes": 0
     },
     {
       "name": "甘肃卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86",
+      "url": "http://148.135.93.213/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86",
       "ok": false,
       "stage": "head",
       "bytes": 0
     },
     {
       "name": "贵州卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86",
+      "url": "http://148.135.93.213/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86",
       "ok": false,
       "stage": "head",
       "bytes": 0
     },
     {
       "name": "重庆卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86",
+      "url": "http://148.135.93.213/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86",
       "ok": false,
       "stage": "head",
       "bytes": 0
     },
     {
       "name": "海南卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "CCTV-9",
-      "url": "http://175.8.28.207:9999/tsfile/live/0009_1.m3u8",
+      "url": "http://148.135.93.213/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -709,6 +702,13 @@
     {
       "name": "云南卫视",
       "url": "http://183.131.246.250:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "翡翠台",
+      "url": "http://122.152.202.33/s/81a8a44f/index.m3u8?id=53",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -935,7 +935,7 @@
       "url": "http://fuxin.yunjifei.top:999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193506
+      "bytes": 4193407
     },
     {
       "name": "TVBS新闻台",
@@ -963,119 +963,119 @@
       "url": "http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193094
+      "bytes": 4193406
     },
     {
       "name": "CCTV-2",
       "url": "http://112.123.243.37:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4194276
+      "bytes": 4189648
     },
     {
       "name": "CCTV-3",
       "url": "http://112.123.243.37:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4192116
+      "bytes": 4186456
     },
     {
       "name": "CCTV-4",
       "url": "http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189516
+      "bytes": 4193132
     },
     {
       "name": "CCTV-5",
       "url": "http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4194186
+      "bytes": 4193406
     },
     {
       "name": "CCTV-6",
       "url": "http://112.123.243.37:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4166940
+      "bytes": 4193406
     },
     {
       "name": "CCTV-7",
       "url": "http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4192604
+      "bytes": 4181514
     },
     {
       "name": "CCTV-8",
       "url": "http://112.123.243.37:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4191588
+      "bytes": 4154898
     },
     {
       "name": "CCTV-14",
       "url": "http://112.123.243.37:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189236
+      "bytes": 4192016
     },
     {
       "name": "CCTV-15",
       "url": "http://112.123.243.37:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4180982
+      "bytes": 4190626
     },
     {
       "name": "江苏卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4185346
+      "bytes": 4193406
     },
     {
       "name": "河北卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189130
+      "bytes": 4189236
     },
     {
       "name": "浙江卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4187846
+      "bytes": 4186952
     },
     {
       "name": "山东卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4187846
+      "bytes": 4192360
     },
     {
       "name": "辽宁卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4184960
+      "bytes": 4182286
     },
     {
       "name": "天津卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193658
+      "bytes": 4142182
     },
     {
       "name": "安徽卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189236
+      "bytes": 4192016
     },
     {
       "name": "黑龙江卫视",
@@ -1089,49 +1089,77 @@
       "url": "http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193262
+      "bytes": 4193022
     },
     {
       "name": "CCTV-6",
       "url": "http://221.7.175.154:8445/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193262
+      "bytes": 4161456
     },
     {
       "name": "CCTV-7",
       "url": "http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193262
+      "bytes": 4194084
     },
     {
       "name": "CCTV-8",
       "url": "http://221.7.175.154:8445/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193262
+      "bytes": 4187050
     },
     {
       "name": "CCTV-14",
       "url": "http://221.7.175.154:8445/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193262
+      "bytes": 4193910
     },
     {
       "name": "CCTV-5+",
       "url": "http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193262
+      "bytes": 4193080
     },
     {
       "name": "东森超视",
       "url": "http://38.64.72.148/hls/modn/list/2013/playlist.m3u8",
-      "ok": true,
-      "stage": "keyframe",
-      "bytes": 2025324
+      "ok": false,
+      "stage": "seg2-small",
+      "bytes": 1
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://8.138.7.223/tv/api.php?id=hnws4k",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://8.138.7.223/tv/jsws4k.php",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "山东卫视",
+      "url": "http://101.35.240.114:88/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
     },
     {
       "name": "CCTV-1",
@@ -1142,7 +1170,7 @@
     },
     {
       "name": "CCTV-2",
-      "url": "http://101.35.240.114:88/live.php?id=CCTV2",
+      "url": "http://148.135.93.213/live.php?id=CCTV2",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -1156,7 +1184,7 @@
     },
     {
       "name": "CCTV-4",
-      "url": "http://101.35.240.114:88/live.php?id=CCTV4",
+      "url": "http://148.135.93.213/live.php?id=CCTV4",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -1170,7 +1198,7 @@
     },
     {
       "name": "CCTV-5+",
-      "url": "http://101.35.240.114:88/live.php?id=CCTV5p",
+      "url": "http://148.135.93.213/live.php?id=CCTV5p",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -1184,7 +1212,7 @@
     },
     {
       "name": "CCTV-7",
-      "url": "http://101.35.240.114:88/live.php?id=CCTV7",
+      "url": "http://148.135.93.213/live.php?id=CCTV7",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -1205,105 +1233,7 @@
     },
     {
       "name": "CCTV-15",
-      "url": "http://101.35.240.114:88/live.php?id=CCTV15",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "凤凰资讯",
-      "url": "http://101.35.240.114:88/phenix.php?id=fhzx",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "湖南卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "浙江卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "江苏卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "陕西卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "湖北卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "青海卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "吉林卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "天津卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "安徽卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "山东卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "河北卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "辽宁卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "黑龙江卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86",
+      "url": "http://148.135.93.213/live.php?id=CCTV15",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -1372,8 +1302,78 @@
       "bytes": 0
     },
     {
+      "name": "陕西卫视",
+      "url": "http://101.35.240.114:88/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://101.35.240.114:88/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://148.135.93.213/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://148.135.93.213/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "天津卫视",
+      "url": "http://148.135.93.213/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://101.35.240.114:88/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
       "name": "广西卫视",
       "url": "http://148.135.93.213/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://148.135.93.213/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://148.135.93.213/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://148.135.93.213/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://101.35.240.114:88/phenix.php?id=fhzx",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -1404,7 +1404,7 @@
       "url": "http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 1956892
+      "bytes": 2032468
     },
     {
       "name": "CCTV-5+",
@@ -1530,14 +1530,14 @@
       "url": "http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 2066872
+      "bytes": 1884888
     },
     {
       "name": "辽宁卫视",
       "url": "http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4180433
+      "bytes": 4192588
     },
     {
       "name": "凤凰资讯",
@@ -1810,35 +1810,35 @@
       "url": "http://36.136.38.87:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": false,
       "stage": "ts1-no-keyframe",
-      "bytes": 1565100
+      "bytes": 1558332
     },
     {
       "name": "CCTV-10",
       "url": "http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193916
+      "bytes": 4189236
     },
     {
       "name": "CCTV-11",
       "url": "http://112.123.243.37:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4189168
+      "bytes": 4193406
     },
     {
       "name": "CCTV-12",
       "url": "http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193544
+      "bytes": 4192016
     },
     {
       "name": "CCTV-13",
       "url": "http://112.123.243.37:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4185066
+      "bytes": 4192016
     },
     {
       "name": "东方卫视",
@@ -1852,21 +1852,21 @@
       "url": "http://221.7.175.154:8445/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4191748
+      "bytes": 4194232
     },
     {
       "name": "CCTV-11",
       "url": "http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193524
+      "bytes": 4194262
     },
     {
       "name": "CCTV-13",
       "url": "http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4193286
+      "bytes": 4193852
     },
     {
       "name": "CCTV-10",
@@ -1877,7 +1877,7 @@
     },
     {
       "name": "CCTV-11",
-      "url": "http://101.35.240.114:88/live.php?id=CCTV11",
+      "url": "http://148.135.93.213/live.php?id=CCTV11",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -1891,14 +1891,7 @@
     },
     {
       "name": "CCTV-13",
-      "url": "http://101.35.240.114:88/live.php?id=CCTV13",
-      "ok": false,
-      "stage": "head",
-      "bytes": 0
-    },
-    {
-      "name": "东方卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86",
+      "url": "http://148.135.93.213/live.php?id=CCTV13",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -1927,6 +1920,13 @@
     {
       "name": "CCTV-13",
       "url": "http://175.8.28.207:9999/tsfile/live/0013_1.m3u8",
+      "ok": false,
+      "stage": "head",
+      "bytes": 0
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -1978,18 +1978,18 @@
       "url": "http://124.165.251.82:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 1891092
+      "bytes": 1893724
     },
     {
       "name": "广东卫视",
       "url": "http://112.123.243.37:50085/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0",
       "ok": true,
       "stage": "keyframe",
-      "bytes": 4190608
+      "bytes": 4189236
     },
     {
       "name": "广东卫视",
-      "url": "http://101.35.240.114:88/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86",
+      "url": "http://101.35.240.114:88/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K",
       "ok": false,
       "stage": "head",
       "bytes": 0
@@ -2013,7 +2013,7 @@
       "url": "http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv",
       "ok": false,
       "stage": "ts1-no-keyframe",
-      "bytes": 1748964
+      "bytes": 1750280
     },
     {
       "name": "金鹰卡通",
@@ -2049,8 +2049,8 @@
     "候选 38 条",
     "去重后 38 条",
     "实测表：6 个源站",
-    "直播找源：配置 13/16 读通，清单 20/32 下载，频道条目 98345",
-    "直播找源：命中 58/80 台，新候选 109 条（匹配尝试 98345，对上 673，丢弃非国内IP 96936）",
+    "直播找源：配置 14/16 读通，清单 18/32 下载，频道条目 8056",
+    "直播找源：命中 58/80 台，新候选 109 条（匹配尝试 8056，对上 643，丢弃非国内IP 6682）",
     "并入直播候选后 147 条",
     "编号表：清单 10/10 下载，条目 5457",
     "编号表：16 套表 / 225 条对应（新增 0，改判 3）",
@@ -2061,8 +2061,8 @@
     "直播测完 通过 43 / 230（超时跳过 0）",
     "待选池：从已有备线摘出 2 条可疑线",
     "主线测死 5 台",
-    "标记 1  加备线 1  顶上主线 1  跳过 2",
-    "〔待补〕台 4",
+    "标记 2  加备线 1  顶上主线 1  跳过 2",
+    "〔待补〕台 3",
     "体育娱乐：在册 5 测 5 换线 1 新增 0 移出 0",
     "点播：站点 40 个（libretv 39 / okys 39）",
     "点播：通过 40 / 40",
@@ -2070,9 +2070,8 @@
     "  引用最多的：bfzyapi.com(6x)、suoniapi.com(6x)、cj.lziapi.com(6x)、caiji.dyttzyapi.com(5x)、ikunzyapi.com(4x)、m3u8.apiyhzy.com(4x)",
     "点播：候选池超上限，裁剪 10 个引用最少的",
     "点播：本轮新入池 10 个（池 40）",
-    "点播：候选池 2 个待测",
-    "点播候选 cj.rycjapi.com 不通：http（连败 3）",
-    "点播候选 zuidazy.me 不通：http（连败 1）",
-    "点播：候选测 2，可进 0"
+    "点播：候选池 1 个待测",
+    "点播候选 caiji.kuaichezy.org 不通：http（连败 1）",
+    "点播：候选测 1，可进 0"
   ]
 }
