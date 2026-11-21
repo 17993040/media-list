@@ -198,7 +198,7 @@ $vodAliveTxt = if ($vodTotal -gt 0) { "存活 $vodPass 个" } else { '存活 未
 
 if ($rep -and $cloudFresh) {
   $cloudFail = [int]$rep.scanned - [int]$rep.pass
-  $ageTxt = if ($cloudAge) { "，$cloudAge完成" } else { '' }
+  $ageTxt = if ($cloudAge) { "，${cloudAge}完成" } else { '' }
   [void]$sbNote.Append("云测 $cloudTime（候选 $($rep.scanned) / 通过 $($rep.pass) / 判死 $cloudFail$ageTxt）`n")
 } elseif ($rep) {
   [void]$sbNote.Append("云测未回写：最新报告停在 $cloudTime$(if($cloudAge){"（$cloudAge）"})，本次沿用旧配置`n")
