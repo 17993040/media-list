@@ -185,24 +185,14 @@ http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
 #EXTINF:-1 tvg-id="ch052" tvg-name="东森美洲" group-title="港澳台",东森美洲
 http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
-#EXTINF:-1 tvg-id="ch053" tvg-name="东森新闻" group-title="港澳台",东森新闻
-http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 tvg-id="ch054" tvg-name="中视" group-title="港澳台",中视
 http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
-#EXTINF:-1 tvg-id="ch055" tvg-name="中天新闻" group-title="港澳台",中天新闻
-http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 tvg-id="ch056" tvg-name="台视新闻" group-title="港澳台",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="ch056" tvg-name="台视新闻" group-title="港澳台",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 tvg-id="ch057" tvg-name="民视新闻台" group-title="港澳台",民视新闻台
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-#EXTINF:-1 tvg-id="ch058" tvg-name="华视" group-title="港澳台",华视
-http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 tvg-id="ch059" tvg-name="公视" group-title="港澳台",公视
-http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 tvg-id="ch060" tvg-name="三立新闻" group-title="港澳台",三立新闻
-http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 tvg-id="ch061" tvg-name="三立戏剧台" group-title="港澳台",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="ch062" tvg-name="纬来体育" group-title="港澳台",纬来体育
@@ -213,22 +203,10 @@ http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="ch064" tvg-name="Now70s" group-title="港澳台",Now70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ch065" tvg-name="Now90s" group-title="港澳台",Now90s
-http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 tvg-id="ch066" tvg-name="NowRock" group-title="港澳台",NowRock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ch067" tvg-name="翡翠台" group-title="港澳台",翡翠台
 http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="ch068" tvg-name="明珠台" group-title="港澳台",明珠台
-http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 tvg-id="ch069" tvg-name="无线新闻台" group-title="港澳台",无线新闻台
-http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 tvg-id="ch070" tvg-name="ViuTV" group-title="港澳台",ViuTV
-http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 tvg-id="ch071" tvg-name="HOY TV" group-title="港澳台",HOY TV
-http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 tvg-id="ch072" tvg-name="澳视" group-title="港澳台",澳视
-http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 tvg-id="ch076" tvg-name="金鹰卡通" group-title="体育娱乐",金鹰卡通
 http://112.27.5.218:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch076" tvg-name="金鹰卡通" group-title="体育娱乐",金鹰卡通
