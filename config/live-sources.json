@@ -1,0 +1,13 @@
+{
+  "updated": "2026-11-21T04:45:00Z",
+  "note": "社区直播源清单：函数每天读这份，只对当日待补台匹配；每周由 Actions 校验并刷新",
+  "urls": [
+    "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
+    "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+    "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+    "https://iptv-org.github.io/iptv/countries/cn.m3u",
+    "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+    "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+  ]
+}
