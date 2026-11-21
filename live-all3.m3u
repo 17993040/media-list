@@ -97,8 +97,6 @@ http://218.13.170.98:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="港澳台",TVBS亚洲台[华为云已测]
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-#EXTINF:-1 group-title="港澳台",东森超视
-http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",东森美洲[华为云已测]
 http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",中视[华为云已测]
