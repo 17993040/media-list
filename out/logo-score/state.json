@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:35:25Z",
+ "updated": "2026-11-21T04:11:25Z",
  "checked": 1,
  "autoPass": 0,
  "recheck": 1,
@@ -11,7 +11,7 @@
   {
    "expect": "金鹰卡通",
    "note": "拉流失败:<urlopen error timed out>",
-   "url": "http://101.66.194.88:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0"
+   "url": "http://101.66.199.181:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0"
   }
  ],
  "sheet": "",

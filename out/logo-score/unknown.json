@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-21T03:35:25Z",
+ "updated": "2026-11-21T04:11:25Z",
  "count": 1,
  "items": [
   {
    "name": "金鹰卡通",
-   "url": "http://101.66.194.88:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0",
+   "url": "http://101.66.199.181:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0",
    "sort": "suspect",
    "reason": "抽帧失败:Error opening input files: Connection timed out",
    "tried": "sdt+frame",
-   "host": "101.66.194.88:9901",
+   "host": "101.66.199.181:9901",
    "code": "1000"
   }
  ]
