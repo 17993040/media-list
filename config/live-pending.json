@@ -1,5 +1,13 @@
 {
-  "updated": "2026-11-20T20:00:00.184Z",
-  "count": 0,
-  "items": []
+ "updated": "2026-11-21T03:40:00.000Z",
+ "count": 1,
+ "items": [
+  {
+   "name": "金鹰卡通",
+   "url": "http://101.66.194.88:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0",
+   "port": "9901",
+   "src": "并发测试",
+   "reason": "验证并发抽帧与OCR"
+  }
+ ]
 }
