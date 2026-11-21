@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T04:49:10.009Z",
+  "updated": "2026-11-21T05:46:48.780Z",
   "note": "点播候选采集站池。云端每轮实测：测通即进（match 命中现有站名则视为换域名修复，否则追加新站）；连续多轮不通则停用。",
   "candidates": [
     {
@@ -471,14 +471,14 @@
       "lastOk": true
     },
     {
-      "name": "zuidazy.me",
-      "key": "zuidaz",
-      "api": "https://zuidazy.me/api.php/provide/vod/at/json",
+      "name": "caiji.kuaichezy.org",
+      "key": "caijik",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/at/json",
       "match": "",
       "from": "auto",
       "seen": 1,
       "failStreak": 1,
-      "lastCheck": "2026-11-21T04:49:10.009Z",
+      "lastCheck": "2026-11-21T05:46:48.780Z",
       "lastStage": "http",
       "lastOk": false
     }
