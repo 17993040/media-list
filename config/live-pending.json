@@ -1,13 +1,27 @@
 {
-  "updated": "2026-11-21T04:00:46.995Z",
-  "count": 1,
+  "updated": "2026-11-21T04:12:26.453Z",
+  "count": 3,
   "items": [
     {
-      "name": "金鹰卡通",
-      "url": "http://101.66.199.181:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0",
+      "name": "黑龙江少儿频道",
+      "url": "http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
       "port": "9901",
       "src": "moved-from-backup",
       "reason": "编号表未验证（端口 9901）"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://fuxin.yunjifei.top:999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "port": "999",
+      "src": "codebook",
+      "reason": "编号表未验证（端口 999）"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "port": "8181",
+      "src": "codebook",
+      "reason": "编号表未验证（端口 8181）"
     }
   ]
 }
