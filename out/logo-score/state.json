@@ -1,16 +1,22 @@
 {
- "updated": "2026-11-21T03:33:21Z",
- "checked": 0,
+ "updated": "2026-11-21T03:35:25Z",
+ "checked": 1,
  "autoPass": 0,
- "recheck": 0,
+ "recheck": 1,
  "reject": 0,
  "error": 0,
  "promoted": [],
  "rejectDetail": [],
- "recheckDetail": [],
+ "recheckDetail": [
+  {
+   "expect": "金鹰卡通",
+   "note": "拉流失败:<urlopen error timed out>",
+   "url": "http://101.66.194.88:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0"
+  }
+ ],
  "sheet": "",
  "frames": [],
  "ocr": true,
- "unknown": 0,
- "seconds": 0
+ "unknown": 1,
+ "seconds": 22
 }
