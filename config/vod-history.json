@@ -1,18 +1,11 @@
 {
-  "updated": "2026-11-21T04:00:46.995Z",
+  "updated": "2026-11-21T04:12:26.453Z",
   "sites": {
     "http://154.219.117.232:9981/jacloudapi.php/provide/vod/at/json": {
       "name": "建安采集",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "api-page",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -75,23 +68,23 @@
           "stage": "api-page",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "api-page",
+          "code": 0,
+          "n": 20
         }
       ],
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "api-page"
     },
     "http://tyyszy.com/api.php/provide/vod/at/json": {
       "name": "天涯资源",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -154,23 +147,23 @@
           "stage": "m3u8-alive",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ],
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive"
     },
     "https://360zy.com/api.php/provide/vod/at/json": {
       "name": "360资源",
-      "failStreak": 1,
-      "lastOk": "2026-11-21T03:53:44.387Z",
+      "failStreak": 0,
+      "lastOk": "2026-11-21T04:12:26.453Z",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-dead:ts1-no-sync",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -233,23 +226,23 @@
           "stage": "http",
           "code": 0,
           "n": 0
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ],
-      "lastCheck": "2026-11-21T04:00:46.995Z",
-      "lastStage": "http"
+      "lastCheck": "2026-11-21T04:12:26.453Z",
+      "lastStage": "m3u8-dead:ts1-no-sync"
     },
     "https://api.apibdzy.com/api.php/provide/vod/at/json": {
       "name": "百度资源",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -312,23 +305,23 @@
           "stage": "m3u8-alive",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ],
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive"
     },
     "https://api.guangsuapi.com/api.php/provide/vod/at/json": {
       "name": "光速资源",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-dead:ts1-no-sync",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -391,9 +384,16 @@
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ],
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync"
     },
     "https://api.haiwaiapi.com/api.php/provide/vod/at/json": {
@@ -487,15 +487,8 @@
     "https://api.zuidapi.com/api.php/provide/vod/at/json": {
       "name": "最大资源",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -558,9 +551,16 @@
           "stage": "m3u8-alive",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ],
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive"
     },
     "https://caiji.kuaichezy.com/api.php/provide/vod/at/json": {
@@ -654,15 +654,8 @@
     "https://jszyapi.com/api.php/provide/vod/at/json": {
       "name": "极速资源",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-dead:ts1-no-sync",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -725,23 +718,23 @@
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ],
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync"
     },
     "https://www.hongniuzy2.com/api.php/provide/vod/at/json": {
       "name": "红牛资源",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-dead:ts1-no-sync",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -804,23 +797,23 @@
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ],
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync"
     },
     "https://www.mdzyapi.com/api.php/provide/vod/at/json": {
       "name": "魔都资源（直链）",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -879,29 +872,29 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-alive",
           "code": 0,
           "n": 20
         }
       ],
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive"
     },
     "https://hhzyapi.com/api.php/provide/vod/at/json": {
       "name": "豪华资源",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-dead:ts1-no-sync",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -960,6 +953,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
@@ -970,17 +970,10 @@
     "https://api.wujinapi.com/api.php/provide/vod/at/json": {
       "name": "无尽资源",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1039,6 +1032,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-alive",
           "code": 0,
@@ -1049,17 +1049,10 @@
     "https://caiji.moduapi.cc/api.php/provide/vod/at/json": {
       "name": "魔都资源",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1118,6 +1111,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-alive",
           "code": 0,
@@ -1128,17 +1128,10 @@
     "https://slapibf.com/api.php/provide/vod/at/json": {
       "name": "slapibf",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1197,6 +1190,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-alive",
           "code": 0,
@@ -1207,17 +1207,10 @@
     "https://cj.yayazy.net/api.php/provide/vod/at/json": {
       "name": "cj.yayazy.net",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
-      "lastStage": "m3u8-dead:head",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
+      "lastStage": "m3u8-dead:variant",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1278,6 +1271,13 @@
           "ts": "2026-11-21T04:00:46.995Z",
           "ok": true,
           "stage": "m3u8-dead:head",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:variant",
           "code": 0,
           "n": 20
         }
@@ -1286,17 +1286,10 @@
     "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/at/json": {
       "name": "caiji.maotaizy.cc",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:head",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-dead:head",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1355,6 +1348,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-dead:head",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-dead:head",
           "code": 0,
@@ -1365,17 +1365,10 @@
     "http://sdzyapi.com/api.php/provide/vod/at/json": {
       "name": "sdzyapi.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive",
-          "code": 0,
-          "n": 20
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1434,6 +1427,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-alive",
           "code": 0,
@@ -1444,15 +1444,10 @@
     "https://api.maoyanapi.top/api.php/provide/vod/at/json": {
       "name": "api.maoyanapi.top",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:head",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-dead:head"
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1511,6 +1506,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-dead:head",
+          "code": 0,
+          "n": 30
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-dead:head",
           "code": 0,
@@ -1521,15 +1523,10 @@
     "https://api.niuniuzy.me/api.php/provide/vod/at/json": {
       "name": "api.niuniuzy.me",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive"
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1588,6 +1585,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-alive",
           "code": 0,
@@ -1598,15 +1602,10 @@
     "https://api.okzyw.net/api.php/provide/vod/at/json": {
       "name": "api.okzyw.net",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive"
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1665,6 +1664,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-alive",
           "code": 0,
@@ -1675,15 +1681,10 @@
     "https://api.ukuapi88.com/api.php/provide/vod/at/json": {
       "name": "api.ukuapi88.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:head",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive"
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1742,6 +1743,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-dead:head",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-dead:head",
           "code": 0,
@@ -1752,15 +1760,10 @@
     "https://tyyszyapi.com/api.php/provide/vod/at/json": {
       "name": "tyyszyapi.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-alive"
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1819,6 +1822,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-alive",
           "code": 0,
@@ -1829,15 +1839,10 @@
     "https://www.huyaapi.com/api.php/provide/vod/at/json": {
       "name": "www.huyaapi.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "history": [
-        {
-          "ts": "2026-11-20T13:28:45.560Z",
-          "ok": true,
-          "stage": "m3u8-dead:ts1-no-sync"
-        },
         {
           "ts": "2026-11-20T13:46:40.564Z",
           "ok": true,
@@ -1900,14 +1905,21 @@
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://iqiyizyapi.com/api.php/provide/vod/at/json": {
       "name": "iqiyizyapi.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
         {
@@ -1970,14 +1982,21 @@
           "stage": "m3u8-alive",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://api.wujinapi.net/api.php/provide/vod/at/json": {
       "name": "api.wujinapi.net",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
         {
@@ -2040,14 +2059,21 @@
           "stage": "m3u8-alive",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://jyzyapi.com/api.php/provide/vod/at/json": {
       "name": "jyzyapi.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "history": [
         {
@@ -2110,15 +2136,22 @@
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://www.lovedan.net/api.php/provide/vod/at/json": {
       "name": "www.lovedan.net",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
-      "lastStage": "m3u8-dead:seg1-small",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
+      "lastStage": "m3u8-alive",
       "history": [
         {
           "ts": "2026-11-20T13:46:40.564Z",
@@ -2180,15 +2213,22 @@
           "stage": "m3u8-dead:seg1-small",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "http://ffzy.tv/api.php/provide/vod/at/json": {
       "name": "ffzy.tv",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
-      "lastStage": "m3u8-dead:head",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
+      "lastStage": "m3u8-dead:seg1-small",
       "history": [
         {
           "ts": "2026-11-20T14:06:42.326Z",
@@ -2243,14 +2283,21 @@
           "stage": "m3u8-dead:head",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:seg1-small",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://api.wujinapi.me/api.php/provide/vod/at/json": {
       "name": "api.wujinapi.me",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
         {
@@ -2292,14 +2339,21 @@
           "stage": "m3u8-alive",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://jinyingzy.com/api.php/provide/vod/at/json": {
       "name": "jinyingzy.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "history": [
         {
@@ -2341,15 +2395,22 @@
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://api.ffzyapi.com/api.php/provide/vod/at/json": {
       "name": "api.ffzyapi.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
-      "lastStage": "m3u8-dead:head",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
+      "lastStage": "m3u8-dead:seg1-small",
       "history": [
         {
           "ts": "2026-11-20T14:43:55.706Z",
@@ -2390,14 +2451,21 @@
           "stage": "m3u8-dead:head",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:seg1-small",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://360zyzz.com/api.php/provide/vod/at/json": {
       "name": "360zyzz.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "history": [
         {
@@ -2439,14 +2507,21 @@
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://www.iqiyizyapi.com/api.php/provide/vod/at/json": {
       "name": "www.iqiyizyapi.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
         {
@@ -2481,14 +2556,21 @@
           "stage": "m3u8-alive",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://api.wujinapi.cc/api.php/provide/vod/at/json": {
       "name": "api.wujinapi.cc",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
         {
@@ -2519,6 +2601,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-alive",
           "code": 0,
@@ -2529,8 +2618,8 @@
     "https://www.hongniuzy3.com/api.php/provide/vod/at/json": {
       "name": "www.hongniuzy3.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "history": [
         {
@@ -2565,15 +2654,22 @@
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://lovedan.net/api.php/provide/vod/at/json": {
       "name": "lovedan.net",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
-      "lastStage": "m3u8-dead:seg1-small",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
+      "lastStage": "m3u8-alive",
       "history": [
         {
           "ts": "2026-11-20T15:48:01.751Z",
@@ -2607,14 +2703,21 @@
           "stage": "m3u8-dead:seg1-small",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://cdn.dzzyapi.com/api.php/provide/vod/at/json": {
       "name": "cdn.dzzyapi.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "history": [
         {
@@ -2649,14 +2752,21 @@
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://dadiapi.com/api.php/provide/vod/at/json": {
       "name": "dadiapi.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-alive",
       "history": [
         {
@@ -2691,14 +2801,21 @@
           "stage": "m3u8-alive",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-alive",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json": {
       "name": "yonghu.ffzyapi8.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:seg1-small",
       "history": [
         {
@@ -2733,14 +2850,21 @@
           "stage": "m3u8-dead:seg1-small",
           "code": 0,
           "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:seg1-small",
+          "code": 0,
+          "n": 20
         }
       ]
     },
     "https://maoyanzy.com/api.php/provide/vod/at/json": {
       "name": "maoyanzy.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:head",
       "history": [
         {
@@ -2775,14 +2899,21 @@
           "stage": "m3u8-dead:head",
           "code": 0,
           "n": 30
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
+          "ok": true,
+          "stage": "m3u8-dead:head",
+          "code": 0,
+          "n": 30
         }
       ]
     },
     "https://subocj.com/api.php/provide/vod/at/json": {
       "name": "subocj.com",
       "failStreak": 0,
-      "lastOk": "2026-11-21T04:00:46.995Z",
-      "lastCheck": "2026-11-21T04:00:46.995Z",
+      "lastOk": "2026-11-21T04:12:26.453Z",
+      "lastCheck": "2026-11-21T04:12:26.453Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "history": [
         {
@@ -2813,6 +2944,13 @@
         },
         {
           "ts": "2026-11-21T04:00:46.995Z",
+          "ok": true,
+          "stage": "m3u8-dead:ts1-no-sync",
+          "code": 0,
+          "n": 20
+        },
+        {
+          "ts": "2026-11-21T04:12:26.453Z",
           "ok": true,
           "stage": "m3u8-dead:ts1-no-sync",
           "code": 0,
