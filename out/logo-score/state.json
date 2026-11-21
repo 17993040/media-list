@@ -1,22 +1,18 @@
 {
- "updated": "2026-11-21T04:11:25Z",
+ "updated": "2026-11-21T20:47:53Z",
  "checked": 1,
- "autoPass": 0,
- "recheck": 1,
+ "autoPass": 1,
+ "recheck": 0,
  "reject": 0,
  "error": 0,
- "promoted": [],
- "rejectDetail": [],
- "recheckDetail": [
-  {
-   "expect": "金鹰卡通",
-   "note": "拉流失败:<urlopen error timed out>",
-   "url": "http://101.66.199.181:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0"
-  }
+ "promoted": [
+  "海南卫视"
  ],
+ "rejectDetail": [],
+ "recheckDetail": [],
  "sheet": "",
  "frames": [],
  "ocr": true,
- "unknown": 1,
- "seconds": 22
+ "unknown": 0,
+ "seconds": 18
 }
