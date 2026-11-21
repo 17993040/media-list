@@ -143,12 +143,6 @@ http://0.0.0.0:1/void.m3u8
 http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 group-title="港澳台",澳视〔待补〕
 http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 group-title="武汉台",武汉新闻综合〔待补〕
-http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 group-title="武汉台",武汉电视剧〔待补〕
-http://0.0.0.0:1/void.m3u8
-#EXTINF:-1 group-title="武汉台",武汉都市文体〔待补〕
-http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 group-title="体育娱乐",金鹰卡通[华为云已测]
 http://112.27.5.218:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="体育娱乐",浙江少儿[华为云已测]
