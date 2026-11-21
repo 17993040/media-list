@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T03:48:34.293Z",
-  "count": 3,
+  "updated": "2026-11-21T03:50:09.824Z",
+  "count": 4,
   "items": [
     {
       "name": "CCTV-5+",
@@ -22,6 +22,13 @@
       "port": "999",
       "src": "codebook",
       "reason": "编号表未验证（端口 999）"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "port": "8181",
+      "src": "codebook",
+      "reason": "编号表未验证（端口 8181）"
     }
   ]
 }
