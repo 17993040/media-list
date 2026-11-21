@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21T04:00:46.995Z",
+  "updated": "2026-11-21T04:12:26.453Z",
   "rule": "list: 只出主线一条；backup: 备线池，单台≤3；标记只代表华为云测过且通过",
   "counts": {
     "央视台": 17,
@@ -25,7 +25,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -42,7 +42,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -59,7 +59,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -76,7 +76,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -93,7 +93,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -108,7 +108,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -125,7 +125,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -142,7 +142,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -159,7 +159,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -174,7 +174,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -192,7 +192,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -210,7 +210,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -228,7 +228,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -247,7 +247,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -264,7 +264,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -281,7 +281,7 @@
       "must": true,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -311,7 +311,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -328,7 +328,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -345,7 +345,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -392,7 +392,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -426,7 +426,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -444,7 +444,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -461,7 +461,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -478,7 +478,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -495,7 +495,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -542,7 +542,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -610,7 +610,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": "实测改判"
     },
     {
@@ -734,7 +734,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -749,7 +749,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": ""
     },
     {
@@ -829,7 +829,7 @@
       "cloud": "fail",
       "must": false,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": "本次未通过，保留观察 1/3｜待补",
       "failCount": 1
     },
@@ -843,11 +843,11 @@
         "http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8"
       ],
       "local": "ok",
-      "cloud": "ok",
+      "cloud": "fail",
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": null
     },
     {
@@ -858,12 +858,12 @@
       "main": "http://38.64.72.148/hls/modn/list/2015/playlist.m3u8",
       "backup": [],
       "local": "ok",
-      "cloud": "fail",
+      "cloud": "ok",
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
-      "note": "〔待补〕"
+      "lastCloud": "2026-11-21T04:12:26.453Z",
+      "note": null
     },
     {
       "seq": 53,
@@ -998,7 +998,7 @@
       "cloud": "fail",
       "must": false,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": "本次未通过，保留观察 1/3｜待补",
       "failCount": 1
     },
@@ -1014,7 +1014,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": "〔待补〕"
     },
     {
@@ -1229,7 +1229,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": "云端顶上"
     },
     {
@@ -1247,7 +1247,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": "少儿"
     },
     {
@@ -1256,15 +1256,13 @@
       "gid": "ent",
       "name": "黑龙江少儿频道",
       "main": "https://idclive.hljtv.com:4430/live/hljse_hd.m3u8",
-      "backup": [
-        "http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0"
-      ],
+      "backup": [],
       "local": "untested",
       "cloud": "ok",
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": "少儿"
     },
     {
@@ -1279,7 +1277,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": "云端连续判死 1 轮"
     },
     {
@@ -1294,7 +1292,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T04:00:46.995Z",
+      "lastCloud": "2026-11-21T04:12:26.453Z",
       "note": "戏曲·签名会过期"
     }
   ]
