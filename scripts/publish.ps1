@@ -198,16 +198,25 @@ $vodAliveTxt = if ($vodTotal -gt 0) { "存活 $vodPass 个" } else { '存活 未
 
 if ($rep -and $cloudFresh) {
   $cloudFail = [int]$rep.scanned - [int]$rep.pass
-  [void]$sbNote.Append("云测 $cloudTime（候选 $($rep.scanned) / 通过 $($rep.pass) / 判死 $cloudFail，$cloudAge完成）`n")
+  $ageTxt = if ($cloudAge) { "，$cloudAge完成" } else { '' }
+  [void]$sbNote.Append("云测 $cloudTime（候选 $($rep.scanned) / 通过 $($rep.pass) / 判死 $cloudFail$ageTxt）`n")
 } elseif ($rep) {
   [void]$sbNote.Append("云测未回写：最新报告停在 $cloudTime$(if($cloudAge){"（$cloudAge）"})，本次沿用旧配置`n")
 } else {
   [void]$sbNote.Append("云测未回写：没有找到云端报告，本次沿用旧配置`n")
 }
 
-if ($scanCand -or $scanTotal) {
-  [void]$sbNote.Append("扫源 03:00：编号 $scanTotal / 活源 $scanAlive / 候选 $scanCand`n")
+# 云端扫源/编号表规模：从云端日志里取；取不到就不显示，避免出现旧的 03:00 假数据
+$cbTxt = ''
+if ($rep -and $rep.log -and $cloudFresh) {
+  $cbTables = ''; $cbCodes = ''; $cbStations = ''; $cbCands = ''
+  foreach ($l in @($rep.log)) {
+    if ($l -match '编号表：(\d+) 套表 / (\d+) 条对应') { $cbTables = $Matches[1]; $cbCodes = $Matches[2] }
+    if ($l -match '编号表：源站 (\d+) 个，造出候选 (\d+) 条') { $cbStations = $Matches[1]; $cbCands = $Matches[2] }
+  }
+  if ($cbTables) { $cbTxt = "扫源 $cloudTime：编号 $cbTables 套 / $cbCodes 条对应，源站 $cbStations 个，新候选 $cbCands 条" }
 }
+if ($cbTxt) { [void]$sbNote.Append("$cbTxt`n") }
 
 # 台标鉴定（本机打分，>=8 分自动转正；只在有结果/该提醒时出一行）
 $logoStatePath = Join-Path $outDir 'logo-score\state.json'
