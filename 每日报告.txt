@@ -1,8 +1,11 @@
 # 影视源每日报告
 
-- 生成时间：2026-11-21 12:30:27 北京时间
-- 直播 80 台（有源 66 / 待补 14 / 华为云已测 61）
-- 清单条目：主线 80 条 / 全量 127 条
+- 生成时间：2026-11-22 06:08:21 北京时间
+- 直播 77 台（有源 66 / 待补 11 / 华为云已测 62）
+- 清单条目：主线 77 条 / 全量 128 条
+
+## 新增直播
+TVBS新闻台、东森超视、东森美洲、东森新闻、中天新闻、华视、公视、三立新闻、三立戏剧台、纬来体育、Now90s、明珠台、无线新闻台、ViuTV、HOY TV、澳视
 
 ## 体育娱乐（动态组）
 - 金鹰卡通：有源，备线 2 条，云端顶上
@@ -24,13 +27,13 @@
 - OK 豪华资源：m3u8-dead:ts1-no-sync
 - OK 无尽资源：m3u8-alive（已验证出片）
 - OK slapibf：m3u8-alive（已验证出片）
-- OK cj.yayazy.net：m3u8-dead:variant
+- OK cj.yayazy.net：m3u8-alive（已验证出片）
 - OK caiji.maotaizy.cc：m3u8-dead:head
 - OK sdzyapi.com：m3u8-alive（已验证出片）
 - OK api.maoyanapi.top：m3u8-dead:head
 - OK api.niuniuzy.me：m3u8-alive（已验证出片）
 - OK api.okzyw.net：m3u8-alive（已验证出片）
-- OK api.ukuapi88.com：m3u8-dead:head
+- OK api.ukuapi88.com：m3u8-dead:seg1-small
 - OK tyyszyapi.com：m3u8-alive（已验证出片）
 - OK www.huyaapi.com：m3u8-dead:ts1-no-sync
 - OK iqiyizyapi.com：m3u8-alive（已验证出片）
@@ -55,16 +58,16 @@
 
 ## 全部台状态
 - [央视台] CCTV-1：主线有，备线 1，cloud=ok
-- [央视台] CCTV-2：主线有，备线 1，cloud=ok
+- [央视台] CCTV-2：主线有，备线 2，cloud=ok
 - [央视台] CCTV-3：主线有，备线 1，cloud=ok
 - [央视台] CCTV-4：主线有，备线 1，cloud=ok
 - [央视台] CCTV-5：主线有，备线 1，cloud=ok
-- [央视台] CCTV-5+：主线有，备线 0，cloud=ok
+- [央视台] CCTV-5+：主线有，备线 1，cloud=ok
 - [央视台] CCTV-6：主线有，备线 1，cloud=ok
 - [央视台] CCTV-7：主线有，备线 1，cloud=ok
 - [央视台] CCTV-8：主线有，备线 1，cloud=ok
 - [央视台] CCTV-9：主线有，备线 0，cloud=ok
-- [央视台] CCTV-10：主线有，备线 2，cloud=ok
+- [央视台] CCTV-10：主线有，备线 3，cloud=ok
 - [央视台] CCTV-11：主线有，备线 2，cloud=ok
 - [央视台] CCTV-12：主线有，备线 2，cloud=ok
 - [央视台] CCTV-13：主线有，备线 3，cloud=ok
@@ -91,7 +94,7 @@
 - [卫视频道] 湖南卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 广东卫视：主线有，备线 3，cloud=ok，实测改判
 - [卫视频道] 广西卫视：主线有，备线 1，cloud=ok，实测改判
-- [卫视频道] 海南卫视：主线有，备线 0，cloud=ok，华为云顶上
+- [卫视频道] 海南卫视：主线有，备线 1，cloud=ok，华为云顶上
 - [卫视频道] 重庆卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 四川卫视：主线有，备线 0，cloud=ok，华为云顶上
 - [卫视频道] 贵州卫视：主线有，备线 0，cloud=ok
@@ -104,7 +107,7 @@
 - [卫视频道] 新疆卫视：主线有，备线 0，cloud=ok
 - [港澳台] TVBS亚洲台：主线有，备线 1，cloud=ok，华为云顶上
 - [港澳台] TVBS新闻台：主线有，备线 0，cloud=fail，本次未通过，保留观察 1/3｜待补
-- [港澳台] 东森超视：主线有，备线 1，cloud=fail
+- [港澳台] 东森超视：主线有，备线 1，cloud=ok
 - [港澳台] 东森美洲：主线有，备线 0，cloud=ok
 - [港澳台] 东森新闻：主线无，备线 0，cloud=untested，无可用源
 - [港澳台] 中视：主线有，备线 0，cloud=ok，本次未通过，保留观察 1/3
@@ -126,9 +129,6 @@
 - [港澳台] ViuTV：主线无，备线 0，cloud=untested，无可用源
 - [港澳台] HOY TV：主线无，备线 0，cloud=untested，无可用源
 - [港澳台] 澳视：主线无，备线 0，cloud=untested，无可用源
-- [武汉台] 武汉新闻综合：主线无，备线 0，cloud=untested，无可用源
-- [武汉台] 武汉电视剧：主线无，备线 0，cloud=untested，无可用源
-- [武汉台] 武汉都市文体：主线无，备线 0，cloud=untested，无可用源
 - [体育娱乐] 金鹰卡通：主线有，备线 2，cloud=ok，云端顶上
 - [体育娱乐] 浙江少儿：主线有，备线 2，cloud=ok，少儿
 - [体育娱乐] 黑龙江少儿频道：主线有，备线 0，cloud=ok，少儿

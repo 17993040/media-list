@@ -97,20 +97,52 @@ http://218.13.170.98:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="港澳台",TVBS亚洲台[华为云已测]
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 group-title="港澳台",TVBS新闻台〔待补〕
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港澳台",东森超视[华为云已测]
+http://38.64.72.148/hls/modn/list/2013/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",东森美洲[华为云已测]
+http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",东森新闻〔待补〕
+http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 group-title="港澳台",中视[华为云已测]
 http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻〔待补〕
+http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 group-title="港澳台",台视新闻[华为云已测]
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",民视新闻台[华为云已测]
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",华视〔待补〕
+http://0.0.0.0:1/void.m3u8
+#EXTINF:-1 group-title="港澳台",公视〔待补〕
+http://0.0.0.0:1/void.m3u8
+#EXTINF:-1 group-title="港澳台",三立新闻〔待补〕
+http://0.0.0.0:1/void.m3u8
+#EXTINF:-1 group-title="港澳台",三立戏剧台〔待补〕
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港澳台",纬来体育〔待补〕
+https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰资讯[华为云已测]
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="港澳台",Now70s[华为云已测]
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",Now90s〔待补〕
+http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 group-title="港澳台",NowRock[华为云已测]
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",翡翠台[华为云已测]
 http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="港澳台",明珠台〔待补〕
+http://0.0.0.0:1/void.m3u8
+#EXTINF:-1 group-title="港澳台",无线新闻台〔待补〕
+http://0.0.0.0:1/void.m3u8
+#EXTINF:-1 group-title="港澳台",ViuTV〔待补〕
+http://0.0.0.0:1/void.m3u8
+#EXTINF:-1 group-title="港澳台",HOY TV〔待补〕
+http://0.0.0.0:1/void.m3u8
+#EXTINF:-1 group-title="港澳台",澳视〔待补〕
+http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 group-title="体育娱乐",金鹰卡通[华为云已测]
 http://112.27.5.218:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="体育娱乐",浙江少儿[华为云已测]
