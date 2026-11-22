@@ -1,26 +1,26 @@
 {
-  "updated": "2026-11-22T09:18:53.431Z",
+  "updated": "2026-11-22T20:00:00.319Z",
   "count": 4,
   "items": [
     {
-      "name": "山东卫视",
-      "url": "http://219.145.59.166:8888/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "port": "8888",
-      "src": "moved-from-backup",
-      "reason": "编号表未验证（端口 8888）"
+      "name": "翡翠台",
+      "url": "http://120.70.60.179:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "port": "9901",
+      "src": "codebook",
+      "reason": "编号表未验证（端口 9901）"
     },
     {
-      "name": "甘肃卫视",
-      "url": "http://219.145.59.166:8888/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "port": "8888",
-      "src": "moved-from-backup",
-      "reason": "编号表未验证（端口 8888）"
+      "name": "CHC电影",
+      "url": "http://120.70.60.179:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "port": "9901",
+      "src": "codebook",
+      "reason": "编号表未验证（端口 9901）"
     },
     {
       "name": "黑龙江少儿频道",
-      "url": "http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "url": "http://120.70.60.179:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
       "port": "9901",
-      "src": "moved-from-backup",
+      "src": "codebook",
       "reason": "编号表未验证（端口 9901）"
     },
     {
