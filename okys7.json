@@ -170,26 +170,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
-    },
-    {
-      "key": "dadiap",
-      "name": "dadiapi.com",
-      "type": 1,
-      "api": "https://dadiapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "apiuku",
-      "name": "api.ukuapi88.com",
-      "type": 1,
-      "api": "https://api.ukuapi88.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
     }
   ],
   "parses": [
