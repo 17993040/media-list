@@ -22,30 +22,10 @@
       "ext": ""
     },
     {
-      "key": "360zy",
-      "name": "360资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "bdzy",
       "name": "百度资源",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "gszy",
-      "name": "光速资源",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -62,40 +42,10 @@
       "ext": ""
     },
     {
-      "key": "jisu",
-      "name": "极速资源",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "hnzy",
-      "name": "红牛资源",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "mdzy",
       "name": "魔都资源（直链）",
       "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "hhzy",
-      "name": "豪华资源",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -132,30 +82,10 @@
       "ext": ""
     },
     {
-      "key": "caijim",
-      "name": "caiji.maotaizy.cc",
-      "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "sdzyap",
       "name": "sdzyapi.com",
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "apimao",
-      "name": "api.maoyanapi.top",
-      "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -182,30 +112,10 @@
       "ext": ""
     },
     {
-      "key": "apiuku",
-      "name": "api.ukuapi88.com",
-      "type": 1,
-      "api": "https://api.ukuapi88.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "tyyszy",
       "name": "tyyszyapi.com",
       "type": 1,
       "api": "https://tyyszyapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "huyaap",
-      "name": "www.huyaapi.com",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -232,70 +142,10 @@
       "ext": ""
     },
     {
-      "key": "jyzyap",
-      "name": "jyzyapi.com",
-      "type": 1,
-      "api": "https://jyzyapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "loveda",
-      "name": "www.lovedan.net",
-      "type": 1,
-      "api": "https://www.lovedan.net/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "ffzytv",
-      "name": "ffzy.tv",
-      "type": 1,
-      "api": "http://ffzy.tv/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "apiwuj",
       "name": "api.wujinapi.me",
       "type": 1,
       "api": "https://api.wujinapi.me/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "jinyin",
-      "name": "jinyingzy.com",
-      "type": 1,
-      "api": "https://jinyingzy.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "apiffz",
-      "name": "api.ffzyapi.com",
-      "type": 1,
-      "api": "https://api.ffzyapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "360zyz",
-      "name": "360zyzz.com",
-      "type": 1,
-      "api": "https://360zyzz.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -322,70 +172,10 @@
       "ext": ""
     },
     {
-      "key": "hongni",
-      "name": "www.hongniuzy3.com",
-      "type": 1,
-      "api": "https://www.hongniuzy3.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "loveda",
-      "name": "lovedan.net",
-      "type": 1,
-      "api": "https://lovedan.net/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "cdndzz",
-      "name": "cdn.dzzyapi.com",
-      "type": 1,
-      "api": "https://cdn.dzzyapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "dadiap",
       "name": "dadiapi.com",
       "type": 1,
       "api": "https://dadiapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "yonghu",
-      "name": "yonghu.ffzyapi8.com",
-      "type": 1,
-      "api": "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "maoyan",
-      "name": "maoyanzy.com",
-      "type": 1,
-      "api": "https://maoyanzy.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "subocj",
-      "name": "subocj.com",
-      "type": 1,
-      "api": "https://subocj.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
