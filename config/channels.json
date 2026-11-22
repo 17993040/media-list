@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-21T20:50:00.291Z",
+  "updated": "2026-11-22T09:05:20.004Z",
   "rule": "list: 只出主线一条；backup: 备线池，单台≤3；标记只代表华为云测过且通过",
   "counts": {
     "央视台": 17,
@@ -103,9 +103,7 @@
       "gid": "cctv",
       "name": "CCTV-5+",
       "main": "http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "backup": [
-        "http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0"
-      ],
+      "backup": [],
       "local": "ok",
       "cloud": "ok",
       "must": true,
@@ -539,14 +537,15 @@
       "name": "山东卫视",
       "main": "http://124.90.45.52:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
       "backup": [
-        "http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0"
+        "http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0",
+        "http://219.145.59.166:8888/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0"
       ],
       "local": "ok",
       "cloud": "ok",
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": ""
     },
     {
@@ -740,7 +739,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": ""
     },
     {
@@ -749,13 +748,15 @@
       "gid": "sat",
       "name": "甘肃卫视",
       "main": "http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0",
-      "backup": [],
+      "backup": [
+        "http://219.145.59.166:8888/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0"
+      ],
       "local": "ok",
       "cloud": "ok",
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": ""
     },
     {
@@ -835,7 +836,7 @@
       "cloud": "fail",
       "must": false,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": "本次未通过，保留观察 1/3｜待补",
       "failCount": 1
     },
@@ -1004,7 +1005,7 @@
       "cloud": "fail",
       "must": false,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": "本次未通过，保留观察 1/3｜待补",
       "failCount": 1
     },
@@ -1020,7 +1021,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "2026-11-20 16:44:20",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": "〔待补〕"
     },
     {
@@ -1190,7 +1191,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": "云端顶上"
     },
     {
@@ -1208,7 +1209,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": "少儿"
     },
     {
@@ -1217,13 +1218,15 @@
       "gid": "ent",
       "name": "黑龙江少儿频道",
       "main": "https://idclive.hljtv.com:4430/live/hljse_hd.m3u8",
-      "backup": [],
+      "backup": [
+        "http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0"
+      ],
       "local": "untested",
       "cloud": "ok",
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": "少儿"
     },
     {
@@ -1238,7 +1241,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": "云端连续判死 1 轮"
     },
     {
@@ -1253,7 +1256,7 @@
       "must": false,
       "failCount": 0,
       "lastLocal": "",
-      "lastCloud": "2026-11-21T20:50:00.291Z",
+      "lastCloud": "2026-11-22T09:05:20.004Z",
       "note": "戏曲·签名会过期"
     }
   ]
