@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T09:11:40.919Z",
+  "updated": "2026-11-22T09:13:21.800Z",
   "note": "点播候选采集站池。云端每轮实测：测通即进（match 命中现有站名则视为换域名修复，否则追加新站）；连续多轮不通则停用。",
   "candidates": [
     {
@@ -69,8 +69,8 @@
       "match": "",
       "from": "auto",
       "seen": 3,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "lastOk": false
     },
@@ -81,8 +81,8 @@
       "match": "",
       "from": "auto",
       "seen": 3,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "lastOk": false
     },
@@ -93,8 +93,8 @@
       "match": "",
       "from": "auto",
       "seen": 3,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "lastOk": false
     },
@@ -105,8 +105,8 @@
       "match": "",
       "from": "auto",
       "seen": 3,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "lastOk": false
     },
@@ -135,18 +135,6 @@
       "lastOk": true
     },
     {
-      "name": "caiji.maotaizy.cc",
-      "key": "caijim",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/at/json",
-      "match": "",
-      "from": "auto",
-      "seen": 2,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:head",
-      "lastOk": false
-    },
-    {
       "name": "sdzyapi.com",
       "key": "sdzyap",
       "api": "http://sdzyapi.com/api.php/provide/vod/at/json",
@@ -159,14 +147,26 @@
       "lastOk": true
     },
     {
+      "name": "caiji.maotaizy.cc",
+      "key": "caijim",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 2,
+      "failStreak": 2,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "m3u8-dead:head",
+      "lastOk": false
+    },
+    {
       "name": "www.hongniuzy2.com",
       "key": "hongni",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/json",
       "match": "",
       "from": "auto",
       "seen": 2,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
+      "failStreak": 2,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
       "lastOk": false
     },
@@ -243,18 +243,6 @@
       "lastOk": false
     },
     {
-      "name": "api.maoyanapi.top",
-      "key": "apimao",
-      "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
-      "match": "",
-      "from": "auto",
-      "seen": 1,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:head",
-      "lastOk": false
-    },
-    {
       "name": "api.niuniuzy.me",
       "key": "apiniu",
       "api": "https://api.niuniuzy.me/api.php/provide/vod/at/json",
@@ -303,18 +291,6 @@
       "lastOk": true
     },
     {
-      "name": "www.huyaapi.com",
-      "key": "huyaap",
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
-      "match": "",
-      "from": "auto",
-      "seen": 1,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:ts1-no-sync",
-      "lastOk": false
-    },
-    {
       "name": "iqiyizyapi.com",
       "key": "iqiyiz",
       "api": "https://iqiyizyapi.com/api.php/provide/vod/at/json",
@@ -339,42 +315,6 @@
       "lastOk": true
     },
     {
-      "name": "jyzyapi.com",
-      "key": "jyzyap",
-      "api": "https://jyzyapi.com/api.php/provide/vod/at/json",
-      "match": "",
-      "from": "auto",
-      "seen": 1,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:ts1-no-sync",
-      "lastOk": false
-    },
-    {
-      "name": "www.lovedan.net",
-      "key": "loveda",
-      "api": "https://www.lovedan.net/api.php/provide/vod/at/json",
-      "match": "",
-      "from": "auto",
-      "seen": 1,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:seg1-small",
-      "lastOk": false
-    },
-    {
-      "name": "ffzy.tv",
-      "key": "ffzytv",
-      "api": "http://ffzy.tv/api.php/provide/vod/at/json",
-      "match": "",
-      "from": "auto",
-      "seen": 1,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:seg1-small",
-      "lastOk": false
-    },
-    {
       "name": "api.wujinapi.me",
       "key": "apiwuj",
       "api": "https://api.wujinapi.me/api.php/provide/vod/at/json",
@@ -385,42 +325,6 @@
       "lastCheck": "2026-11-20T14:43:55.706Z",
       "lastStage": "m3u8-alive",
       "lastOk": true
-    },
-    {
-      "name": "jinyingzy.com",
-      "key": "jinyin",
-      "api": "https://jinyingzy.com/api.php/provide/vod/at/json",
-      "match": "",
-      "from": "auto",
-      "seen": 1,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:ts1-no-sync",
-      "lastOk": false
-    },
-    {
-      "name": "api.ffzyapi.com",
-      "key": "apiffz",
-      "api": "https://api.ffzyapi.com/api.php/provide/vod/at/json",
-      "match": "",
-      "from": "auto",
-      "seen": 1,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:seg1-small",
-      "lastOk": false
-    },
-    {
-      "name": "360zyzz.com",
-      "key": "360zyz",
-      "api": "https://360zyzz.com/api.php/provide/vod/at/json",
-      "match": "",
-      "from": "auto",
-      "seen": 1,
-      "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:ts1-no-sync",
-      "lastOk": false
     },
     {
       "name": "www.iqiyizyapi.com",
@@ -447,39 +351,135 @@
       "lastOk": true
     },
     {
-      "name": "www.hongniuzy3.com",
-      "key": "hongni",
-      "api": "https://www.hongniuzy3.com/api.php/provide/vod/at/json",
+      "name": "caiji.kuaichezy.org",
+      "key": "caijik",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/at/json",
       "match": "",
       "from": "auto",
       "seen": 1,
       "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
-      "lastStage": "m3u8-dead:ts1-no-sync",
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "http",
       "lastOk": false
     },
     {
-      "name": "lovedan.net",
-      "key": "loveda",
-      "api": "https://lovedan.net/api.php/provide/vod/at/json",
+      "name": "zuidazy.me",
+      "key": "zuidaz",
+      "api": "https://zuidazy.me/api.php/provide/vod/at/json",
       "match": "",
       "from": "auto",
       "seen": 1,
       "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "http",
+      "lastOk": false
+    },
+    {
+      "name": "xsd.sdzyapi.com",
+      "key": "xsdsdz",
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "http",
+      "lastOk": false
+    },
+    {
+      "name": "cj.lzcaiji.com",
+      "key": "cjlzca",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "http",
+      "lastOk": false
+    },
+    {
+      "name": "api.ukuapi.com",
+      "key": "apiuku",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "http",
+      "lastOk": false
+    },
+    {
+      "name": "yonghu.ffzyapi8.com",
+      "key": "yonghu",
+      "api": "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
       "lastStage": "m3u8-dead:seg1-small",
       "lastOk": false
     },
     {
-      "name": "cdn.dzzyapi.com",
-      "key": "cdndzz",
-      "api": "https://cdn.dzzyapi.com/api.php/provide/vod/at/json",
+      "name": "maoyanzy.com",
+      "key": "maoyan",
+      "api": "https://maoyanzy.com/api.php/provide/vod/at/json",
       "match": "",
       "from": "auto",
       "seen": 1,
       "failStreak": 1,
-      "lastCheck": "2026-11-22T09:11:40.919Z",
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "m3u8-dead:head",
+      "lastOk": false
+    },
+    {
+      "name": "subocj.com",
+      "key": "subocj",
+      "api": "https://subocj.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
       "lastStage": "m3u8-dead:ts1-no-sync",
+      "lastOk": false
+    },
+    {
+      "name": "ffzy5.tv",
+      "key": "ffzy5t",
+      "api": "https://ffzy5.tv/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "m3u8-dead:seg1-small",
+      "lastOk": false
+    },
+    {
+      "name": "hsckzy888.com",
+      "key": "hsckzy",
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 1,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "m3u8-dead:ts1-no-sync",
+      "lastOk": false
+    },
+    {
+      "name": "api.maoyanapi.top",
+      "key": "apimao",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
+      "match": "",
+      "from": "auto",
+      "seen": 1,
+      "failStreak": 2,
+      "lastCheck": "2026-11-22T09:13:21.800Z",
+      "lastStage": "m3u8-dead:head",
       "lastOk": false
     }
   ]
