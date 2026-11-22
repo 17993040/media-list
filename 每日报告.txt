@@ -1,59 +1,36 @@
 # 影视源每日报告
 
-- 生成时间：2026-11-22 06:08:21 北京时间
+- 生成时间：2026-11-23 06:10:16 北京时间
 - 直播 77 台（有源 66 / 待补 11 / 华为云已测 62）
-- 清单条目：主线 77 条 / 全量 128 条
-
-## 新增直播
-TVBS新闻台、东森超视、东森美洲、东森新闻、中天新闻、华视、公视、三立新闻、三立戏剧台、纬来体育、Now90s、明珠台、无线新闻台、ViuTV、HOY TV、澳视
+- 清单条目：主线 77 条 / 全量 130 条
 
 ## 体育娱乐（动态组）
 - 金鹰卡通：有源，备线 2 条，云端顶上
 - 浙江少儿：有源，备线 2 条，少儿
-- 黑龙江少儿频道：有源，备线 0 条，少儿
+- 黑龙江少儿频道：有源，备线 1 条，少儿
 - CHC电影：有源，备线 0 条，云端连续判死 1 轮
 - 梨园：有源，备线 0 条，戏曲·签名会过期
 
-## 点播站（40 个，通过 40）
+## 点播站（20 个，通过 20）
 - OK 建安采集：api-page
 - OK 天涯资源：m3u8-alive（已验证出片）
-- OK 360资源：m3u8-dead:ts1-no-sync
 - OK 百度资源：m3u8-alive（已验证出片）
-- OK 光速资源：m3u8-dead:ts1-no-sync
 - OK 最大资源：m3u8-alive（已验证出片）
-- OK 极速资源：m3u8-dead:ts1-no-sync
-- OK 红牛资源：m3u8-dead:ts1-no-sync
 - OK 魔都资源：m3u8-alive（已验证出片）
-- OK 豪华资源：m3u8-dead:ts1-no-sync
 - OK 无尽资源：m3u8-alive（已验证出片）
 - OK slapibf：m3u8-alive（已验证出片）
 - OK cj.yayazy.net：m3u8-alive（已验证出片）
-- OK caiji.maotaizy.cc：m3u8-dead:head
 - OK sdzyapi.com：m3u8-alive（已验证出片）
-- OK api.maoyanapi.top：m3u8-dead:head
 - OK api.niuniuzy.me：m3u8-alive（已验证出片）
 - OK api.okzyw.net：m3u8-alive（已验证出片）
-- OK api.ukuapi88.com：m3u8-dead:seg1-small
 - OK tyyszyapi.com：m3u8-alive（已验证出片）
-- OK www.huyaapi.com：m3u8-dead:ts1-no-sync
 - OK iqiyizyapi.com：m3u8-alive（已验证出片）
 - OK api.wujinapi.net：m3u8-alive（已验证出片）
-- OK jyzyapi.com：m3u8-dead:ts1-no-sync
-- OK www.lovedan.net：m3u8-alive（已验证出片）
-- OK ffzy.tv：m3u8-dead:seg1-small
 - OK api.wujinapi.me：m3u8-alive（已验证出片）
-- OK jinyingzy.com：m3u8-dead:ts1-no-sync
-- OK api.ffzyapi.com：m3u8-dead:seg1-small
-- OK 360zyzz.com：m3u8-dead:ts1-no-sync
 - OK www.iqiyizyapi.com：m3u8-alive（已验证出片）
 - OK api.wujinapi.cc：m3u8-alive（已验证出片）
-- OK www.hongniuzy3.com：m3u8-dead:ts1-no-sync
-- OK lovedan.net：m3u8-alive（已验证出片）
-- OK cdn.dzzyapi.com：m3u8-dead:ts1-no-sync
+- OK api.ukuapi88.com：m3u8-alive（已验证出片）
 - OK dadiapi.com：m3u8-alive（已验证出片）
-- OK yonghu.ffzyapi8.com：m3u8-dead:seg1-small
-- OK maoyanzy.com：m3u8-dead:head
-- OK subocj.com：m3u8-dead:ts1-no-sync
 - OK 魔都资源（直链）：m3u8-alive（已验证出片）
 
 ## 全部台状态
@@ -62,7 +39,7 @@ TVBS新闻台、东森超视、东森美洲、东森新闻、中天新闻、华�
 - [央视台] CCTV-3：主线有，备线 1，cloud=ok
 - [央视台] CCTV-4：主线有，备线 1，cloud=ok
 - [央视台] CCTV-5：主线有，备线 1，cloud=ok
-- [央视台] CCTV-5+：主线有，备线 1，cloud=ok
+- [央视台] CCTV-5+：主线有，备线 0，cloud=ok
 - [央视台] CCTV-6：主线有，备线 1，cloud=ok
 - [央视台] CCTV-7：主线有，备线 1，cloud=ok
 - [央视台] CCTV-8：主线有，备线 1，cloud=ok
@@ -88,7 +65,7 @@ TVBS新闻台、东森超视、东森美洲、东森新闻、中天新闻、华�
 - [卫视频道] 安徽卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 东南卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 江西卫视：主线有，备线 0，cloud=ok
-- [卫视频道] 山东卫视：主线有，备线 1，cloud=ok
+- [卫视频道] 山东卫视：主线有，备线 2，cloud=ok
 - [卫视频道] 河南卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 湖北卫视：主线有，备线 1，cloud=ok，实测改判
 - [卫视频道] 湖南卫视：主线有，备线 1，cloud=ok
@@ -101,7 +78,7 @@ TVBS新闻台、东森超视、东森美洲、东森新闻、中天新闻、华�
 - [卫视频道] 云南卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 西藏卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 陕西卫视：主线有，备线 1，cloud=fail
-- [卫视频道] 甘肃卫视：主线有，备线 0，cloud=ok
+- [卫视频道] 甘肃卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 青海卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 宁夏卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 新疆卫视：主线有，备线 0，cloud=ok
@@ -131,6 +108,6 @@ TVBS新闻台、东森超视、东森美洲、东森新闻、中天新闻、华�
 - [港澳台] 澳视：主线无，备线 0，cloud=untested，无可用源
 - [体育娱乐] 金鹰卡通：主线有，备线 2，cloud=ok，云端顶上
 - [体育娱乐] 浙江少儿：主线有，备线 2，cloud=ok，少儿
-- [体育娱乐] 黑龙江少儿频道：主线有，备线 0，cloud=ok，少儿
+- [体育娱乐] 黑龙江少儿频道：主线有，备线 1，cloud=ok，少儿
 - [体育娱乐] CHC电影：主线有，备线 0，cloud=ok，云端连续判死 1 轮
 - [体育娱乐] 梨园：主线有，备线 0，cloud=ok，戏曲·签名会过期
