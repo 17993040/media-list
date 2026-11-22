@@ -14,18 +14,8 @@
       "isAdult": false
     },
     {
-      "name": "360资源",
-      "url": "https://360zy.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
       "name": "百度资源",
       "url": "https://api.apibdzy.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "光速资源",
-      "url": "https://api.guangsuapi.com/api.php/provide/vod/at/json",
       "isAdult": false
     },
     {
@@ -34,23 +24,8 @@
       "isAdult": false
     },
     {
-      "name": "极速资源",
-      "url": "https://jszyapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "红牛资源",
-      "url": "https://www.hongniuzy2.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
       "name": "魔都资源",
       "url": "https://caiji.moduapi.cc/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "豪华资源",
-      "url": "https://hhzyapi.com/api.php/provide/vod/at/json",
       "isAdult": false
     },
     {
@@ -69,18 +44,8 @@
       "isAdult": false
     },
     {
-      "name": "caiji.maotaizy.cc",
-      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/at/json",
-      "isAdult": false
-    },
-    {
       "name": "sdzyapi.com",
       "url": "http://sdzyapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "api.maoyanapi.top",
-      "url": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
       "isAdult": false
     },
     {
@@ -94,18 +59,8 @@
       "isAdult": false
     },
     {
-      "name": "api.ukuapi88.com",
-      "url": "https://api.ukuapi88.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
       "name": "tyyszyapi.com",
       "url": "https://tyyszyapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "www.huyaapi.com",
-      "url": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "isAdult": false
     },
     {
@@ -119,38 +74,8 @@
       "isAdult": false
     },
     {
-      "name": "jyzyapi.com",
-      "url": "https://jyzyapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "www.lovedan.net",
-      "url": "https://www.lovedan.net/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "ffzy.tv",
-      "url": "http://ffzy.tv/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
       "name": "api.wujinapi.me",
       "url": "https://api.wujinapi.me/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "jinyingzy.com",
-      "url": "https://jinyingzy.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "api.ffzyapi.com",
-      "url": "https://api.ffzyapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "360zyzz.com",
-      "url": "https://360zyzz.com/api.php/provide/vod/at/json",
       "isAdult": false
     },
     {
@@ -164,38 +89,8 @@
       "isAdult": false
     },
     {
-      "name": "www.hongniuzy3.com",
-      "url": "https://www.hongniuzy3.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "lovedan.net",
-      "url": "https://lovedan.net/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "cdn.dzzyapi.com",
-      "url": "https://cdn.dzzyapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
       "name": "dadiapi.com",
       "url": "https://dadiapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "yonghu.ffzyapi8.com",
-      "url": "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "maoyanzy.com",
-      "url": "https://maoyanzy.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "subocj.com",
-      "url": "https://subocj.com/api.php/provide/vod/at/json",
       "isAdult": false
     }
   ],
