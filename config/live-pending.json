@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T20:00:00.319Z",
-  "count": 4,
+  "updated": "2026-11-22T20:50:00.176Z",
+  "count": 3,
   "items": [
     {
       "name": "翡翠台",
@@ -22,13 +22,6 @@
       "port": "9901",
       "src": "codebook",
       "reason": "编号表未验证（端口 9901）"
-    },
-    {
-      "name": "辽宁卫视",
-      "url": "http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "port": "8181",
-      "src": "codebook",
-      "reason": "编号表未验证（端口 8181）"
     }
   ]
 }
