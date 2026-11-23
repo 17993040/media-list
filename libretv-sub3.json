@@ -89,11 +89,6 @@
       "isAdult": false
     },
     {
-      "name": "api.ukuapi88.com",
-      "url": "https://api.ukuapi88.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
       "name": "dadiapi.com",
       "url": "https://dadiapi.com/api.php/provide/vod/at/json",
       "isAdult": false
