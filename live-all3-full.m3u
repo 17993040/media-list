@@ -93,6 +93,8 @@ http://120.76.248.139/live/bfgd/4200000110.m3u8
 http://124.90.45.52:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch023" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
 http://112.123.243.37:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch023" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch024" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
 http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch024" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
@@ -229,6 +231,8 @@ http://0.0.0.0:1/void.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ch067" tvg-name="翡翠台" group-title="港澳台",翡翠台
 http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="ch067" tvg-name="翡翠台" group-title="港澳台",翡翠台
+http://120.70.60.179:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch068" tvg-name="明珠台" group-title="港澳台",明珠台
 http://0.0.0.0:1/void.m3u8
 #EXTINF:-1 tvg-id="ch069" tvg-name="无线新闻台" group-title="港澳台",无线新闻台
@@ -254,8 +258,12 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="ch078" tvg-name="黑龙江少儿频道" group-title="体育娱乐",黑龙江少儿频道
 https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 #EXTINF:-1 tvg-id="ch078" tvg-name="黑龙江少儿频道" group-title="体育娱乐",黑龙江少儿频道
+http://120.70.60.179:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="ch078" tvg-name="黑龙江少儿频道" group-title="体育娱乐",黑龙江少儿频道
 http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch079" tvg-name="CHC电影" group-title="体育娱乐",CHC电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch079" tvg-name="CHC电影" group-title="体育娱乐",CHC电影
+http://120.70.60.179:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch080" tvg-name="梨园" group-title="体育娱乐",梨园
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
