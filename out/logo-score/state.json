@@ -1,24 +1,16 @@
 {
- "updated": "2026-11-23T20:57:50Z",
- "checked": 2,
- "autoPass": 1,
+ "updated": "2026-11-24T20:59:18Z",
+ "checked": 0,
+ "autoPass": 0,
  "recheck": 0,
- "reject": 1,
+ "reject": 0,
  "error": 0,
- "promoted": [
-  "CCTV-5+"
- ],
- "rejectDetail": [
-  {
-   "expect": "翡翠台",
-   "real": "长春娱乐-2",
-   "url": "http://222.169.85.8:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0"
-  }
- ],
+ "promoted": [],
+ "rejectDetail": [],
  "recheckDetail": [],
  "sheet": "",
  "frames": [],
  "ocr": true,
- "unknown": 1,
- "seconds": 33
+ "unknown": 0,
+ "seconds": 0
 }

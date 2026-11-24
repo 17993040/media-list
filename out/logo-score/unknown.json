@@ -1,16 +1,5 @@
 {
- "updated": "2026-11-23T20:57:50Z",
- "count": 1,
- "items": [
-  {
-   "name": "翡翠台",
-   "url": "http://222.169.85.8:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
-   "sort": "wrong",
-   "real": "长春娱乐-2",
-   "reason": "明确读出台名:长春娱乐-2",
-   "tried": "sdt",
-   "host": "222.169.85.8:9901",
-   "code": "1004"
-  }
- ]
+ "updated": "2026-11-24T20:59:18Z",
+ "count": 0,
+ "items": []
 }
