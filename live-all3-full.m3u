@@ -3,6 +3,8 @@
 http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch001" tvg-name="CCTV-1" group-title="央视台",CCTV-1
 http://112.123.243.37:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch001" tvg-name="CCTV-1" group-title="央视台",CCTV-1
+http://121.9.14.195:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch002" tvg-name="CCTV-2" group-title="央视台",CCTV-2
 http://112.123.243.37:50085/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch002" tvg-name="CCTV-2" group-title="央视台",CCTV-2
@@ -13,10 +15,14 @@ http://124.165.251.82:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://222.223.41.27:8888/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="ch003" tvg-name="CCTV-3" group-title="央视台",CCTV-3
 http://112.123.243.37:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch003" tvg-name="CCTV-3" group-title="央视台",CCTV-3
+http://121.9.14.195:50085/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch004" tvg-name="CCTV-4" group-title="央视台",CCTV-4
 http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
 #EXTINF:-1 tvg-id="ch004" tvg-name="CCTV-4" group-title="央视台",CCTV-4
 http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch004" tvg-name="CCTV-4" group-title="央视台",CCTV-4
+http://121.9.14.195:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch005" tvg-name="CCTV-5" group-title="央视台",CCTV-5
 http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch005" tvg-name="CCTV-5" group-title="央视台",CCTV-5
@@ -27,16 +33,24 @@ http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.7.175.154:8445/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch007" tvg-name="CCTV-6" group-title="央视台",CCTV-6
 http://112.123.243.37:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch007" tvg-name="CCTV-6" group-title="央视台",CCTV-6
+http://121.9.14.195:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch008" tvg-name="CCTV-7" group-title="央视台",CCTV-7
 http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch008" tvg-name="CCTV-7" group-title="央视台",CCTV-7
 http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch008" tvg-name="CCTV-7" group-title="央视台",CCTV-7
+http://121.9.14.195:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch009" tvg-name="CCTV-8" group-title="央视台",CCTV-8
 http://221.7.175.154:8445/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch009" tvg-name="CCTV-8" group-title="央视台",CCTV-8
 http://112.123.243.37:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch009" tvg-name="CCTV-8" group-title="央视台",CCTV-8
+http://121.9.14.195:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch010" tvg-name="CCTV-9" group-title="央视台",CCTV-9
 http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch010" tvg-name="CCTV-9" group-title="央视台",CCTV-9
+http://121.9.14.195:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch011" tvg-name="CCTV-10" group-title="央视台",CCTV-10
 http://221.7.175.154:8445/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch011" tvg-name="CCTV-10" group-title="央视台",CCTV-10
@@ -51,12 +65,16 @@ http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.243.37:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch012" tvg-name="CCTV-11" group-title="央视台",CCTV-11
 http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="ch012" tvg-name="CCTV-11" group-title="央视台",CCTV-11
+http://121.9.14.195:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch013" tvg-name="CCTV-12" group-title="央视台",CCTV-12
 http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch013" tvg-name="CCTV-12" group-title="央视台",CCTV-12
 http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch013" tvg-name="CCTV-12" group-title="央视台",CCTV-12
 http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="ch013" tvg-name="CCTV-12" group-title="央视台",CCTV-12
+http://121.9.14.195:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch014" tvg-name="CCTV-13" group-title="央视台",CCTV-13
 http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch014" tvg-name="CCTV-13" group-title="央视台",CCTV-13
@@ -69,6 +87,8 @@ http://124.165.251.82:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.7.175.154:8445/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch015" tvg-name="CCTV-14" group-title="央视台",CCTV-14
 http://112.123.243.37:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch015" tvg-name="CCTV-14" group-title="央视台",CCTV-14
+http://121.9.14.195:50085/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch016" tvg-name="CCTV-15" group-title="央视台",CCTV-15
 http://120.40.39.246:352/newlive/live/hls/16/live.m3u8
 #EXTINF:-1 tvg-id="ch016" tvg-name="CCTV-15" group-title="央视台",CCTV-15
@@ -129,8 +149,6 @@ http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&au
 http://124.90.45.52:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch032" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="ch032" tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://219.145.59.166:8888/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch033" tvg-name="河南卫视" group-title="卫视频道",河南卫视
 http://124.90.45.52:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch034" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
@@ -154,9 +172,9 @@ http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid
 #EXTINF:-1 tvg-id="ch037" tvg-name="广西卫视" group-title="卫视频道",广西卫视
 http://112.27.5.218:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch038" tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://120.76.248.139/live/bfgd/4200000473.m3u8
-#EXTINF:-1 tvg-id="ch038" tvg-name="海南卫视" group-title="卫视频道",海南卫视
 http://fuxin.yunjifei.top:999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="ch038" tvg-name="海南卫视" group-title="卫视频道",海南卫视
+http://120.76.248.139/live/bfgd/4200000473.m3u8
 #EXTINF:-1 tvg-id="ch039" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch040" tvg-name="四川卫视" group-title="卫视频道",四川卫视
@@ -173,8 +191,6 @@ http://112.27.5.218:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.136.38.87:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch045" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
 http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="ch045" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-http://219.145.59.166:8888/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch046" tvg-name="青海卫视" group-title="卫视频道",青海卫视
 http://124.90.45.52:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch046" tvg-name="青海卫视" group-title="卫视频道",青海卫视
@@ -259,8 +275,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 #EXTINF:-1 tvg-id="ch078" tvg-name="黑龙江少儿频道" group-title="体育娱乐",黑龙江少儿频道
 http://120.70.60.179:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="ch078" tvg-name="黑龙江少儿频道" group-title="体育娱乐",黑龙江少儿频道
-http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch079" tvg-name="CHC电影" group-title="体育娱乐",CHC电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch079" tvg-name="CHC电影" group-title="体育娱乐",CHC电影

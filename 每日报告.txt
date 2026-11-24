@@ -1,17 +1,20 @@
 # 影视源每日报告
 
-- 生成时间：2026-11-24 06:17:40 北京时间
+- 生成时间：2026-11-25 06:25:07 北京时间
 - 直播 77 台（有源 66 / 待补 11 / 华为云已测 59）
-- 清单条目：主线 77 条 / 全量 134 条
+- 清单条目：主线 77 条 / 全量 141 条
+
+## 换线
+海南卫视
 
 ## 体育娱乐（动态组）
 - 金鹰卡通：有源，备线 2 条，云端顶上
 - 浙江少儿：有源，备线 2 条，少儿
-- 黑龙江少儿频道：有源，备线 2 条，少儿
+- 黑龙江少儿频道：有源，备线 1 条，少儿
 - CHC电影：有源，备线 1 条，云端连续判死 1 轮
 - 梨园：有源，备线 0 条，戏曲·签名会过期
 
-## 点播站（20 个，通过 19）
+## 点播站（20 个，通过 20）
 - OK 建安采集：api-page
 - OK 天涯资源：m3u8-alive（已验证出片）
 - OK 百度资源：m3u8-alive（已验证出片）
@@ -29,29 +32,26 @@
 - OK api.wujinapi.me：m3u8-alive（已验证出片）
 - OK www.iqiyizyapi.com：m3u8-alive（已验证出片）
 - OK api.wujinapi.cc：m3u8-alive（已验证出片）
-- XX api.ukuapi88.com：m3u8-dead:head
 - OK dadiapi.com：m3u8-alive（已验证出片）
+- OK api.ukuapi88.com：m3u8-alive（已验证出片）
 - OK 魔都资源（直链）：m3u8-alive（已验证出片）
 
-### 本轮剔除
-https://api.ukuapi88.com/api.php/provide/vod/at/json
-
 ## 全部台状态
-- [央视台] CCTV-1：主线有，备线 1，cloud=ok
+- [央视台] CCTV-1：主线有，备线 2，cloud=ok
 - [央视台] CCTV-2：主线有，备线 2，cloud=ok
-- [央视台] CCTV-3：主线有，备线 1，cloud=ok
-- [央视台] CCTV-4：主线有，备线 1，cloud=ok
+- [央视台] CCTV-3：主线有，备线 2，cloud=ok
+- [央视台] CCTV-4：主线有，备线 2，cloud=ok
 - [央视台] CCTV-5：主线有，备线 1，cloud=ok
 - [央视台] CCTV-5+：主线有，备线 0，cloud=ok
-- [央视台] CCTV-6：主线有，备线 1，cloud=ok
-- [央视台] CCTV-7：主线有，备线 1，cloud=ok
-- [央视台] CCTV-8：主线有，备线 1，cloud=ok
-- [央视台] CCTV-9：主线有，备线 0，cloud=ok
+- [央视台] CCTV-6：主线有，备线 2，cloud=ok
+- [央视台] CCTV-7：主线有，备线 2，cloud=ok
+- [央视台] CCTV-8：主线有，备线 2，cloud=ok
+- [央视台] CCTV-9：主线有，备线 1，cloud=ok
 - [央视台] CCTV-10：主线有，备线 3，cloud=ok
-- [央视台] CCTV-11：主线有，备线 2，cloud=ok
-- [央视台] CCTV-12：主线有，备线 2，cloud=ok
+- [央视台] CCTV-11：主线有，备线 3，cloud=ok
+- [央视台] CCTV-12：主线有，备线 3，cloud=ok
 - [央视台] CCTV-13：主线有，备线 3，cloud=ok
-- [央视台] CCTV-14：主线有，备线 1，cloud=ok
+- [央视台] CCTV-14：主线有，备线 2，cloud=ok
 - [央视台] CCTV-15：主线有，备线 1，cloud=ok
 - [央视台] CCTV-17：主线有，备线 0，cloud=fail，〔待补〕
 - [卫视频道] 北京卫视：主线有，备线 0，cloud=ok
@@ -68,20 +68,20 @@ https://api.ukuapi88.com/api.php/provide/vod/at/json
 - [卫视频道] 安徽卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 东南卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 江西卫视：主线有，备线 0，cloud=ok
-- [卫视频道] 山东卫视：主线有，备线 2，cloud=ok
+- [卫视频道] 山东卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 河南卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 湖北卫视：主线有，备线 1，cloud=ok，实测改判
 - [卫视频道] 湖南卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 广东卫视：主线有，备线 3，cloud=ok，实测改判
 - [卫视频道] 广西卫视：主线有，备线 1，cloud=ok，实测改判
-- [卫视频道] 海南卫视：主线有，备线 1，cloud=ok，华为云顶上
+- [卫视频道] 海南卫视：主线有，备线 1，cloud=fail，华为云顶上
 - [卫视频道] 重庆卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 四川卫视：主线有，备线 0，cloud=ok，华为云顶上
 - [卫视频道] 贵州卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 云南卫视：主线有，备线 0，cloud=fail，〔待补〕
 - [卫视频道] 西藏卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 陕西卫视：主线有，备线 1，cloud=fail
-- [卫视频道] 甘肃卫视：主线有，备线 1，cloud=ok
+- [卫视频道] 甘肃卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 青海卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 宁夏卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 新疆卫视：主线有，备线 0，cloud=ok
@@ -90,7 +90,7 @@ https://api.ukuapi88.com/api.php/provide/vod/at/json
 - [港澳台] 东森超视：主线有，备线 1，cloud=ok
 - [港澳台] 东森美洲：主线有，备线 0，cloud=ok
 - [港澳台] 东森新闻：主线无，备线 0，cloud=untested，无可用源
-- [港澳台] 中视：主线有，备线 0，cloud=fail，本次未通过，保留观察 1/3｜待补
+- [港澳台] 中视：主线有，备线 0，cloud=ok，本次未通过，保留观察 1/3
 - [港澳台] 中天新闻：主线无，备线 0，cloud=untested，无可用源
 - [港澳台] 台视新闻：主线有，备线 1，cloud=ok，华为云顶上
 - [港澳台] 民视新闻台：主线有，备线 0，cloud=ok，本次未通过，保留观察 1/3
@@ -111,6 +111,6 @@ https://api.ukuapi88.com/api.php/provide/vod/at/json
 - [港澳台] 澳视：主线无，备线 0，cloud=untested，无可用源
 - [体育娱乐] 金鹰卡通：主线有，备线 2，cloud=ok，云端顶上
 - [体育娱乐] 浙江少儿：主线有，备线 2，cloud=ok，少儿
-- [体育娱乐] 黑龙江少儿频道：主线有，备线 2，cloud=ok，少儿
+- [体育娱乐] 黑龙江少儿频道：主线有，备线 1，cloud=ok，少儿
 - [体育娱乐] CHC电影：主线有，备线 1，cloud=ok，云端连续判死 1 轮
 - [体育娱乐] 梨园：主线有，备线 0，cloud=ok，戏曲·签名会过期
