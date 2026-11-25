@@ -1,5 +1,27 @@
 {
-  "updated": "2026-11-25T20:00:00.181Z",
-  "count": 0,
-  "items": []
+  "updated": "2026-11-25T20:50:00.392Z",
+  "count": 3,
+  "items": [
+    {
+      "name": "山东卫视",
+      "url": "http://219.145.59.166:8888/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "port": "8888",
+      "src": "moved-from-backup",
+      "reason": "编号表未验证（端口 8888）"
+    },
+    {
+      "name": "甘肃卫视",
+      "url": "http://219.145.59.166:8888/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "port": "8888",
+      "src": "moved-from-backup",
+      "reason": "编号表未验证（端口 8888）"
+    },
+    {
+      "name": "黑龙江少儿频道",
+      "url": "http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "port": "9901",
+      "src": "moved-from-backup",
+      "reason": "编号表未验证（端口 9901）"
+    }
+  ]
 }
