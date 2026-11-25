@@ -72,16 +72,6 @@
       "ext": ""
     },
     {
-      "key": "cjyaya",
-      "name": "cj.yayazy.net",
-      "type": 1,
-      "api": "https://cj.yayazy.net/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
       "key": "sdzyap",
       "name": "sdzyapi.com",
       "type": 1,
@@ -176,6 +166,16 @@
       "name": "dadiapi.com",
       "type": 1,
       "api": "https://dadiapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "apiuku",
+      "name": "api.ukuapi88.com",
+      "type": 1,
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
