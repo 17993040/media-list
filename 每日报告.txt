@@ -1,8 +1,8 @@
 # 影视源每日报告
 
-- 生成时间：2026-11-25 06:25:07 北京时间
-- 直播 77 台（有源 66 / 待补 11 / 华为云已测 59）
-- 清单条目：主线 77 条 / 全量 141 条
+- 生成时间：2026-11-26 06:24:04 北京时间
+- 直播 77 台（有源 66 / 待补 11 / 华为云已测 60）
+- 清单条目：主线 77 条 / 全量 143 条
 
 ## 换线
 海南卫视
@@ -14,7 +14,7 @@
 - CHC电影：有源，备线 1 条，云端连续判死 1 轮
 - 梨园：有源，备线 0 条，戏曲·签名会过期
 
-## 点播站（20 个，通过 20）
+## 点播站（19 个，通过 18）
 - OK 建安采集：api-page
 - OK 天涯资源：m3u8-alive（已验证出片）
 - OK 百度资源：m3u8-alive（已验证出片）
@@ -22,7 +22,7 @@
 - OK 魔都资源：m3u8-alive（已验证出片）
 - OK 无尽资源：m3u8-alive（已验证出片）
 - OK slapibf：m3u8-alive（已验证出片）
-- OK cj.yayazy.net：m3u8-alive（已验证出片）
+- XX cj.yayazy.net：m3u8-dead:head
 - OK sdzyapi.com：m3u8-alive（已验证出片）
 - OK api.niuniuzy.me：m3u8-alive（已验证出片）
 - OK api.okzyw.net：m3u8-alive（已验证出片）
@@ -33,8 +33,10 @@
 - OK www.iqiyizyapi.com：m3u8-alive（已验证出片）
 - OK api.wujinapi.cc：m3u8-alive（已验证出片）
 - OK dadiapi.com：m3u8-alive（已验证出片）
-- OK api.ukuapi88.com：m3u8-alive（已验证出片）
 - OK 魔都资源（直链）：m3u8-alive（已验证出片）
+
+### 本轮剔除
+https://cj.yayazy.net/api.php/provide/vod/at/json
 
 ## 全部台状态
 - [央视台] CCTV-1：主线有，备线 2，cloud=ok
@@ -42,7 +44,7 @@
 - [央视台] CCTV-3：主线有，备线 2，cloud=ok
 - [央视台] CCTV-4：主线有，备线 2，cloud=ok
 - [央视台] CCTV-5：主线有，备线 1，cloud=ok
-- [央视台] CCTV-5+：主线有，备线 0，cloud=ok
+- [央视台] CCTV-5+：主线有，备线 1，cloud=ok
 - [央视台] CCTV-6：主线有，备线 2，cloud=ok
 - [央视台] CCTV-7：主线有，备线 2，cloud=ok
 - [央视台] CCTV-8：主线有，备线 2，cloud=ok
@@ -74,7 +76,7 @@
 - [卫视频道] 湖南卫视：主线有，备线 1，cloud=ok
 - [卫视频道] 广东卫视：主线有，备线 3，cloud=ok，实测改判
 - [卫视频道] 广西卫视：主线有，备线 1，cloud=ok，实测改判
-- [卫视频道] 海南卫视：主线有，备线 1，cloud=fail，华为云顶上
+- [卫视频道] 海南卫视：主线有，备线 1，cloud=ok，华为云顶上
 - [卫视频道] 重庆卫视：主线有，备线 0，cloud=ok
 - [卫视频道] 四川卫视：主线有，备线 0，cloud=ok，华为云顶上
 - [卫视频道] 贵州卫视：主线有，备线 0，cloud=ok
@@ -103,7 +105,7 @@
 - [港澳台] Now70s：主线有，备线 0，cloud=ok
 - [港澳台] Now90s：主线无，备线 0，cloud=untested，无可用源
 - [港澳台] NowRock：主线有，备线 0，cloud=ok
-- [港澳台] 翡翠台：主线有，备线 1，cloud=ok，华为云顶上
+- [港澳台] 翡翠台：主线有，备线 2，cloud=ok，华为云顶上
 - [港澳台] 明珠台：主线无，备线 0，cloud=untested，无可用源
 - [港澳台] 无线新闻台：主线无，备线 0，cloud=untested，无可用源
 - [港澳台] ViuTV：主线无，备线 0，cloud=untested，无可用源
