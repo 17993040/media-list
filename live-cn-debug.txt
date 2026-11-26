@@ -1,1 +1,1 @@
-# 2026-11-27 03:20:06 +0800 urls all=1191 mine=1191 out=live-cn-ok-bj.txt
+# 2026-11-27 03:22:15 +0800 write code=0 err=neterr:dns-timeout tested=1191 ok=14
