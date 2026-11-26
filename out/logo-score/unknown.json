@@ -1,26 +1,5 @@
 {
- "updated": "2026-11-25T21:01:07Z",
- "count": 2,
- "items": [
-  {
-   "name": "甘肃卫视",
-   "url": "http://219.145.59.166:8888/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0",
-   "sort": "wrong",
-   "real": "䝡湓甠卄",
-   "reason": "明确读出台名:䝡湓甠卄",
-   "tried": "sdt",
-   "host": "219.145.59.166:8888",
-   "code": "1048"
-  },
-  {
-   "name": "黑龙江少儿频道",
-   "url": "http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
-   "sort": "wrong",
-   "real": "\u0015江苏卫视\u0000",
-   "reason": "明确读出台名:\u0015江苏卫视\u0000",
-   "tried": "sdt",
-   "host": "112.99.193.34:9901",
-   "code": "1030"
-  }
- ]
+ "updated": "2026-11-26T21:00:06Z",
+ "count": 0,
+ "items": []
 }
