@@ -151,6 +151,8 @@ http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&au
 http://124.90.45.52:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch032" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch032" tvg-name="山东卫视" group-title="卫视频道",山东卫视
+http://219.145.59.166:8888/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch033" tvg-name="河南卫视" group-title="卫视频道",河南卫视
 http://124.90.45.52:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch034" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
@@ -193,6 +195,8 @@ http://112.27.5.218:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.136.38.87:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch045" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
 http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="ch045" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
+http://219.145.59.166:8888/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch046" tvg-name="青海卫视" group-title="卫视频道",青海卫视
 http://124.90.45.52:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch046" tvg-name="青海卫视" group-title="卫视频道",青海卫视
@@ -279,6 +283,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 #EXTINF:-1 tvg-id="ch078" tvg-name="黑龙江少儿频道" group-title="体育娱乐",黑龙江少儿频道
 http://120.70.60.179:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="ch078" tvg-name="黑龙江少儿频道" group-title="体育娱乐",黑龙江少儿频道
+http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="ch079" tvg-name="CHC电影" group-title="体育娱乐",CHC电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="ch079" tvg-name="CHC电影" group-title="体育娱乐",CHC电影
