@@ -1,5 +1,13 @@
 {
-  "updated": "2026-11-26T20:50:00.218Z",
-  "count": 0,
-  "items": []
+  "updated": "2026-11-27T20:00:00.159Z",
+  "count": 1,
+  "items": [
+    {
+      "name": "翡翠台",
+      "url": "http://112.27.5.218:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "port": "9901",
+      "src": "codebook",
+      "reason": "编号表未验证（端口 9901）"
+    }
+  ]
 }
